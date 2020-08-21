@@ -202,10 +202,10 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cY
 * https://github.com/klinix5/Windows-Setup-EoP
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EfecU71XgAEhSua.jpg](pictures/http+++pbs.twimg.com+media+EfecU71XgAEhSua.jpg)</td>
-<td>![http://pbs.twimg.com/media/EfecU78XsAAm673.jpg](pictures/http+++pbs.twimg.com+media+EfecU78XsAAm673.jpg)</td>
-<td>![http://pbs.twimg.com/media/EfecU79XYAAKwC7.jpg](pictures/http+++pbs.twimg.com+media+EfecU79XYAAKwC7.jpg)</td>
-<td>![http://pbs.twimg.com/media/EfecU8AXYAEtB2o.jpg](pictures/http+++pbs.twimg.com+media+EfecU8AXYAEtB2o.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfecU71XgAEhSua.jpg" alt="http://pbs.twimg.com/media/EfecU71XgAEhSua.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfecU78XsAAm673.jpg" alt="http://pbs.twimg.com/media/EfecU78XsAAm673.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfecU79XYAAKwC7.jpg" alt="http://pbs.twimg.com/media/EfecU79XYAAKwC7.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfecU8AXYAEtB2o.jpg" alt="http://pbs.twimg.com/media/EfecU8AXYAEtB2o.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>2</code></td>
@@ -224,10 +224,10 @@ Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-
 * https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/Efb6uxIXoAEj7ix.jpg](pictures/http+++pbs.twimg.com+media+Efb6uxIXoAEj7ix.jpg)</td>
-<td>![http://pbs.twimg.com/media/Efb6uw6WsAEOGBZ.jpg](pictures/http+++pbs.twimg.com+media+Efb6uw6WsAEOGBZ.jpg)</td>
-<td>![http://pbs.twimg.com/media/Efb6uwsWkAAXDJL.png](pictures/http+++pbs.twimg.com+media+Efb6uwsWkAAXDJL.png)</td>
-<td>![http://pbs.twimg.com/media/Efb6uw4WAAAQ95F.png](pictures/http+++pbs.twimg.com+media+Efb6uw4WAAAQ95F.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Efb6uxIXoAEj7ix.jpg" alt="http://pbs.twimg.com/media/Efb6uxIXoAEj7ix.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Efb6uw6WsAEOGBZ.jpg" alt="http://pbs.twimg.com/media/Efb6uw6WsAEOGBZ.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Efb6uwsWkAAXDJL.png" alt="http://pbs.twimg.com/media/Efb6uwsWkAAXDJL.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Efb6uw4WAAAQ95F.png" alt="http://pbs.twimg.com/media/Efb6uw4WAAAQ95F.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -302,7 +302,7 @@ Advisory: https://t.co/Nsc5X1cc5m
 * https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1530
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EfPSAjEUEAAovny.jpg](pictures/http+++pbs.twimg.com+media+EfPSAjEUEAAovny.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfPSAjEUEAAovny.jpg" alt="http://pbs.twimg.com/media/EfPSAjEUEAAovny.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>5</code></td>
@@ -323,7 +323,7 @@ And a visualization of the ASLR bypass #3 mentioned in the post is shown in the 
 * https://github.com/googleprojectzero/SkCodecFuzzer/tree/master/mms_exploit
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/EfO87_UX0AEuQPG.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+EfO87_UX0AEuQPG.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EfO87_UX0AEuQPG.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EfO87_UX0AEuQPG.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>0</code></td>
@@ -359,7 +359,7 @@ Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE
 * http://dlvr.it/RdVJPR
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EfN8bf0UMAAlG7j.png](pictures/http+++pbs.twimg.com+media+EfN8bf0UMAAlG7j.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfN8bf0UMAAlG7j.png" alt="http://pbs.twimg.com/media/EfN8bf0UMAAlG7j.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>0</code></td>
@@ -401,8 +401,8 @@ Apache Tomcat RCE by deserialization (CVE-2020-9484) – write-up and exploit  h
 * https://www.redtimmy.com/java-hacking/apache-tomcat-rce-by-deserialization-cve-2020-9484-write-up-and-exploit/
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EfMce2sXoAAyTH-.jpg](pictures/http+++pbs.twimg.com+media+EfMce2sXoAAyTH-.jpg)</td>
-<td>![http://pbs.twimg.com/media/EfMce2RXgAE_fgI.jpg](pictures/http+++pbs.twimg.com+media+EfMce2RXgAE_fgI.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfMce2sXoAAyTH-.jpg" alt="http://pbs.twimg.com/media/EfMce2sXoAAyTH-.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EfMce2RXgAE_fgI.jpg" alt="http://pbs.twimg.com/media/EfMce2RXgAE_fgI.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>4</code></td>
@@ -594,7 +594,7 @@ https://t.co/SDqIfhDz8m https://t.co/UzSZxH5TDL
 * https://github.com/TrapaSecurity/presentations/raw/master/us-20-Chao-Breaking-Samsung's-Root-of-Trust-Exploiting-Samsung-Secure-Boot.pdf
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/Eet-QklXsAAWYgz.png](pictures/http+++pbs.twimg.com+media+Eet-QklXsAAWYgz.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Eet-QklXsAAWYgz.png" alt="http://pbs.twimg.com/media/Eet-QklXsAAWYgz.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -620,7 +620,7 @@ https://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM
 * https://github.com/lucxssouza/CVE-2020-13886
 
 <table><tr>
-<td>![http://pbs.twimg.com/ext_tw_video_thumb/1291184230123225088/pu/img/mUIZDKZEb_EvlhfO.jpg](pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1291184230123225088+pu+img+mUIZDKZEb_EvlhfO.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1291184230123225088+pu+img+mUIZDKZEb_EvlhfO.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1291184230123225088/pu/img/mUIZDKZEb_EvlhfO.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -641,7 +641,7 @@ https://t.co/k7nAYfAZeu https://t.co/wrC0VHol3f
 * https://github.com/maddiestone/ConPresentations/blob/master/BH2020.ReversingTheRoot.pdf
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/Eer-DUWUYAAD5ki.png](pictures/http+++pbs.twimg.com+media+Eer-DUWUYAAD5ki.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Eer-DUWUYAAD5ki.png" alt="http://pbs.twimg.com/media/Eer-DUWUYAAD5ki.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>8</code></td>
@@ -691,7 +691,7 @@ I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a ni
 
 
 <table><tr>
-<td>![http://pbs.twimg.com/ext_tw_video_thumb/1290687507718316033/pu/img/WF9YeFGyYWf0aIt0.jpg](pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1290687507718316033+pu+img+WF9YeFGyYWf0aIt0.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1290687507718316033+pu+img+WF9YeFGyYWf0aIt0.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1290687507718316033/pu/img/WF9YeFGyYWf0aIt0.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -726,10 +726,10 @@ I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a ni
 * https://blog.vincss.net/2020/06/cve49-microsoft-windows-lnk-remote-code-execution-vuln-cve-2020-1299-eng.html
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EeX0UDGWkAU2HUs.png](pictures/http+++pbs.twimg.com+media+EeX0UDGWkAU2HUs.png)</td>
-<td>![http://pbs.twimg.com/media/EeX0UC5XsAEW7Wl.png](pictures/http+++pbs.twimg.com+media+EeX0UC5XsAEW7Wl.png)</td>
-<td>![http://pbs.twimg.com/media/EeX0UC6XsAAt_wH.png](pictures/http+++pbs.twimg.com+media+EeX0UC6XsAAt_wH.png)</td>
-<td>![http://pbs.twimg.com/media/EeX0UDIXoAA04zX.png](pictures/http+++pbs.twimg.com+media+EeX0UDIXoAA04zX.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EeX0UDGWkAU2HUs.png" alt="http://pbs.twimg.com/media/EeX0UDGWkAU2HUs.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EeX0UC5XsAEW7Wl.png" alt="http://pbs.twimg.com/media/EeX0UC5XsAEW7Wl.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EeX0UC6XsAAt_wH.png" alt="http://pbs.twimg.com/media/EeX0UC6XsAAt_wH.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EeX0UDIXoAA04zX.png" alt="http://pbs.twimg.com/media/EeX0UDIXoAA04zX.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>3</code></td>
@@ -805,7 +805,7 @@ https://t.co/9eXHQF2x3u https://t.co/W5Gp2tEhBI
 * https://github.com/duc-nt/CVE-2020-6287-exploit
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EdZA41PUEAAcE8Q.png](pictures/http+++pbs.twimg.com+media+EdZA41PUEAAcE8Q.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EdZA41PUEAAcE8Q.png" alt="http://pbs.twimg.com/media/EdZA41PUEAAcE8Q.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>3</code></td>
@@ -873,7 +873,7 @@ https://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm
 * https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_exploit_cve_2020_1350.yml
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/Ec9NS_kWAAA4zlg.png](pictures/http+++pbs.twimg.com+media+Ec9NS_kWAAA4zlg.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Ec9NS_kWAAA4zlg.png" alt="http://pbs.twimg.com/media/Ec9NS_kWAAA4zlg.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>5</code></td>
@@ -960,7 +960,7 @@ https://t.co/3Ete09oVP6 https://t.co/zBAfdIZBa2
 * https://github.com/dunderhay/CVE-2020-5902
 
 <table><tr>
-<td>![http://pbs.twimg.com/ext_tw_video_thumb/1280008539675652097/pu/img/GB2JRVDN6Qj7w-uM.jpg](pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1280008539675652097+pu+img+GB2JRVDN6Qj7w-uM.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1280008539675652097+pu+img+GB2JRVDN6Qj7w-uM.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1280008539675652097/pu/img/GB2JRVDN6Qj7w-uM.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>12</code></td>
@@ -1023,9 +1023,9 @@ Rules to detect exploitation of #F5 BIG-IP TMUI #vulnerability (#CVE-2020-5902)
 * https://pastebin.com/2PbtrJ28
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EcKoyq1WoAIrhYn.jpg](pictures/http+++pbs.twimg.com+media+EcKoyq1WoAIrhYn.jpg)</td>
-<td>![http://pbs.twimg.com/media/EcKo20PXkAARIsh.png](pictures/http+++pbs.twimg.com+media+EcKo20PXkAARIsh.png)</td>
-<td>![http://pbs.twimg.com/media/EcKpK6-X0AEr181.jpg](pictures/http+++pbs.twimg.com+media+EcKpK6-X0AEr181.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EcKoyq1WoAIrhYn.jpg" alt="http://pbs.twimg.com/media/EcKoyq1WoAIrhYn.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EcKo20PXkAARIsh.png" alt="http://pbs.twimg.com/media/EcKo20PXkAARIsh.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EcKpK6-X0AEr181.jpg" alt="http://pbs.twimg.com/media/EcKpK6-X0AEr181.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>7</code></td>
@@ -1064,7 +1064,7 @@ CVE-2020-10665 Docker Desktop Local Privilege Escalation  https://t.co/x2tFjum5d
 * https://github.com/spaceraccoon/CVE-2020-10665
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/EbiOaqPXQAIg7K4.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+EbiOaqPXQAIg7K4.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EbiOaqPXQAIg7K4.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EbiOaqPXQAIg7K4.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1083,7 +1083,7 @@ Wrote the first public exploit of CVE-2020-10665 Docker Desktop Local Privilege 
 * https://github.com/spaceraccoon/CVE-2020-10665
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/EbWzoB9VcAEXW0U.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+EbWzoB9VcAEXW0U.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EbWzoB9VcAEXW0U.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EbWzoB9VcAEXW0U.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1137,7 +1137,7 @@ https://t.co/A1KkMmCzf0 https://t.co/al3Ar5J20x
 * https://github.com/offensive-security/exploitdb-bin-sploits/raw/master/bin-sploits/48537.zip
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EZgDbaRWAAA_Bvb.png](pictures/http+++pbs.twimg.com+media+EZgDbaRWAAA_Bvb.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EZgDbaRWAAA_Bvb.png" alt="http://pbs.twimg.com/media/EZgDbaRWAAA_Bvb.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1192,7 +1192,7 @@ https://t.co/lhmRDoa5M4
 * https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EYy-tZmXgAAaosW.png](pictures/http+++pbs.twimg.com+media+EYy-tZmXgAAaosW.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EYy-tZmXgAAaosW.png" alt="http://pbs.twimg.com/media/EYy-tZmXgAAaosW.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>4</code></td>
@@ -1215,7 +1215,7 @@ https://t.co/tBbL7yFbmb https://t.co/vk5vCBgBZS
 * https://github.com/AndreyRainchik/CVE-2020-8816
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/EXtC7qmU0AAf3IZ.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+EXtC7qmU0AAf3IZ.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EXtC7qmU0AAf3IZ.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EXtC7qmU0AAf3IZ.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1292,8 +1292,8 @@ https://t.co/xvEip0RYD6 https://t.co/9F3NQNRVXU
 * https://github.com/danigargu/CVE-2020-0796
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EUblBF9U0AEX4Y6.png](pictures/http+++pbs.twimg.com+media+EUblBF9U0AEX4Y6.png)</td>
-<td>![http://pbs.twimg.com/media/EUblCQUU4AAZfHt.png](pictures/http+++pbs.twimg.com+media+EUblCQUU4AAZfHt.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EUblBF9U0AEX4Y6.png" alt="http://pbs.twimg.com/media/EUblBF9U0AEX4Y6.png"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EUblCQUU4AAZfHt.png" alt="http://pbs.twimg.com/media/EUblCQUU4AAZfHt.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1324,7 +1324,7 @@ https://t.co/LNwM4dSZ0G https://t.co/hz4V8ESPMv
 * https://thehackernews.com/2020/03/patch-wormable-smb-vulnerability.html
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/EUXS54iUYAAfRaF.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+EUXS54iUYAAfRaF.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EUXS54iUYAAfRaF.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EUXS54iUYAAfRaF.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>8</code></td>
@@ -1360,7 +1360,7 @@ We're releasing the exploit code at https://t.co/lKsy4dBkpp https://t.co/YJuQk7Y
 * https://github.com/danigargu/CVE-2020-0796
 
 <table><tr>
-<td>![http://pbs.twimg.com/ext_tw_video_thumb/1244604992876576769/pu/img/ug6q65uoEuy6GF9c.jpg](pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1244604992876576769+pu+img+ug6q65uoEuy6GF9c.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1244604992876576769+pu+img+ug6q65uoEuy6GF9c.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1244604992876576769/pu/img/ug6q65uoEuy6GF9c.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>13</code></td>
@@ -1406,7 +1406,7 @@ https://t.co/zDu2m9gJnh https://t.co/FeCBMcnaPv
 * https://github.com/euphrat1ca/CVE-2020-0618
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/ERCsE7XVUAY7Bwd.png](pictures/http+++pbs.twimg.com+media+ERCsE7XVUAY7Bwd.png)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+ERCsE7XVUAY7Bwd.png" alt="http://pbs.twimg.com/media/ERCsE7XVUAY7Bwd.png"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>9</code></td>
@@ -1479,7 +1479,7 @@ Here is an exploit for LPE CVE-2019-1184 in case anybody else is interested in t
 * https://github.com/0vercl0k/stuffz/blob/master/CVE-2019-1184/CVE-2019-1184.cc
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/ENX_1JmU4AEQX3H.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+ENX_1JmU4AEQX3H.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+ENX_1JmU4AEQX3H.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/ENX_1JmU4AEQX3H.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>5</code></td>
@@ -1505,7 +1505,7 @@ poc: https://t.co/mtChbxVDrw https://t.co/zp7EK2cmu3
 * https://github.com/masahiro331/CVE-2019-10758
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/ENR8PShUcAIZcD4.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+ENR8PShUcAIZcD4.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+ENR8PShUcAIZcD4.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/ENR8PShUcAIZcD4.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>4</code></td>
@@ -1524,7 +1524,7 @@ Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and
 * https://github.com/0vercl0k/CVE-2019-11708
 
 <table><tr>
-<td>![http://pbs.twimg.com/tweet_video_thumb/ELHBFb5XsAAI-_J.jpg](pictures/http+++pbs.twimg.com+tweet_video_thumb+ELHBFb5XsAAI-_J.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+ELHBFb5XsAAI-_J.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/ELHBFb5XsAAI-_J.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>8</code></td>
@@ -1588,7 +1588,7 @@ https://t.co/PXF2R5JtJM https://t.co/cSDetDs4Gz
 * https://github.com/sailay1996/UAC_bypass_windows_store
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/EClptyDUcAALkVu.jpg](pictures/http+++pbs.twimg.com+media+EClptyDUcAALkVu.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EClptyDUcAALkVu.jpg" alt="http://pbs.twimg.com/media/EClptyDUcAALkVu.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>1</code></td>
@@ -1898,7 +1898,7 @@ CredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl
 * https://thehackernews.com/2018/03/credssp-rdp-exploit.html
 
 <table><tr>
-<td>![http://pbs.twimg.com/media/Da7OMLiX4AYyyBB.jpg](pictures/http+++pbs.twimg.com+media+Da7OMLiX4AYyyBB.jpg)</td>
+<td><img src="pictures/http+++pbs.twimg.com+media+Da7OMLiX4AYyyBB.jpg" alt="http://pbs.twimg.com/media/Da7OMLiX4AYyyBB.jpg"></td>
 </tr></table>
 <table><tr>
 <td>Quotes: <code>13</code></td>
