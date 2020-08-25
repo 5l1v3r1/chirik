@@ -1,3 +1,138 @@
+# binitamshah
+**https://twitter.com/binitamshah/status/1297524859623243777 _at Sun Aug 23 13:23:28 +0000 2020_**
+<blockquote>
+Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors Firmwares : https://t.co/TAYqDXIRGJ 
+
+Slides : https://t.co/M92krBOitZ  credits @VeronicaKovah
+</blockquote>
+
+* https://www.youtube.com/watch?v=MRRkBWv4VVU
+* https://github.com/darkmentorllc/publications/blob/master/2020/TI_SILABS_BLE_RCEs/slides_TI_SILABS_BLE_RCEs_v1.0.0.pdf
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>33</code></td>
+<td>Favorites: <code>73</code></td>
+</tr></table>
+
+---
+# 3XS0
+**https://twitter.com/3XS0/status/1297442644172341248 _at Sun Aug 23 07:56:46 +0000 2020_**
+<blockquote>
+CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/Gpu6sIPmQT  #Pentesting #Windows #Vulnerability #CVE #Infosec https://t.co/KfApof0Ggu
+</blockquote>
+
+* https://github.com/klinix5/Windows-Setup-EoP
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EgFxHStXsAAfanv.jpg" alt="http://pbs.twimg.com/media/EgFxHStXsAAfanv.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EgFxIVgXkAA1XwP.jpg" alt="http://pbs.twimg.com/media/EgFxIVgXkAA1XwP.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EgFxKYEXkAASGhN.jpg" alt="http://pbs.twimg.com/media/EgFxKYEXkAASGhN.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EgFxL4-WoAEZBSM.jpg" alt="http://pbs.twimg.com/media/EgFxL4-WoAEZBSM.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>1</code></td>
+</tr></table>
+
+---
+# nuria_imeq
+**https://twitter.com/nuria_imeq/status/1296937759547035653 _at Fri Aug 21 22:30:32 +0000 2020_**
+<blockquote>
+GitHub - spaceraccoon/CVE-2020-10665: POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation https://t.co/bSHAZuvPNu
+</blockquote>
+
+* https://github.com/spaceraccoon/CVE-2020-10665
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# perito_inf
+**https://twitter.com/perito_inf/status/1296800192256147456 _at Fri Aug 21 13:23:53 +0000 2020_**
+<blockquote>
+CVE-2020-1571 : Windows Setup Elevation of Privileges Bypass 0day
+
+Affected Version:
+Windows 10 1803/1809/1903/1909/2004
+
+https://t.co/uH5DBVXEhT
+</blockquote>
+
+* https://github.com/klinix5/Windows-Setup-EoP
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>25</code></td>
+<td>Favorites: <code>43</code></td>
+</tr></table>
+
+---
+# hackyzh
+**https://twitter.com/hackyzh/status/1296687587873230848 _at Fri Aug 21 05:56:26 +0000 2020_**
+<blockquote>
+Finally,he could rce on windows 2008 successful by CVE-2020-1350.This chain spent him too much time.👍
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>19</code></td>
+<td>Favorites: <code>61</code></td>
+</tr></table>
+
+---
+# YanZiShuang
+**https://twitter.com/YanZiShuang/status/1296679004343164928 _at Fri Aug 21 05:22:20 +0000 2020_**
+<blockquote>
+#DNS #WindowsServer #CVE #EXPLOIT
+DNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫
+
+关于DNS的研究报告在近期可能会分享
+
+堆风水-&gt;堆喷射-&gt;相关数据结构设置-&gt;(利用堆上数据结构任意地址写||信息泄露)-&gt;覆写全局函数指针-&gt;ShellCode 执行 https://t.co/VNfv2CYyrk
+</blockquote>
+
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+Ef66rRKUMAAp-gj.jpg" alt="http://pbs.twimg.com/media/Ef66rRKUMAAp-gj.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>7</code></td>
+<td>Replies: <code>9</code></td>
+<td>Retweets: <code>104</code></td>
+<td>Favorites: <code>289</code></td>
+</tr></table>
+
+---
+# Nahr3n
+**https://twitter.com/Nahr3n/status/1296525339292774400 _at Thu Aug 20 19:11:43 +0000 2020_**
+<blockquote>
+CVE-2020-10665:
+#Docker (Desktop Enterprise before 2.1.0.9, 
+Desktop for Windows Stable before 2.2.0.4/2.2.2.0) - Local Privilege Escalation (PoC)
+https://t.co/CgC9Gsfa9w
+</blockquote>
+
+* https://github.com/spaceraccoon/CVE-2020-10665
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>2</code></td>
+</tr></table>
+
+---
 # jedisct1
 **https://twitter.com/jedisct1/status/1296071824657326081 _at Wed Aug 19 13:09:37 +0000 2020_**
 <blockquote>
@@ -16,7 +151,7 @@ https://t.co/x08zMvkGSK…
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>49</code></td>
+<td>Retweets: <code>53</code></td>
 <td>Favorites: <code>0</code></td>
 </tr></table>
 
@@ -39,10 +174,10 @@ Thx to @h4ng3r and the rest of the crew!
 * https://blog.hiveminds.es/es/posts/cve-2020-1337_mis_dos_centavos/
 
 <table><tr>
-<td>Quotes: <code>1</code></td>
+<td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>49</code></td>
-<td>Favorites: <code>64</code></td>
+<td>Retweets: <code>53</code></td>
+<td>Favorites: <code>67</code></td>
 </tr></table>
 
 ---
@@ -58,7 +193,7 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/lkO
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>2</code></td>
+<td>Retweets: <code>3</code></td>
 <td>Favorites: <code>4</code></td>
 </tr></table>
 
@@ -93,8 +228,8 @@ Dynamic analysis of apps inside Android Cloning apps – Part 1 : https://t.co/B
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>27</code></td>
-<td>Favorites: <code>39</code></td>
+<td>Retweets: <code>30</code></td>
+<td>Favorites: <code>41</code></td>
 </tr></table>
 
 ---
@@ -108,7 +243,7 @@ RT @thezdi: Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>59</code></td>
+<td>Retweets: <code>66</code></td>
 <td>Favorites: <code>0</code></td>
 </tr></table>
 
@@ -134,8 +269,25 @@ https://t.co/zGwyuKYb6K
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>1</code></td>
+<td>Retweets: <code>2</code></td>
 <td>Favorites: <code>4</code></td>
+</tr></table>
+
+---
+# VP_helena
+**https://twitter.com/VP_helena/status/1295155240677920768 _at Mon Aug 17 00:27:26 +0000 2020_**
+<blockquote>
+CVE-2020-0796 RCE PoC source #SMBGhost 
+https://t.co/ayuWMYFPHI
+</blockquote>
+
+* https://github.com/chompie1337/SMBGhost_RCE_PoC
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>1</code></td>
+<td>Favorites: <code>2</code></td>
 </tr></table>
 
 ---
@@ -150,10 +302,10 @@ It can be found at https://t.co/zJQHjFG46e licensed under GPL-3, hopefully it at
 * https://github.com/can1357/NoVmp
 
 <table><tr>
-<td>Quotes: <code>18</code></td>
+<td>Quotes: <code>19</code></td>
 <td>Replies: <code>15</code></td>
-<td>Retweets: <code>404</code></td>
-<td>Favorites: <code>973</code></td>
+<td>Retweets: <code>413</code></td>
+<td>Favorites: <code>992</code></td>
 </tr></table>
 
 ---
@@ -188,7 +340,7 @@ https://t.co/UvBxC6ZQLJ
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>1</code></td>
+<td>Retweets: <code>2</code></td>
 <td>Favorites: <code>1</code></td>
 </tr></table>
 
@@ -210,8 +362,8 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cY
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>88</code></td>
-<td>Favorites: <code>146</code></td>
+<td>Retweets: <code>92</code></td>
+<td>Favorites: <code>149</code></td>
 </tr></table>
 
 ---
@@ -232,7 +384,7 @@ Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>21</code></td>
+<td>Retweets: <code>24</code></td>
 <td>Favorites: <code>32</code></td>
 </tr></table>
 
@@ -266,7 +418,7 @@ https://t.co/TzFoOdqlTz
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>4</code></td>
+<td>Retweets: <code>5</code></td>
 <td>Favorites: <code>2</code></td>
 </tr></table>
 
@@ -344,8 +496,8 @@ Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>155</code></td>
-<td>Favorites: <code>349</code></td>
+<td>Retweets: <code>156</code></td>
+<td>Favorites: <code>350</code></td>
 </tr></table>
 
 ---
@@ -439,8 +591,8 @@ Windows Print Spooler Patch Bypass Re-Enables Persistent Backdoor. @HexKitchen d
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>59</code></td>
-<td>Favorites: <code>115</code></td>
+<td>Retweets: <code>66</code></td>
+<td>Favorites: <code>117</code></td>
 </tr></table>
 
 ---
@@ -477,7 +629,7 @@ Details — https://t.co/961xiq1BqC
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>66</code></td>
+<td>Retweets: <code>67</code></td>
 <td>Favorites: <code>76</code></td>
 </tr></table>
 
@@ -625,8 +777,8 @@ https://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>43</code></td>
-<td>Favorites: <code>103</code></td>
+<td>Retweets: <code>44</code></td>
+<td>Favorites: <code>104</code></td>
 </tr></table>
 
 ---
@@ -696,8 +848,8 @@ I have just finished the recent IBM Websphere RCE PoC (CVE-2020-4450). It's a ni
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>31</code></td>
-<td>Favorites: <code>108</code></td>
+<td>Retweets: <code>32</code></td>
+<td>Favorites: <code>107</code></td>
 </tr></table>
 
 ---
@@ -809,9 +961,9 @@ https://t.co/9eXHQF2x3u https://t.co/W5Gp2tEhBI
 </tr></table>
 <table><tr>
 <td>Quotes: <code>3</code></td>
-<td>Replies: <code>3</code></td>
-<td>Retweets: <code>196</code></td>
-<td>Favorites: <code>468</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>199</code></td>
+<td>Favorites: <code>469</code></td>
 </tr></table>
 
 ---
@@ -879,7 +1031,7 @@ https://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>6</code></td>
 <td>Retweets: <code>161</code></td>
-<td>Favorites: <code>278</code></td>
+<td>Favorites: <code>277</code></td>
 </tr></table>
 
 ---
@@ -901,7 +1053,7 @@ Exploit released already - https://t.co/9qphFRaqBR
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>34</code></td>
-<td>Favorites: <code>78</code></td>
+<td>Favorites: <code>77</code></td>
 </tr></table>
 
 ---
@@ -1088,8 +1240,8 @@ Wrote the first public exploit of CVE-2020-10665 Docker Desktop Local Privilege 
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>181</code></td>
-<td>Favorites: <code>598</code></td>
+<td>Retweets: <code>180</code></td>
+<td>Favorites: <code>596</code></td>
 </tr></table>
 
 ---
@@ -1121,7 +1273,7 @@ SMBGhost - RCE PoC for CVE-2020-0796 "SMBGhost" https://t.co/LlLmOrwA6r
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>124</code></td>
-<td>Favorites: <code>253</code></td>
+<td>Favorites: <code>254</code></td>
 </tr></table>
 
 ---
@@ -1198,7 +1350,7 @@ https://t.co/lhmRDoa5M4
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>100</code></td>
-<td>Favorites: <code>206</code></td>
+<td>Favorites: <code>207</code></td>
 </tr></table>
 
 ---
@@ -1329,8 +1481,8 @@ https://t.co/LNwM4dSZ0G https://t.co/hz4V8ESPMv
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>199</code></td>
-<td>Favorites: <code>327</code></td>
+<td>Retweets: <code>198</code></td>
+<td>Favorites: <code>328</code></td>
 </tr></table>
 
 ---
@@ -1345,7 +1497,7 @@ Released a public exploit (Local Privilege Escalation) for SMBv3 bug (CVE-2020-0
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>70</code></td>
+<td>Retweets: <code>71</code></td>
 <td>Favorites: <code>150</code></td>
 </tr></table>
 
@@ -1365,8 +1517,8 @@ We're releasing the exploit code at https://t.co/lKsy4dBkpp https://t.co/YJuQk7Y
 <table><tr>
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>24</code></td>
-<td>Retweets: <code>596</code></td>
-<td>Favorites: <code>1069</code></td>
+<td>Retweets: <code>595</code></td>
+<td>Favorites: <code>1070</code></td>
 </tr></table>
 
 ---
@@ -1385,7 +1537,7 @@ Our sigma rule to detect this: https://t.co/fXalEL0F6Z
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>141</code></td>
-<td>Favorites: <code>227</code></td>
+<td>Favorites: <code>228</code></td>
 </tr></table>
 
 ---
@@ -1485,7 +1637,7 @@ Here is an exploit for LPE CVE-2019-1184 in case anybody else is interested in t
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>232</code></td>
-<td>Favorites: <code>449</code></td>
+<td>Favorites: <code>448</code></td>
 </tr></table>
 
 ---
@@ -1515,6 +1667,23 @@ poc: https://t.co/mtChbxVDrw https://t.co/zp7EK2cmu3
 </tr></table>
 
 ---
+# OPOSEC
+**https://twitter.com/OPOSEC/status/1204672174830825473 _at Wed Dec 11 08:00:02 +0000 2019_**
+<blockquote>
+PreAuth RCE on Palo Alto GlobalProtect Part II (CVE-2019-1579). https://t.co/W2ILBPYz5Y (+) PoC: https://t.co/c7NoOYuCYi #Security #293 (2019)
+</blockquote>
+
+* http://bit.ly/2lXfyJy
+* https://github.com/securifera/CVE-2019-1579
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>26</code></td>
+<td>Favorites: <code>33</code></td>
+</tr></table>
+
+---
 # 0vercl0k
 **https://twitter.com/0vercl0k/status/1202955509738934272 _at Fri Dec 06 14:18:38 +0000 2019_**
 <blockquote>
@@ -1530,7 +1699,7 @@ Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>487</code></td>
-<td>Favorites: <code>1052</code></td>
+<td>Favorites: <code>1050</code></td>
 </tr></table>
 
 ---
@@ -1767,7 +1936,7 @@ https://t.co/nEnTaaiTeB
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>254</code></td>
+<td>Favorites: <code>255</code></td>
 </tr></table>
 
 ---
@@ -1901,10 +2070,10 @@ CredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl
 <td><img src="pictures/http+++pbs.twimg.com+media+Da7OMLiX4AYyyBB.jpg" alt="http://pbs.twimg.com/media/Da7OMLiX4AYyyBB.jpg"></td>
 </tr></table>
 <table><tr>
-<td>Quotes: <code>13</code></td>
+<td>Quotes: <code>14</code></td>
 <td>Replies: <code>5</code></td>
 <td>Retweets: <code>383</code></td>
-<td>Favorites: <code>408</code></td>
+<td>Favorites: <code>409</code></td>
 </tr></table>
 
 ---
