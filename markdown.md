@@ -1,3 +1,56 @@
+# hoangkien_1020
+**https://twitter.com/hoangkien_1020/status/1298473776653328384 _at Wed Aug 26 04:14:07 +0000 2020_**
+<blockquote>
+My next CVE in Joomla to RCE:
+CVE-2020-24597: Directory traversal in com_media to RCE
+PoC:
+https://t.co/uZQDZVRuIg
+</blockquote>
+
+* https://github.com/HoangKien1020/CVE-2020-24597
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# edwardzpeng
+**https://twitter.com/edwardzpeng/status/1298173366692536320 _at Tue Aug 25 08:20:24 +0000 2020_**
+<blockquote>
+It’s not a good option to disclose 0day in public. But when vendor chooses to ignore your reports, you have no other choice.  Publishing two info leak vulnerabilities we found last month which Microsoft refuse to fix them. https://t.co/Bpx4buWxJL
+</blockquote>
+
+* https://github.com/hhlxf/USO_Info_Leak
+
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>10</code></td>
+<td>Retweets: <code>172</code></td>
+<td>Favorites: <code>336</code></td>
+</tr></table>
+
+---
+# iamelli0t
+**https://twitter.com/iamelli0t/status/1298092483407093761 _at Tue Aug 25 02:59:00 +0000 2020_**
+<blockquote>
+My analysis of the recent Internet Explorer zero-day vulnerability, CVE-2020-1380
+
+https://t.co/qo21pj0xii
+</blockquote>
+
+* https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html
+
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>81</code></td>
+<td>Favorites: <code>153</code></td>
+</tr></table>
+
+---
 # binitamshah
 **https://twitter.com/binitamshah/status/1297524859623243777 _at Sun Aug 23 13:23:28 +0000 2020_**
 <blockquote>
@@ -11,9 +64,9 @@ Slides : https://t.co/M92krBOitZ  credits @VeronicaKovah
 
 <table><tr>
 <td>Quotes: <code>1</code></td>
-<td>Replies: <code>1</code></td>
-<td>Retweets: <code>33</code></td>
-<td>Favorites: <code>73</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>35</code></td>
+<td>Favorites: <code>75</code></td>
 </tr></table>
 
 ---
@@ -71,8 +124,8 @@ https://t.co/uH5DBVXEhT
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>25</code></td>
-<td>Favorites: <code>43</code></td>
+<td>Retweets: <code>26</code></td>
+<td>Favorites: <code>45</code></td>
 </tr></table>
 
 ---
@@ -109,8 +162,8 @@ DNS 漏洞 CVE-2020-1350 EXPLOIT 新鲜出炉 确定可以导致蠕虫
 <table><tr>
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>9</code></td>
-<td>Retweets: <code>104</code></td>
-<td>Favorites: <code>289</code></td>
+<td>Retweets: <code>105</code></td>
+<td>Favorites: <code>291</code></td>
 </tr></table>
 
 ---
@@ -209,8 +262,8 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/lkO
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>36</code></td>
-<td>Favorites: <code>51</code></td>
+<td>Retweets: <code>37</code></td>
+<td>Favorites: <code>53</code></td>
 </tr></table>
 
 ---
@@ -229,7 +282,7 @@ Dynamic analysis of apps inside Android Cloning apps – Part 1 : https://t.co/B
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>30</code></td>
-<td>Favorites: <code>41</code></td>
+<td>Favorites: <code>42</code></td>
 </tr></table>
 
 ---
@@ -1241,7 +1294,7 @@ Wrote the first public exploit of CVE-2020-10665 Docker Desktop Local Privilege 
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>180</code></td>
-<td>Favorites: <code>596</code></td>
+<td>Favorites: <code>595</code></td>
 </tr></table>
 
 ---
@@ -1350,7 +1403,7 @@ https://t.co/lhmRDoa5M4
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>100</code></td>
-<td>Favorites: <code>207</code></td>
+<td>Favorites: <code>206</code></td>
 </tr></table>
 
 ---
@@ -1517,8 +1570,8 @@ We're releasing the exploit code at https://t.co/lKsy4dBkpp https://t.co/YJuQk7Y
 <table><tr>
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>24</code></td>
-<td>Retweets: <code>595</code></td>
-<td>Favorites: <code>1070</code></td>
+<td>Retweets: <code>594</code></td>
+<td>Favorites: <code>1068</code></td>
 </tr></table>
 
 ---
@@ -1637,7 +1690,7 @@ Here is an exploit for LPE CVE-2019-1184 in case anybody else is interested in t
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>232</code></td>
-<td>Favorites: <code>448</code></td>
+<td>Favorites: <code>447</code></td>
 </tr></table>
 
 ---
@@ -1699,7 +1752,7 @@ Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>487</code></td>
-<td>Favorites: <code>1050</code></td>
+<td>Favorites: <code>1049</code></td>
 </tr></table>
 
 ---
@@ -1968,7 +2021,7 @@ CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>115</code></td>
-<td>Favorites: <code>203</code></td>
+<td>Favorites: <code>202</code></td>
 </tr></table>
 
 ---
