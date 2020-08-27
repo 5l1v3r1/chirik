@@ -2914,8 +2914,8 @@ USCYBERCOM urgently recommends F5 customers to patch CVE-2020-5902 and 5903 NOW 
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1280076123553095680 _at Mon Jul 06 09:48:25 +0000 2020_**
+# arturwojtkowski
+**https://twitter.com/arturwojtkowski/status/1280076123553095680 _at Mon Jul 06 09:48:25 +0000 2020_**
 <blockquote>
 CVE-2020-5902 - #F5 RCE PoC: 
 
@@ -3003,8 +3003,8 @@ https://t.co/3Ete09oVP6 https://t.co/zBAfdIZBa2
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1280001566775431168 _at Mon Jul 06 04:52:09 +0000 2020_**
+# yassineaboukir
+**https://twitter.com/yassineaboukir/status/1280001566775431168 _at Mon Jul 06 04:52:09 +0000 2020_**
 <blockquote>
 Critical F5 Big IP RCE PoC CVE-2020-5902: https://t.co/tnEXwcktKx
 </blockquote>
@@ -3019,8 +3019,8 @@ Critical F5 Big IP RCE PoC CVE-2020-5902: https://t.co/tnEXwcktKx
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1279994274302488576 _at Mon Jul 06 04:23:10 +0000 2020_**
+# dragonstar7722
+**https://twitter.com/dragonstar7722/status/1279994274302488576 _at Mon Jul 06 04:23:10 +0000 2020_**
 <blockquote>
 CVE-2020-5902のPOC。LFIとRCE。こちらも公開されていますねー。
 
@@ -3366,8 +3366,8 @@ RT @CNMF_CyberAlert: URGENT: Patching CVE-2020-5902 and 5903 should not be postp
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1279151966178902016 _at Fri Jul 03 20:36:08 +0000 2020_**
+# CNMF_CyberAlert
+**https://twitter.com/CNMF_CyberAlert/status/1279151966178902016 _at Fri Jul 03 20:36:08 +0000 2020_**
 <blockquote>
 URGENT: Patching CVE-2020-5902 and 5903 should not be postponed over the weekend. Remediate immediately.
 </blockquote>
@@ -3537,8 +3537,8 @@ https://t.co/siZ88grDgI
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1277449435186790401 _at Mon Jun 29 03:50:53 +0000 2020_**
+# ptrYudai
+**https://twitter.com/ptrYudai/status/1277449435186790401 _at Mon Jun 29 03:50:53 +0000 2020_**
 <blockquote>
 供養
 https://t.co/yNnFZTdsR8
@@ -3589,8 +3589,8 @@ GitHub - V1n1v131r4/Wing-FTP-Server-6.3.8---Remote-Code-Execution: This PoC expl
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1276503780687777792 _at Fri Jun 26 13:13:12 +0000 2020_**
+# i_bo0om
+**https://twitter.com/i_bo0om/status/1276503780687777792 _at Fri Jun 26 13:13:12 +0000 2020_**
 <blockquote>
 Apache Tomcat RCE by deserialization (CVE-2020-9484) 
 
@@ -3623,8 +3623,8 @@ Microsoft Windows LNK Remote Code Execution Vulnerability – CVE-2020-1299 htt
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1276267096633225217 _at Thu Jun 25 21:32:42 +0000 2020_**
+# sw33tLie
+**https://twitter.com/sw33tLie/status/1276267096633225217 _at Thu Jun 25 21:32:42 +0000 2020_**
 <blockquote>
 Also, if you find /jolokia you may be able to achieve a RCE as well https://t.co/iQjozuvnFe
 </blockquote>
@@ -4274,8 +4274,8 @@ CVE-2020-13885
 </tr></table>
 
 ---
-# 
-**https://twitter.com//status/1270770818432327681 _at Wed Jun 10 17:32:27 +0000 2020_**
+# fabsx00
+**https://twitter.com/fabsx00/status/1270770818432327681 _at Wed Jun 10 17:32:27 +0000 2020_**
 <blockquote>
 We are working a lot on documentation for Ocular/Joern these days. Today, my article about our syntax-tree traversal language goes live :) https://t.co/A9Q1EJIEnZ - all works with open-source Joern (https://t.co/yl30CRsoRp)
 </blockquote>
