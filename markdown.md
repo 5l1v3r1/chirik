@@ -1,3 +1,87 @@
+# r4j0x00
+**https://twitter.com/r4j0x00/status/1298682570448674817 _at Wed Aug 26 18:03:47 +0000 2020_**
+<blockquote>
+Here's my 1day exploit for https://t.co/HOW8DV5aCe 😁. Works for chrome version &lt;= 83.0.4103.61. 
+https://t.co/r4opFYMDZ0 https://t.co/8hjWHE6h1D
+</blockquote>
+
+* https://github.com/v8/v8/commit/85bc1b0cab31cc064efc65e05adb81fee814261b#diff-2e2c5645d87dabecd3793b1f10300974
+* https://github.com/r4j0x00/exploits/tree/master/chrome-exploit
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EgXY1ljUcAAEqNJ.png" alt="http://pbs.twimg.com/media/EgXY1ljUcAAEqNJ.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>10</code></td>
+<td>Replies: <code>15</code></td>
+<td>Retweets: <code>182</code></td>
+<td>Favorites: <code>562</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1298626893474721792 _at Wed Aug 26 14:22:33 +0000 2020_**
+<blockquote>
+AndroidMalware_2020 : Popular Android malwares of 2020 : https://t.co/29pEEZA6G7
+
+AndroidMalware_2019 : Popular Android malwares of 2019: https://t.co/Bb9MDBzw45 
+
+AndroidMalware_2018 : Popular Android malwares of 2018 : https://t.co/QWnEJV43Zy credits @skeptre_void
+</blockquote>
+
+* https://github.com/sk3ptre/AndroidMalware_2020
+* https://github.com/sk3ptre/AndroidMalware_2019
+* https://github.com/sk3ptre/AndroidMalware_2018
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>55</code></td>
+<td>Favorites: <code>102</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1298623978743795713 _at Wed Aug 26 14:10:58 +0000 2020_**
+<blockquote>
+android-security-awesome : A collection of android security related resources: https://t.co/JhbRHbb2Tu 
+
+adb-enhanced : Swiss-army knife for Android testing and development: https://t.co/chqcc7UPEp 
+
+android-malware: Collection of android malware samples: https://t.co/GobIOlVT49
+</blockquote>
+
+* https://github.com/ashishb/android-security-awesome
+* https://github.com/ashishb/adb-enhanced
+* https://github.com/ashishb/android-malware
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>92</code></td>
+<td>Favorites: <code>238</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1298616537545207808 _at Wed Aug 26 13:41:24 +0000 2020_**
+<blockquote>
+Coqui : Bare Bones Banking malware coded for research &amp; educational purposes : https://t.co/jcgTfW4Df1 
+
+Details : https://t.co/vQpBEMsyVA
+</blockquote>
+
+* https://github.com/1d8/Coqui
+* https://0x00sec.org/t/coqui-a-keylogger-that-activates-for-only-banking-related-sites/22818
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>27</code></td>
+<td>Favorites: <code>57</code></td>
+</tr></table>
+
+---
 # ptracesecurity
 **https://twitter.com/ptracesecurity/status/1298560490197716992 _at Wed Aug 26 09:58:41 +0000 2020_**
 <blockquote>
@@ -874,7 +958,7 @@ https://t.co/k7nAYfAZeu https://t.co/wrC0VHol3f
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>144</code></td>
-<td>Favorites: <code>403</code></td>
+<td>Favorites: <code>404</code></td>
 </tr></table>
 
 ---
@@ -4773,7 +4857,7 @@ See https://t.co/9yMSWNM8VG for more details.
 <td>Quotes: <code>55</code></td>
 <td>Replies: <code>32</code></td>
 <td>Retweets: <code>1239</code></td>
-<td>Favorites: <code>2278</code></td>
+<td>Favorites: <code>2277</code></td>
 </tr></table>
 
 ---
@@ -8063,7 +8147,7 @@ Microsoft fixed a Windows 0day (CVE-2019-0808) in Patch Tuesday. Our team constr
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>191</code></td>
+<td>Retweets: <code>192</code></td>
 <td>Favorites: <code>313</code></td>
 </tr></table>
 
