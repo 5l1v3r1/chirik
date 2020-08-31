@@ -1,3 +1,23 @@
+# maxpl0it
+**https://twitter.com/maxpl0it/status/1299068051044921347 _at Thu Aug 27 19:35:33 +0000 2020_**
+<blockquote>
+Published my exploit for CVE-2019-17026 (Firefox JIT bug):
+
+https://t.co/YeFsnSVYDv
+
+No sandbox escape included but if anybody wants a challenge, chain it with CVE-2020-0674 for a neat sandbox escape on Windows!
+</blockquote>
+
+* https://github.com/maxpl0it/CVE-2019-17026-Exploit/
+
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>99</code></td>
+<td>Favorites: <code>244</code></td>
+</tr></table>
+
+---
 # r4j0x00
 **https://twitter.com/r4j0x00/status/1298682570448674817 _at Wed Aug 26 18:03:47 +0000 2020_**
 <blockquote>
@@ -2045,8 +2065,8 @@ Microsoft has released an update addressing a “wormable” RCE vulnerability, 
 <table><tr>
 <td>Quotes: <code>31</code></td>
 <td>Replies: <code>23</code></td>
-<td>Retweets: <code>525</code></td>
-<td>Favorites: <code>667</code></td>
+<td>Retweets: <code>526</code></td>
+<td>Favorites: <code>668</code></td>
 </tr></table>
 
 ---
@@ -4387,8 +4407,8 @@ https://t.co/83VI0nTjnl
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>299</code></td>
-<td>Favorites: <code>765</code></td>
+<td>Retweets: <code>300</code></td>
+<td>Favorites: <code>764</code></td>
 </tr></table>
 
 ---
@@ -5276,7 +5296,7 @@ CVE-2020-0821: information disclosure
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>4</code></td>
-<td>Favorites: <code>36</code></td>
+<td>Favorites: <code>35</code></td>
 </tr></table>
 
 ---
@@ -6119,7 +6139,7 @@ https://t.co/t6bmycdUjX https://t.co/n16cHivDMe
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>144</code></td>
-<td>Favorites: <code>293</code></td>
+<td>Favorites: <code>295</code></td>
 </tr></table>
 
 ---
@@ -6954,7 +6974,7 @@ CVE-2019-1412: Windows Kernel information disclosure.
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>12</code></td>
-<td>Favorites: <code>79</code></td>
+<td>Favorites: <code>80</code></td>
 </tr></table>
 
 ---
@@ -7233,7 +7253,7 @@ Windows-RCE-exploits: The exploit samples database is a repository for **RCE** (
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>163</code></td>
-<td>Favorites: <code>349</code></td>
+<td>Favorites: <code>348</code></td>
 </tr></table>
 
 ---
@@ -8466,7 +8486,7 @@ Figure out XAML part yourself ;-) one can find pretty easily, code says itself.
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>35</code></td>
-<td>Favorites: <code>63</code></td>
+<td>Favorites: <code>64</code></td>
 </tr></table>
 
 ---
