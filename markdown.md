@@ -389,7 +389,7 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/lkO
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>37</code></td>
-<td>Favorites: <code>53</code></td>
+<td>Favorites: <code>52</code></td>
 </tr></table>
 
 ---
@@ -541,8 +541,8 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day  https://t.co/cY
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>92</code></td>
-<td>Favorites: <code>148</code></td>
+<td>Retweets: <code>93</code></td>
+<td>Favorites: <code>149</code></td>
 </tr></table>
 
 ---
@@ -1456,7 +1456,7 @@ via @sourceincite
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>169</code></td>
-<td>Favorites: <code>277</code></td>
+<td>Favorites: <code>278</code></td>
 </tr></table>
 
 ---
@@ -4271,8 +4271,8 @@ Also LPE and Sandbox Escape from Edge renderer on all modern Windows versions. h
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>7</code></td>
-<td>Retweets: <code>287</code></td>
-<td>Favorites: <code>660</code></td>
+<td>Retweets: <code>288</code></td>
+<td>Favorites: <code>659</code></td>
 </tr></table>
 
 ---
@@ -5540,7 +5540,7 @@ https://t.co/xvEip0RYD6 https://t.co/9F3NQNRVXU
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>90</code></td>
-<td>Favorites: <code>215</code></td>
+<td>Favorites: <code>214</code></td>
 </tr></table>
 
 ---
@@ -6061,7 +6061,7 @@ Our sigma rule to detect this: https://t.co/fXalEL0F6Z
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>141</code></td>
-<td>Favorites: <code>228</code></td>
+<td>Favorites: <code>227</code></td>
 </tr></table>
 
 ---
@@ -6822,7 +6822,7 @@ Details and PoC: https://t.co/Lc1NTtTG3G
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>70</code></td>
-<td>Favorites: <code>113</code></td>
+<td>Favorites: <code>112</code></td>
 </tr></table>
 
 ---
@@ -7212,7 +7212,7 @@ CVE-2019-1082 Windows Local Privileges Escalation. Little Writeup How i found lp
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>130</code></td>
-<td>Favorites: <code>275</code></td>
+<td>Favorites: <code>274</code></td>
 </tr></table>
 
 ---
@@ -7341,7 +7341,7 @@ https://t.co/PXF2R5JtJM https://t.co/cSDetDs4Gz
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>6</code></td>
-<td>Retweets: <code>135</code></td>
+<td>Retweets: <code>134</code></td>
 <td>Favorites: <code>263</code></td>
 </tr></table>
 
@@ -7664,7 +7664,7 @@ ZDI researcher @HexKitchen takes a detailed look at CVE-2019-1069 - an LPE via t
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>138</code></td>
+<td>Favorites: <code>139</code></td>
 </tr></table>
 
 ---
@@ -7998,7 +7998,7 @@ CVE-2019-0726/ZDI-19-272: @HexKitchen details a vuln in the #Windows DHCP Client
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>85</code></td>
-<td>Favorites: <code>141</code></td>
+<td>Favorites: <code>142</code></td>
 </tr></table>
 
 ---
@@ -8432,7 +8432,7 @@ https://t.co/9gm0qPK4Z3
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>67</code></td>
-<td>Favorites: <code>141</code></td>
+<td>Favorites: <code>140</code></td>
 </tr></table>
 
 ---
@@ -8536,7 +8536,7 @@ https://t.co/gLarrCPPZX
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>65</code></td>
+<td>Retweets: <code>64</code></td>
 <td>Favorites: <code>139</code></td>
 </tr></table>
 
@@ -8603,7 +8603,7 @@ Promised, full exploitation  process of : TALOS-2018-0636 (CVE-2018-3971) -Hitma
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>175</code></td>
-<td>Favorites: <code>221</code></td>
+<td>Favorites: <code>222</code></td>
 </tr></table>
 
 ---
@@ -9109,7 +9109,7 @@ Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted
 <td>Quotes: <code>17</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>200</code></td>
-<td>Favorites: <code>283</code></td>
+<td>Favorites: <code>282</code></td>
 </tr></table>
 
 ---
