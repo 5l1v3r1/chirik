@@ -154,8 +154,8 @@ It’s not a good option to disclose 0day in public. But when vendor chooses to 
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>9</code></td>
-<td>Retweets: <code>177</code></td>
-<td>Favorites: <code>348</code></td>
+<td>Retweets: <code>181</code></td>
+<td>Favorites: <code>359</code></td>
 </tr></table>
 
 ---
@@ -2424,7 +2424,7 @@ CVE-2020-1300 - Remote code execution via #Windows CAB files. Our colleagues fro
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>112</code></td>
-<td>Favorites: <code>187</code></td>
+<td>Favorites: <code>186</code></td>
 </tr></table>
 
 ---
@@ -2841,8 +2841,8 @@ https://t.co/PNe4nB5G8W https://t.co/cqYK3vrR98
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>81</code></td>
-<td>Favorites: <code>213</code></td>
+<td>Retweets: <code>83</code></td>
+<td>Favorites: <code>216</code></td>
 </tr></table>
 
 ---
@@ -4469,7 +4469,7 @@ https://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU
 <td>Quotes: <code>23</code></td>
 <td>Replies: <code>12</code></td>
 <td>Retweets: <code>398</code></td>
-<td>Favorites: <code>710</code></td>
+<td>Favorites: <code>712</code></td>
 </tr></table>
 
 ---
@@ -4798,7 +4798,7 @@ Code: https://t.co/dH1ZLqj2Ws https://t.co/URjPfmAg2R
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>98</code></td>
-<td>Favorites: <code>254</code></td>
+<td>Favorites: <code>253</code></td>
 </tr></table>
 
 ---
@@ -4955,7 +4955,7 @@ The previous commit includes a test program I used when I wrote it. Should be us
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>8</code></td>
-<td>Favorites: <code>43</code></td>
+<td>Favorites: <code>44</code></td>
 </tr></table>
 
 ---
@@ -4976,7 +4976,7 @@ https://t.co/UTClKAc677
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>81</code></td>
-<td>Favorites: <code>244</code></td>
+<td>Favorites: <code>245</code></td>
 </tr></table>
 
 ---
@@ -5079,7 +5079,7 @@ https://t.co/lF8jETRabx
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>70</code></td>
-<td>Favorites: <code>228</code></td>
+<td>Favorites: <code>229</code></td>
 </tr></table>
 
 ---
@@ -5963,7 +5963,7 @@ Also @brucedang and I are offering a 5-day class on the development of hyperviso
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>99</code></td>
-<td>Favorites: <code>272</code></td>
+<td>Favorites: <code>271</code></td>
 </tr></table>
 
 ---
@@ -7195,7 +7195,7 @@ https://t.co/l9F8jmfQXU
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>179</code></td>
+<td>Retweets: <code>180</code></td>
 <td>Favorites: <code>315</code></td>
 </tr></table>
 
@@ -8869,7 +8869,7 @@ https://t.co/Sk5epLIvOd
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>90</code></td>
+<td>Retweets: <code>91</code></td>
 <td>Favorites: <code>136</code></td>
 </tr></table>
 
@@ -9222,7 +9222,7 @@ https://t.co/41B0sprlyV
 <td>Quotes: <code>12</code></td>
 <td>Replies: <code>16</code></td>
 <td>Retweets: <code>488</code></td>
-<td>Favorites: <code>650</code></td>
+<td>Favorites: <code>648</code></td>
 </tr></table>
 
 ---
@@ -9398,7 +9398,7 @@ my black hat Asia 2017 slides,https://t.co/6fdewMwk1x, and bypass ASLR in Micros
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>73</code></td>
-<td>Favorites: <code>91</code></td>
+<td>Favorites: <code>90</code></td>
 </tr></table>
 
 ---
