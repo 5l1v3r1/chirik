@@ -172,8 +172,8 @@ https://t.co/qo21pj0xii
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>90</code></td>
-<td>Favorites: <code>167</code></td>
+<td>Retweets: <code>91</code></td>
+<td>Favorites: <code>174</code></td>
 </tr></table>
 
 ---
@@ -7596,8 +7596,8 @@ GitHub - sophoslabs/CVE-2019-0888: PoC for CVE-2019-0888 - Use-After-Free in Win
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>51</code></td>
-<td>Favorites: <code>107</code></td>
+<td>Retweets: <code>52</code></td>
+<td>Favorites: <code>108</code></td>
 </tr></table>
 
 ---
@@ -7686,7 +7686,7 @@ https://t.co/DdO0bztrO5
 <table><tr>
 <td>Quotes: <code>21</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>390</code></td>
+<td>Retweets: <code>391</code></td>
 <td>Favorites: <code>500</code></td>
 </tr></table>
 
