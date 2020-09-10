@@ -389,7 +389,7 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/lkO
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>37</code></td>
-<td>Favorites: <code>52</code></td>
+<td>Favorites: <code>51</code></td>
 </tr></table>
 
 ---
@@ -2156,7 +2156,7 @@ Details — https://t.co/Qoode1dizp
 <table><tr>
 <td>Quotes: <code>59</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>608</code></td>
+<td>Retweets: <code>605</code></td>
 <td>Favorites: <code>794</code></td>
 </tr></table>
 
@@ -4491,10 +4491,10 @@ An unauthenticated attacker (client/server) can also combine it with the "wormab
 <td><img src="pictures/http+++pbs.twimg.com+media+EaGPhCwWAAYCVPM.jpg" alt="http://pbs.twimg.com/media/EaGPhCwWAAYCVPM.jpg"></td>
 </tr></table>
 <table><tr>
-<td>Quotes: <code>33</code></td>
+<td>Quotes: <code>32</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>415</code></td>
-<td>Favorites: <code>623</code></td>
+<td>Retweets: <code>409</code></td>
+<td>Favorites: <code>624</code></td>
 </tr></table>
 
 ---
@@ -4893,7 +4893,7 @@ RoguePotato - Another Windows Local Privilege Escalation from Service Account to
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>38</code></td>
-<td>Favorites: <code>95</code></td>
+<td>Favorites: <code>94</code></td>
 </tr></table>
 
 ---
@@ -6363,7 +6363,7 @@ https://t.co/7B3ZXVoFGh
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>132</code></td>
+<td>Retweets: <code>130</code></td>
 <td>Favorites: <code>353</code></td>
 </tr></table>
 
@@ -8190,8 +8190,8 @@ Patched Chrome version 72.0.3626.121 has been released for Windows, macOS, Linux
 <table><tr>
 <td>Quotes: <code>65</code></td>
 <td>Replies: <code>14</code></td>
-<td>Retweets: <code>641</code></td>
-<td>Favorites: <code>504</code></td>
+<td>Retweets: <code>642</code></td>
+<td>Favorites: <code>505</code></td>
 </tr></table>
 
 ---
@@ -8679,8 +8679,8 @@ Technical Rundown of WebExec (CVE-2018-15442) - Cisco Webex Meetings Desktop App
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>146</code></td>
-<td>Favorites: <code>199</code></td>
+<td>Retweets: <code>145</code></td>
+<td>Favorites: <code>197</code></td>
 </tr></table>
 
 ---
