@@ -1,3 +1,19 @@
+# reverseame
+**https://twitter.com/reverseame/status/1304301839442227201 _at Fri Sep 11 06:12:45 +0000 2020_**
+<blockquote>
+CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/bLpWzsu6PK
+</blockquote>
+
+* https://github.com/klinix5/Windows-Setup-EoP
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>2</code></td>
+<td>Favorites: <code>1</code></td>
+</tr></table>
+
+---
 # maxpl0it
 **https://twitter.com/maxpl0it/status/1299068051044921347 _at Thu Aug 27 19:35:33 +0000 2020_**
 <blockquote>
@@ -674,8 +690,8 @@ Yesterday's Patch Tuesday included a PhoneBook use-after-free vulnerability (CVE
 
 <table><tr>
 <td>Quotes: <code>4</code></td>
-<td>Replies: <code>5</code></td>
-<td>Retweets: <code>156</code></td>
+<td>Replies: <code>6</code></td>
+<td>Retweets: <code>157</code></td>
 <td>Favorites: <code>350</code></td>
 </tr></table>
 
@@ -2842,7 +2858,7 @@ https://t.co/PNe4nB5G8W https://t.co/cqYK3vrR98
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>5</code></td>
 <td>Retweets: <code>83</code></td>
-<td>Favorites: <code>216</code></td>
+<td>Favorites: <code>217</code></td>
 </tr></table>
 
 ---
@@ -5038,7 +5054,7 @@ https://t.co/ywrKISoTke
 <table><tr>
 <td>Quotes: <code>11</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>160</code></td>
+<td>Retweets: <code>161</code></td>
 <td>Favorites: <code>233</code></td>
 </tr></table>
 
@@ -5252,7 +5268,7 @@ GHSL-2020-037: Use after free in Chrome webaudio - CVE-2020-6428 https://t.co/pY
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>15</code></td>
-<td>Favorites: <code>32</code></td>
+<td>Favorites: <code>31</code></td>
 </tr></table>
 
 ---
@@ -5689,7 +5705,7 @@ We're releasing the exploit code at https://t.co/lKsy4dBkpp https://t.co/YJuQk7Y
 <table><tr>
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>24</code></td>
-<td>Retweets: <code>594</code></td>
+<td>Retweets: <code>597</code></td>
 <td>Favorites: <code>1068</code></td>
 </tr></table>
 
@@ -7378,7 +7394,7 @@ https://t.co/kg8deEXLnk
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>124</code></td>
-<td>Favorites: <code>230</code></td>
+<td>Favorites: <code>231</code></td>
 </tr></table>
 
 ---
@@ -7664,7 +7680,7 @@ ZDI researcher @HexKitchen takes a detailed look at CVE-2019-1069 - an LPE via t
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>139</code></td>
+<td>Favorites: <code>138</code></td>
 </tr></table>
 
 ---
@@ -8336,8 +8352,8 @@ Not side channels in SGX but this time we can hide real malware in SGX.
 <table><tr>
 <td>Quotes: <code>17</code></td>
 <td>Replies: <code>9</code></td>
-<td>Retweets: <code>246</code></td>
-<td>Favorites: <code>408</code></td>
+<td>Retweets: <code>244</code></td>
+<td>Favorites: <code>405</code></td>
 </tr></table>
 
 ---
@@ -8997,7 +9013,7 @@ https://t.co/ndbJ5pIalp
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>53</code></td>
-<td>Favorites: <code>64</code></td>
+<td>Favorites: <code>63</code></td>
 </tr></table>
 
 ---
