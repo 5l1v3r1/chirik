@@ -14,6 +14,65 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/bLp
 </tr></table>
 
 ---
+# steventseeley
+**https://twitter.com/steventseeley/status/1304095793809371137 _at Thu Sep 10 16:34:00 +0000 2020_**
+<blockquote>
+Microsoft Exchange Server DlpUtils AddTenantDlpPolicy Remote Code Execution Vulnerability (CVE-2020-16875)
+
+Advisory: https://t.co/UvvCkGGOEA
+poc (http): https://t.co/mGah1PBcAM
+poc (ps-remoting): https://t.co/ziVbNP3jXN
+</blockquote>
+
+* https://srcincite.io/advisories/src-2020-0019/
+* https://srcincite.io/pocs/cve-2020-16875.py.txt
+* https://srcincite.io/pocs/cve-2020-16875.ps1.txt
+
+<table><tr>
+<td>Quotes: <code>6</code></td>
+<td>Replies: <code>8</code></td>
+<td>Retweets: <code>182</code></td>
+<td>Favorites: <code>314</code></td>
+</tr></table>
+
+---
+# JasonGeffner
+**https://twitter.com/JasonGeffner/status/1303707439498436608 _at Wed Sep 09 14:50:49 +0000 2020_**
+<blockquote>
+CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze
+
+https://t.co/EL9EDkyrVc
+
+Full vulnerability details (including PoC) at https://t.co/WHwNlV3xZ4
+</blockquote>
+
+* https://youtu.be/W0THXbcX5V8
+* https://github.com/geffner/CVE-2020-8150/blob/master/README.md
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>4</code></td>
+<td>Favorites: <code>21</code></td>
+</tr></table>
+
+---
+# _r_netsec
+**https://twitter.com/_r_netsec/status/1303426162429890560 _at Tue Sep 08 20:13:08 +0000 2020_**
+<blockquote>
+CVE-2020-1013: Windows Local Privilege Escalation (LPE) with PoC https://t.co/sJNcpiqT4i
+</blockquote>
+
+* https://www.gosecure.net/blog/2020/09/08/wsus-attacks-part-2-cve-2020-1013-a-windows-10-local-privilege-escalation-1-day/
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>36</code></td>
+<td>Favorites: <code>60</code></td>
+</tr></table>
+
+---
 # maxpl0it
 **https://twitter.com/maxpl0it/status/1299068051044921347 _at Thu Aug 27 19:35:33 +0000 2020_**
 <blockquote>
@@ -4423,8 +4482,8 @@ https://t.co/83VI0nTjnl
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>300</code></td>
-<td>Favorites: <code>764</code></td>
+<td>Retweets: <code>299</code></td>
+<td>Favorites: <code>765</code></td>
 </tr></table>
 
 ---
@@ -7663,8 +7722,8 @@ https://t.co/1VeFQ7W9Vm
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>106</code></td>
-<td>Favorites: <code>204</code></td>
+<td>Retweets: <code>105</code></td>
+<td>Favorites: <code>203</code></td>
 </tr></table>
 
 ---
@@ -7681,6 +7740,22 @@ ZDI researcher @HexKitchen takes a detailed look at CVE-2019-1069 - an LPE via t
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>91</code></td>
 <td>Favorites: <code>138</code></td>
+</tr></table>
+
+---
+# peterkruse
+**https://twitter.com/peterkruse/status/1136995130609721344 _at Fri Jun 07 13:55:38 +0000 2019_**
+<blockquote>
+SandBoxEscaper has published a second bypass for CVE-2019-0841 so yet another 0day for latest Windows versions, https://t.co/gHErpgBPLg
+</blockquote>
+
+* https://github.com/SandboxEscaper/polarbearrepo/tree/master/ByeBear
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>12</code></td>
+<td>Favorites: <code>15</code></td>
 </tr></table>
 
 ---
@@ -8224,8 +8299,8 @@ In 2019, I expect epic 0days to be found in the wild: Android, iOS, Windows, Off
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>7</code></td>
-<td>Retweets: <code>164</code></td>
-<td>Favorites: <code>240</code></td>
+<td>Retweets: <code>163</code></td>
+<td>Favorites: <code>239</code></td>
 </tr></table>
 
 ---
@@ -8449,6 +8524,24 @@ https://t.co/9gm0qPK4Z3
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>67</code></td>
 <td>Favorites: <code>140</code></td>
+</tr></table>
+
+---
+# Dinosn
+**https://twitter.com/Dinosn/status/1079656697197670401 _at Mon Dec 31 08:33:10 +0000 2018_**
+<blockquote>
+Another 0Day for Windows published by @SandBoxEscaper (Overwriting Files with Arbitrary Data)
+https://t.co/yQzulBYe4e &amp;&amp; https://t.co/ULeoEqX9MS
+</blockquote>
+
+* https://www.bleepingcomputer.com/news/security/windows-zero-day-bug-allows-overwriting-files-with-arbitrary-data/
+* https://github.com/SandboxEscaper/randomrepo/blob/master/angrypolarbearbug.rar
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>48</code></td>
+<td>Favorites: <code>68</code></td>
 </tr></table>
 
 ---
@@ -9090,8 +9183,8 @@ Dell SupportAssist driver vuln to SYSTEM local privilege escalation https://t.co
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>155</code></td>
-<td>Favorites: <code>250</code></td>
+<td>Retweets: <code>154</code></td>
+<td>Favorites: <code>246</code></td>
 </tr></table>
 
 ---
