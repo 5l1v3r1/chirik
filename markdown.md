@@ -1,3 +1,60 @@
+# ptswarm
+**https://twitter.com/ptswarm/status/1305479737234599941 _at Mon Sep 14 12:13:18 +0000 2020_**
+<blockquote>
+We have reproduced the CVE-2020-1472 #zerologon vulnerability! It's an unauth RCE for Domain Controllers. https://t.co/qFe45O7WPR
+</blockquote>
+
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+Eh3-YI1WkAMkcE0.png" alt="http://pbs.twimg.com/media/Eh3-YI1WkAMkcE0.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>12</code></td>
+<td>Replies: <code>6</code></td>
+<td>Retweets: <code>206</code></td>
+<td>Favorites: <code>457</code></td>
+</tr></table>
+
+---
+# TheHackersNews
+**https://twitter.com/TheHackersNews/status/1305185204198277120 _at Sun Sep 13 16:42:56 +0000 2020_**
+<blockquote>
+Here's a PoC for the recently patched Microsoft Exchange Server remote code execution vulnerability (CVE-2020-16875).
+
+CVSS Score: 8.4
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>54</code></td>
+<td>Favorites: <code>96</code></td>
+</tr></table>
+
+---
+# cyber_advising
+**https://twitter.com/cyber_advising/status/1305146341992140803 _at Sun Sep 13 14:08:31 +0000 2020_**
+<blockquote>
+CVE-2020-16875: Microsoft Exchange Server DlpUtils AddTenantDlpPolicy Remote Code Execution Vulnerability
+
+PoC
+https://t.co/yjvJlbmchI https://t.co/V4HbRHEmZY
+</blockquote>
+
+* https://srcincite.io/pocs/cve-2020-16875.py.txt
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EhzPrZmXsAM_nD7.png" alt="http://pbs.twimg.com/media/EhzPrZmXsAM_nD7.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>50</code></td>
+<td>Favorites: <code>108</code></td>
+</tr></table>
+
+---
 # reverseame
 **https://twitter.com/reverseame/status/1304301839442227201 _at Fri Sep 11 06:12:45 +0000 2020_**
 <blockquote>
@@ -11,6 +68,26 @@ CVE-2020-1571 Windows Setup Elevation of Privileges Bypass 0day https://t.co/bLp
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>2</code></td>
 <td>Favorites: <code>1</code></td>
+</tr></table>
+
+---
+# ptracesecurity
+**https://twitter.com/ptracesecurity/status/1304299580117442561 _at Fri Sep 11 06:03:47 +0000 2020_**
+<blockquote>
+CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze  https://t.co/TIM3dXQ0mG  #Pentesting #RCE #CVE #Vulnerability #Infosec https://t.co/jxt2oxiPvc
+</blockquote>
+
+* https://github.com/geffner/CVE-2020-8150
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EhnNjhpXkAAWL4j.jpg" alt="http://pbs.twimg.com/media/EhnNjhpXkAAWL4j.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EhnNjhrWAAAkJr4.jpg" alt="http://pbs.twimg.com/media/EhnNjhrWAAAkJr4.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>5</code></td>
+<td>Favorites: <code>13</code></td>
 </tr></table>
 
 ---
@@ -29,10 +106,28 @@ poc (ps-remoting): https://t.co/ziVbNP3jXN
 * https://srcincite.io/pocs/cve-2020-16875.ps1.txt
 
 <table><tr>
-<td>Quotes: <code>6</code></td>
+<td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>182</code></td>
-<td>Favorites: <code>314</code></td>
+<td>Retweets: <code>208</code></td>
+<td>Favorites: <code>351</code></td>
+</tr></table>
+
+---
+# kmkz_security
+**https://twitter.com/kmkz_security/status/1303956979967299585 _at Thu Sep 10 07:22:25 +0000 2020_**
+<blockquote>
+F5 Big-IP RCE writeup + full exploit https://t.co/mosecvS59p
+Exploit: https://t.co/tgPRb3GKeZ
+</blockquote>
+
+* https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/
+* https://github.com/Critical-Start/Team-Ares/tree/master/CVE-2020-5902
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>206</code></td>
+<td>Favorites: <code>362</code></td>
 </tr></table>
 
 ---
@@ -57,6 +152,28 @@ Full vulnerability details (including PoC) at https://t.co/WHwNlV3xZ4
 </tr></table>
 
 ---
+# steventseeley
+**https://twitter.com/steventseeley/status/1303454166820556800 _at Tue Sep 08 22:04:25 +0000 2020_**
+<blockquote>
+So CVE-2020-1523 and CVE-2020-1440 are actually powerful SSRF bugs and not just result in "tampering". Likewise CVE-2020-16875 is certainly NOT a memory corruption and I have a full working RCE exploit.
+
+https://t.co/sAcdmv1QqD
+https://t.co/h2f0ZcaHV6
+https://t.co/JHegDlI9pW
+</blockquote>
+
+* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1523
+* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1440
+* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16875
+
+<table><tr>
+<td>Quotes: <code>6</code></td>
+<td>Replies: <code>8</code></td>
+<td>Retweets: <code>75</code></td>
+<td>Favorites: <code>255</code></td>
+</tr></table>
+
+---
 # _r_netsec
 **https://twitter.com/_r_netsec/status/1303426162429890560 _at Tue Sep 08 20:13:08 +0000 2020_**
 <blockquote>
@@ -70,6 +187,31 @@ CVE-2020-1013: Windows Local Privilege Escalation (LPE) with PoC https://t.co/sJ
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>36</code></td>
 <td>Favorites: <code>60</code></td>
+</tr></table>
+
+---
+# hosselot
+**https://twitter.com/hosselot/status/1303398192793477124 _at Tue Sep 08 18:21:59 +0000 2020_**
+<blockquote>
+4 more RCE Vulnerabilities in Microsoft September patch Tuesday:
+
+Windows Camera Codec Pack:
+CVE-2020-0997
+
+Windows Codecs Library:
+CVE-2020-1129
+
+Jet Database Engine:
+CVE-2020-1039
+CVE-2020-1074
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>8</code></td>
+<td>Favorites: <code>82</code></td>
 </tr></table>
 
 ---
@@ -5192,8 +5334,8 @@ https://t.co/qd7W8mRheh - CVE-2019-11563
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>3</code></td>
-<td>Favorites: <code>9</code></td>
+<td>Retweets: <code>4</code></td>
+<td>Favorites: <code>10</code></td>
 </tr></table>
 
 ---
@@ -6365,8 +6507,8 @@ Proof of Concept Demo Video https://t.co/K3PRkb753s
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>147</code></td>
-<td>Favorites: <code>304</code></td>
+<td>Retweets: <code>146</code></td>
+<td>Favorites: <code>303</code></td>
 </tr></table>
 
 ---
@@ -7145,8 +7287,8 @@ Impressive: Someone wrote a compiler which compiles cheats (for Counterstrike) t
 <table><tr>
 <td>Quotes: <code>36</code></td>
 <td>Replies: <code>17</code></td>
-<td>Retweets: <code>520</code></td>
-<td>Favorites: <code>1436</code></td>
+<td>Retweets: <code>518</code></td>
+<td>Favorites: <code>1430</code></td>
 </tr></table>
 
 ---
@@ -7777,8 +7919,8 @@ https://t.co/DdO0bztrO5
 <table><tr>
 <td>Quotes: <code>21</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>391</code></td>
-<td>Favorites: <code>500</code></td>
+<td>Retweets: <code>390</code></td>
+<td>Favorites: <code>497</code></td>
 </tr></table>
 
 ---
@@ -8000,7 +8142,7 @@ Hoping to head off another catastrophic worm, Microsoft took the unusual step of
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>67</code></td>
+<td>Retweets: <code>65</code></td>
 <td>Favorites: <code>81</code></td>
 </tr></table>
 
@@ -8089,7 +8231,7 @@ CVE-2019-0726/ZDI-19-272: @HexKitchen details a vuln in the #Windows DHCP Client
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>85</code></td>
-<td>Favorites: <code>142</code></td>
+<td>Favorites: <code>141</code></td>
 </tr></table>
 
 ---
@@ -8259,7 +8401,7 @@ Microsoft fixed a Windows 0day (CVE-2019-0808) in Patch Tuesday. Our team constr
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>192</code></td>
-<td>Favorites: <code>313</code></td>
+<td>Favorites: <code>311</code></td>
 </tr></table>
 
 ---
@@ -8472,8 +8614,8 @@ https://t.co/IUWnx1mgZM https://t.co/M72aT42a5J
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>112</code></td>
-<td>Favorites: <code>184</code></td>
+<td>Retweets: <code>111</code></td>
+<td>Favorites: <code>181</code></td>
 </tr></table>
 
 ---
@@ -8622,6 +8764,23 @@ Adobe has yesterday released an emergency update to patch it. https://t.co/igRAJ
 </tr></table>
 
 ---
+# wugeej
+**https://twitter.com/wugeej/status/1070496866813394944 _at Thu Dec 06 01:55:16 +0000 2018_**
+<blockquote>
+[CVE-2018-8021] Apache Superset Remote Code Execution Proof-Of-Concept and Exploit
+https://t.co/lKEUjqSZpP
+</blockquote>
+
+* https://github.com/r3dxpl0it/Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>1</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
 # ScottyBauer1
 **https://twitter.com/ScottyBauer1/status/1069717108672598019 _at Mon Dec 03 22:16:47 +0000 2018_**
 <blockquote>
@@ -8645,8 +8804,8 @@ https://t.co/gLarrCPPZX
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>64</code></td>
-<td>Favorites: <code>139</code></td>
+<td>Retweets: <code>63</code></td>
+<td>Favorites: <code>138</code></td>
 </tr></table>
 
 ---
@@ -9002,7 +9161,7 @@ https://t.co/iHVe8yHom3
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>93</code></td>
-<td>Favorites: <code>136</code></td>
+<td>Favorites: <code>135</code></td>
 </tr></table>
 
 ---
@@ -9330,8 +9489,8 @@ https://t.co/41B0sprlyV
 <table><tr>
 <td>Quotes: <code>12</code></td>
 <td>Replies: <code>16</code></td>
-<td>Retweets: <code>488</code></td>
-<td>Favorites: <code>648</code></td>
+<td>Retweets: <code>487</code></td>
+<td>Favorites: <code>649</code></td>
 </tr></table>
 
 ---
@@ -9673,7 +9832,7 @@ Well that didn't take long ;-) https://t.co/8cLYIK6IKZ =&gt; http://t.co/6Mu2Z2l
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>36</code></td>
+<td>Retweets: <code>37</code></td>
 <td>Favorites: <code>14</code></td>
 </tr></table>
 
