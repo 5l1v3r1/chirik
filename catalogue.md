@@ -1,5 +1,3 @@
----
-
 # 1120362990
 
 ## vulnerability-list
@@ -17,8 +15,6 @@
 <td>Forks: <code>131</code></td>
 </tr></table>
 
----
-
 # 18F
 
 ## vulnerability-disclosure-policy
@@ -33,8 +29,6 @@ The vulnerability disclosure policy for 18F and GSA's Technology Transformation 
 <td>Watchers: <code>21</code></td>
 <td>Forks: <code>23</code></td>
 </tr></table>
-
----
 
 # 1d8
 
@@ -418,8 +412,6 @@ made for osint searches
 <td>Forks: <code>1</code></td>
 </tr></table>
 
----
-
 # 649
 
 ## Memcrashed-DDoS-Exploit
@@ -436,8 +428,6 @@ DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers 
 <td>Watchers: <code>958</code></td>
 <td>Forks: <code>403</code></td>
 </tr></table>
-
----
 
 # abatchy17
 
@@ -456,8 +446,6 @@ Windows exploits, mostly precompiled. Not being updated. Check https://github.co
 <td>Forks: <code>489</code></td>
 </tr></table>
 
----
-
 # abdulfatir
 
 ## twitter-sentiment-analysis
@@ -474,8 +462,6 @@ Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 <td>Watchers: <code>879</code></td>
 <td>Forks: <code>410</code></td>
 </tr></table>
-
----
 
 # adeshpande3
 
@@ -494,8 +480,6 @@ Sentiment Analysis with LSTMs in Tensorflow
 <td>Forks: <code>414</code></td>
 </tr></table>
 
----
-
 # Adubbz
 
 ## Compelled-Disclosure
@@ -513,8 +497,6 @@ Dump sysmodule save data (and eventually restore it too)
 <td>Forks: <code>6</code></td>
 </tr></table>
 
----
-
 # AileenNielsen
 
 ## TimeSeriesAnalysisWithPython
@@ -527,8 +509,6 @@ Dump sysmodule save data (and eventually restore it too)
 <td>Watchers: <code>953</code></td>
 <td>Forks: <code>691</code></td>
 </tr></table>
-
----
 
 # almandin
 
@@ -547,8 +527,6 @@ File upload vulnerability scanner and exploitation tool.
 <td>Forks: <code>295</code></td>
 </tr></table>
 
----
-
 # am0nsec
 
 ## exploit
@@ -565,8 +543,6 @@ Collection of different exploits
 <td>Watchers: <code>98</code></td>
 <td>Forks: <code>28</code></td>
 </tr></table>
-
----
 
 # analysis-tools-dev
 
@@ -585,8 +561,6 @@ A curated list of static analysis tools for all programming languages, config fi
 <td>Forks: <code>893</code></td>
 </tr></table>
 
----
-
 # andresriancho
 
 ## w3af
@@ -604,8 +578,6 @@ w3af: web application attack and audit framework, the open source web vulnerabil
 <td>Forks: <code>1018</code></td>
 </tr></table>
 
----
-
 # android-cn
 
 ## android-open-project-analysis
@@ -620,8 +592,6 @@ Analysis implementation of android open source project, 微信公众号:codekk, 
 <td>Watchers: <code>6626</code></td>
 <td>Forks: <code>2286</code></td>
 </tr></table>
-
----
 
 # angr
 
@@ -640,8 +610,6 @@ A powerful and user-friendly binary analysis platform!
 <td>Forks: <code>759</code></td>
 </tr></table>
 
----
-
 # AonCyberLabs
 
 ## Windows-Exploit-Suggester
@@ -658,8 +626,6 @@ This tool compares a targets patch levels against the Microsoft vulnerability da
 <td>Watchers: <code>2385</code></td>
 <td>Forks: <code>737</code></td>
 </tr></table>
-
----
 
 # archerysec
 
@@ -678,8 +644,6 @@ Centralize Vulnerability Assessment and Management for DevSecOps Team
 <td>Forks: <code>367</code></td>
 </tr></table>
 
----
-
 # arminc
 
 ## clair-scanner
@@ -696,8 +660,6 @@ Docker containers vulnerability scan
 <td>Watchers: <code>613</code></td>
 <td>Forks: <code>103</code></td>
 </tr></table>
-
----
 
 # ashishb
 
@@ -1123,8 +1085,6 @@ By The People
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # atmoz
 
 ## sftp
@@ -1141,8 +1101,6 @@ Securely share your files
 <td>Watchers: <code>767</code></td>
 <td>Forks: <code>471</code></td>
 </tr></table>
-
----
 
 # badd1e
 
@@ -1161,8 +1119,6 @@ Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts
 <td>Forks: <code>63</code></td>
 </tr></table>
 
----
-
 # BastilleResearch
 
 ## CableTap
@@ -1179,8 +1135,6 @@ CableTap public disclosure documents.
 <td>Watchers: <code>70</code></td>
 <td>Forks: <code>20</code></td>
 </tr></table>
-
----
 
 # beefproject
 
@@ -1199,8 +1153,6 @@ The Browser Exploitation Framework Project
 <td>Forks: <code>1271</code></td>
 </tr></table>
 
----
-
 # bentrevett
 
 ## pytorch-sentiment-analysis
@@ -1218,8 +1170,6 @@ Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 <td>Forks: <code>589</code></td>
 </tr></table>
 
----
-
 # biocore
 
 ## qiime
@@ -1236,8 +1186,6 @@ Official QIIME 1 software repository. QIIME 2 (https://qiime2.org) has succeeded
 <td>Watchers: <code>266</code></td>
 <td>Forks: <code>263</code></td>
 </tr></table>
-
----
 
 # bluscreenofjeff
 
@@ -1377,8 +1325,6 @@ Repo for some Slack bots
 <td>Forks: <code>4</code></td>
 </tr></table>
 
----
-
 # briatte
 
 ## awesome-network-analysis
@@ -1396,8 +1342,6 @@ A curated list of awesome network analysis resources.
 <td>Forks: <code>442</code></td>
 </tr></table>
 
----
-
 # bugcrowd
 
 ## disclosure-policy
@@ -1413,8 +1357,6 @@ Open Source Vulnerability Disclosure Framework. Maintained by Bugcrowd.
 <td>Forks: <code>43</code></td>
 </tr></table>
 
----
-
 # BugHunterID
 
 ## HackerOneDB
@@ -1429,8 +1371,6 @@ The unofficial HackerOne disclosure Timeline
 <td>Watchers: <code>112</code></td>
 <td>Forks: <code>35</code></td>
 </tr></table>
-
----
 
 # burnegg
 
@@ -1448,8 +1388,6 @@ poc from bugscan beebeeto
 <td>Watchers: <code>14</code></td>
 <td>Forks: <code>249</code></td>
 </tr></table>
-
----
 
 # caciviclab
 
@@ -1497,8 +1435,6 @@ DEPRECATED (We're working on the "odca-jekyll" repo instead) California’s onli
 <td>Watchers: <code>7</code></td>
 <td>Forks: <code>15</code></td>
 </tr></table>
-
----
 
 # can1357
 
@@ -1682,8 +1618,6 @@ A dynamic VMP dumper and import fixer, powered by VTIL.
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # cfreal
 
 ## exploits
@@ -1700,8 +1634,6 @@ Some of my exploits.
 <td>Watchers: <code>523</code></td>
 <td>Forks: <code>153</code></td>
 </tr></table>
-
----
 
 # ChatSecure
 
@@ -1720,8 +1652,6 @@ ChatSecure is a free and open source encrypted chat client for iOS that supports
 <td>Forks: <code>1031</code></td>
 </tr></table>
 
----
-
 # cloudflare
 
 ## flan
@@ -1738,8 +1668,6 @@ A pretty sweet vulnerability scanner
 <td>Watchers: <code>3150</code></td>
 <td>Forks: <code>217</code></td>
 </tr></table>
-
----
 
 # cloudsec
 
@@ -1758,8 +1686,6 @@ Some kernel exploit i wrote
 <td>Forks: <code>53</code></td>
 </tr></table>
 
----
-
 # cmusphinx
 
 ## pocketsphinx
@@ -1776,8 +1702,6 @@ PocketSphinx is a lightweight speech recognition engine, specifically tuned for 
 <td>Watchers: <code>2666</code></td>
 <td>Forks: <code>566</code></td>
 </tr></table>
-
----
 
 # codeforbirmingham
 
@@ -1796,8 +1720,6 @@ Understanding Alabama Campaign Finance Data
 <td>Forks: <code>5</code></td>
 </tr></table>
 
----
-
 # codeforsanjose
 
 ## open-disclosure
@@ -1815,8 +1737,6 @@ A web app to track campaign finances for the General Election (November 3, 2020)
 <td>Forks: <code>11</code></td>
 </tr></table>
 
----
-
 # CollaboratingPlatypus
 
 ## PetaPoco
@@ -1833,8 +1753,6 @@ Official PetaPoco, A tiny ORM-ish thing for your POCO's
 <td>Watchers: <code>1739</code></td>
 <td>Forks: <code>575</code></td>
 </tr></table>
-
----
 
 # darkmentorllc
 
@@ -1867,8 +1785,6 @@ Official PetaPoco, A tiny ORM-ish thing for your POCO's
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # deepinsight
 
 ## insightface
@@ -1885,8 +1801,6 @@ Face Analysis Project on MXNet
 <td>Watchers: <code>7411</code></td>
 <td>Forks: <code>2631</code></td>
 </tr></table>
-
----
 
 # denoland
 
@@ -1905,8 +1819,6 @@ A secure JavaScript and TypeScript runtime
 <td>Forks: <code>3460</code></td>
 </tr></table>
 
----
-
 # dig-eg-gaz
 
 ## analysis
@@ -1921,8 +1833,6 @@ A repository containing extended analysis of serial questions, mostly by student
 <td>Watchers: <code>0</code></td>
 <td>Forks: <code>128</code></td>
 </tr></table>
-
----
 
 # digininja
 
@@ -1941,8 +1851,6 @@ Damn Vulnerable Web Application (DVWA)
 <td>Forks: <code>1398</code></td>
 </tr></table>
 
----
-
 # djadmin
 
 ## awesome-bug-bounty
@@ -1957,8 +1865,6 @@ A comprehensive curated list of available Bug Bounty & Disclosure Programs and W
 <td>Watchers: <code>2432</code></td>
 <td>Forks: <code>629</code></td>
 </tr></table>
-
----
 
 # DrunkenShells
 
@@ -1977,8 +1883,6 @@ Public Disclosures
 <td>Forks: <code>6</code></td>
 </tr></table>
 
----
-
 # duplicati
 
 ## duplicati
@@ -1995,8 +1899,6 @@ Store securely encrypted backups in the cloud!
 <td>Watchers: <code>5397</code></td>
 <td>Forks: <code>602</code></td>
 </tr></table>
-
----
 
 # edwardz246003
 
@@ -2015,8 +1917,6 @@ Buffer overflow in the ScStoragePathFromUrl function in the WebDAV service in In
 <td>Forks: <code>239</code></td>
 </tr></table>
 
----
-
 # ele7enxxh
 
 ## poc-exp
@@ -2033,8 +1933,6 @@ poc or exp of android vulnerability
 <td>Watchers: <code>350</code></td>
 <td>Forks: <code>111</code></td>
 </tr></table>
-
----
 
 # ElevenPaths
 
@@ -2053,8 +1951,6 @@ Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.
 <td>Forks: <code>525</code></td>
 </tr></table>
 
----
-
 # endymecy
 
 ## spark-ml-source-analysis
@@ -2069,8 +1965,6 @@ spark ml 算法原理剖析以及具体的源码实现分析
 <td>Watchers: <code>1758</code></td>
 <td>Forks: <code>829</code></td>
 </tr></table>
-
----
 
 # erevus-cn
 
@@ -2089,8 +1983,6 @@ Will to be a niubility scan-framework
 <td>Forks: <code>270</code></td>
 </tr></table>
 
----
-
 # exodusintel
 
 ## disclosures
@@ -2103,8 +1995,6 @@ Will to be a niubility scan-framework
 <td>Watchers: <code>113</code></td>
 <td>Forks: <code>26</code></td>
 </tr></table>
-
----
 
 # felixgr
 
@@ -2120,8 +2010,6 @@ Collection of the most common vulnerabilities found in iOS applications
 <td>Watchers: <code>1255</code></td>
 <td>Forks: <code>105</code></td>
 </tr></table>
-
----
 
 # firecracker-microvm
 
@@ -2139,8 +2027,6 @@ Secure and fast microVMs for serverless computing.
 <td>Watchers: <code>12724</code></td>
 <td>Forks: <code>862</code></td>
 </tr></table>
-
----
 
 # fireeye
 
@@ -2548,8 +2434,6 @@ Provides access to libhashcat
 <td>Forks: <code>4</code></td>
 </tr></table>
 
----
-
 # fonnesbeck
 
 ## statistical-analysis-python-tutorial
@@ -2567,8 +2451,6 @@ Statistical Data Analysis in Python
 <td>Forks: <code>882</code></td>
 </tr></table>
 
----
-
 # freedomofpress
 
 ## securedrop
@@ -2585,8 +2467,6 @@ GitHub repository for the SecureDrop whistleblower platform. Do not submit tips 
 <td>Watchers: <code>2921</code></td>
 <td>Forks: <code>593</code></td>
 </tr></table>
-
----
 
 # FSecureLABS
 
@@ -3018,8 +2898,6 @@ jdiesel fuels the drozer
 <td>Forks: <code>11</code></td>
 </tr></table>
 
----
-
 # future-architect
 
 ## vuls
@@ -3037,8 +2915,6 @@ Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Progr
 <td>Forks: <code>872</code></td>
 </tr></table>
 
----
-
 # Gallopsled
 
 ## pwntools
@@ -3055,8 +2931,6 @@ CTF framework and exploit development library
 <td>Watchers: <code>6999</code></td>
 <td>Forks: <code>1283</code></td>
 </tr></table>
-
----
 
 # Genivia
 
@@ -3150,8 +3024,6 @@ Companion module for SJOT schemas, creates a SJOT schema from JSON data to effic
 <td>Forks: <code>17</code></td>
 </tr></table>
 
----
-
 # github
 
 ## secure_headers
@@ -3168,8 +3040,6 @@ Manages application of security headers with many safe defaults
 <td>Watchers: <code>2802</code></td>
 <td>Forks: <code>221</code></td>
 </tr></table>
-
----
 
 # googleprojectzero
 
@@ -3446,8 +3316,6 @@ A fork of AFL for fuzzing Windows binaries
 <td>Forks: <code>395</code></td>
 </tr></table>
 
----
-
 # gorilla
 
 ## securecookie
@@ -3464,8 +3332,6 @@ Package gorilla/securecookie encodes and decodes authenticated and optionally en
 <td>Watchers: <code>474</code></td>
 <td>Forks: <code>102</code></td>
 </tr></table>
-
----
 
 # greenbone
 
@@ -3484,8 +3350,6 @@ Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Mana
 <td>Forks: <code>238</code></td>
 </tr></table>
 
----
-
 # guardianproject
 
 ## ChatSecureAndroid
@@ -3502,8 +3366,6 @@ This project has ended, but ChatSecure iOS continues. For Android, please use Co
 <td>Watchers: <code>1070</code></td>
 <td>Forks: <code>546</code></td>
 </tr></table>
-
----
 
 # hadley
 
@@ -3522,8 +3384,6 @@ Secure private R data in public packages
 <td>Forks: <code>17</code></td>
 </tr></table>
 
----
-
 # hahwul
 
 ## a2sv
@@ -3540,8 +3400,6 @@ Auto Scanning to SSL Vulnerability
 <td>Watchers: <code>455</code></td>
 <td>Forks: <code>140</code></td>
 </tr></table>
-
----
 
 # Haivision
 
@@ -3560,8 +3418,6 @@ Secure, Reliable, Transport
 <td>Forks: <code>409</code></td>
 </tr></table>
 
----
-
 # hapijs
 
 ## hapi
@@ -3578,8 +3434,6 @@ The Simple, Secure Framework Developers Trust
 <td>Watchers: <code>12715</code></td>
 <td>Forks: <code>1302</code></td>
 </tr></table>
-
----
 
 # HarmJoy
 
@@ -3989,8 +3843,6 @@ Powershell-based Windows Security Auditing Toolbox
 <td>Forks: <code>1</code></td>
 </tr></table>
 
----
-
 # HASecuritySolutions
 
 ## VulnWhisperer
@@ -4007,8 +3859,6 @@ Create actionable data from your Vulnerability Scans
 <td>Watchers: <code>1037</code></td>
 <td>Forks: <code>188</code></td>
 </tr></table>
-
----
 
 # hhlxf
 
@@ -4062,8 +3912,6 @@ This repo contains samples that demonstrate the API used in Windows classic desk
 <td>Forks: <code>1</code></td>
 </tr></table>
 
----
-
 # huaban
 
 ## jieba-analysis
@@ -4081,8 +3929,6 @@ This repo contains samples that demonstrate the API used in Windows classic desk
 <td>Forks: <code>661</code></td>
 </tr></table>
 
----
-
 # imthenachoman
 
 ## How-To-Secure-A-Linux-Server
@@ -4097,8 +3943,6 @@ An evolving how-to guide for securing a Linux server.
 <td>Watchers: <code>10522</code></td>
 <td>Forks: <code>641</code></td>
 </tr></table>
-
----
 
 # incredibleindishell
 
@@ -4117,8 +3961,6 @@ This is sample code to demonstrate how one can use SQL Injection vulnerability t
 <td>Forks: <code>14</code></td>
 </tr></table>
 
----
-
 # infobyte
 
 ## faraday
@@ -4136,8 +3978,6 @@ Collaborative Penetration Test and Vulnerability Management Platform
 <td>Forks: <code>641</code></td>
 </tr></table>
 
----
-
 # InteliSecureLabs
 
 ## Linux_Exploit_Suggester
@@ -4154,8 +3994,6 @@ Linux Exploit Suggester; based on operating system release number
 <td>Watchers: <code>1433</code></td>
 <td>Forks: <code>405</code></td>
 </tr></table>
-
----
 
 # Invoke-IR
 
@@ -4280,8 +4118,6 @@ A PowerShell module to abstract the complexities of Permanent WMI Event Subscrip
 <td>Forks: <code>8</code></td>
 </tr></table>
 
----
-
 # irsdl
 
 ## IIS-ShortName-Scanner
@@ -4298,8 +4134,6 @@ latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 <td>Watchers: <code>480</code></td>
 <td>Forks: <code>132</code></td>
 </tr></table>
-
----
 
 # istio
 
@@ -4318,8 +4152,6 @@ Connect, secure, control, and observe services.
 <td>Forks: <code>4701</code></td>
 </tr></table>
 
----
-
 # j3ssie
 
 ## Osmedeus
@@ -4336,8 +4168,6 @@ Fully automated offensive security framework for reconnaissance and vulnerabilit
 <td>Watchers: <code>2582</code></td>
 <td>Forks: <code>507</code></td>
 </tr></table>
-
----
 
 # jaliss
 
@@ -4356,8 +4186,6 @@ A module that provides OAuth, OAuth2 and OpenID authentication for Play Framewor
 <td>Forks: <code>540</code></td>
 </tr></table>
 
----
-
 # jollheef
 
 ## libreoffice-remote-arbitrary-file-disclosure
@@ -4372,8 +4200,6 @@ Proof of concept of LibreOffice remote arbitrary file disclosure vulnerability
 <td>Watchers: <code>92</code></td>
 <td>Forks: <code>13</code></td>
 </tr></table>
-
----
 
 # klinix5
 
@@ -4452,8 +4278,6 @@ lol MS
 <td>Watchers: <code>60</code></td>
 <td>Forks: <code>20</code></td>
 </tr></table>
-
----
 
 # kmkz
 
@@ -4685,8 +4509,6 @@ Windows UAC Bypass
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # knownsec
 
 ## Pocsuite
@@ -4719,8 +4541,6 @@ pocsuite3 is an open-sourced remote vulnerability testing framework developed by
 <td>Forks: <code>408</code></td>
 </tr></table>
 
----
-
 # LandGrey
 
 ## SpringBootVulExploit
@@ -4737,8 +4557,6 @@ SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全
 <td>Watchers: <code>1205</code></td>
 <td>Forks: <code>277</code></td>
 </tr></table>
-
----
 
 # lessfish
 
@@ -4757,8 +4575,6 @@ SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全
 <td>Forks: <code>658</code></td>
 </tr></table>
 
----
-
 # lgandx
 
 ## PoC
@@ -4775,8 +4591,6 @@ Various PoCs
 <td>Watchers: <code>482</code></td>
 <td>Forks: <code>218</code></td>
 </tr></table>
-
----
 
 # lijiejie
 
@@ -4825,8 +4639,6 @@ A `.git` folder disclosure exploit
 <td>Forks: <code>623</code></td>
 </tr></table>
 
----
-
 # LittleFriendsGroup
 
 ## AndroidSdkSourceAnalysis
@@ -4841,8 +4653,6 @@ android sdk 源码解析——旨在帮助Android开发者更好的学习Android
 <td>Watchers: <code>5975</code></td>
 <td>Forks: <code>1434</code></td>
 </tr></table>
-
----
 
 # lucxssouza
 
@@ -4965,8 +4775,6 @@ Communicate with telegram bot, to get zabbix infos
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # lucyoa
 
 ## kernel-exploits
@@ -4979,8 +4787,6 @@ Communicate with telegram bot, to get zabbix infos
 <td>Watchers: <code>604</code></td>
 <td>Forks: <code>233</code></td>
 </tr></table>
-
----
 
 # m0mchil
 
@@ -4999,8 +4805,6 @@ PyOpenCL bitcoin miner
 <td>Forks: <code>359</code></td>
 </tr></table>
 
----
-
 # m0nad
 
 ## HellRaiser
@@ -5017,8 +4821,6 @@ Vulnerability Scanner
 <td>Watchers: <code>369</code></td>
 <td>Forks: <code>124</code></td>
 </tr></table>
-
----
 
 # mai-lang-chai
 
@@ -5037,8 +4839,6 @@ CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
 <td>Forks: <code>233</code></td>
 </tr></table>
 
----
-
 # malwares
 
 ## ExploitKit
@@ -5056,8 +4856,6 @@ Exploitkit
 <td>Forks: <code>129</code></td>
 </tr></table>
 
----
-
 # mame82
 
 ## UnifyingVulnsDisclosureRepo
@@ -5074,8 +4872,6 @@ Formerly private repository for discussion, knowledge- and code-sharing around n
 <td>Watchers: <code>111</code></td>
 <td>Forks: <code>21</code></td>
 </tr></table>
-
----
 
 # maxpl0it
 
@@ -5257,8 +5053,6 @@ An unauthenticated PoC for CVE-2020-0796
 <td>Forks: <code>6</code></td>
 </tr></table>
 
----
-
 # mcw0
 
 ## PoC
@@ -5275,8 +5069,6 @@ Issues has been disabled for these PoC's, as they are simply PoC, Public Domain 
 <td>Watchers: <code>316</code></td>
 <td>Forks: <code>153</code></td>
 </tr></table>
-
----
 
 # medcl
 
@@ -5310,8 +5102,6 @@ This Pinyin Analysis plugin is used to do conversion between Chinese characters 
 <td>Forks: <code>393</code></td>
 </tr></table>
 
----
-
 # mm0r1
 
 ## exploits
@@ -5328,8 +5118,6 @@ Pwn stuff.
 <td>Watchers: <code>862</code></td>
 <td>Forks: <code>226</code></td>
 </tr></table>
-
----
 
 # mnemonic-no
 
@@ -5661,8 +5449,6 @@ SNIcat
 <td>Forks: <code>14</code></td>
 </tr></table>
 
----
-
 # mobify
 
 ## bellows
@@ -5679,8 +5465,6 @@ A responsive, mobile-first accordion UI module for progressive disclosure on the
 <td>Watchers: <code>141</code></td>
 <td>Forks: <code>25</code></td>
 </tr></table>
-
----
 
 # monero-project
 
@@ -5699,8 +5483,6 @@ Monero: the secure, private, untraceable cryptocurrency
 <td>Forks: <code>2313</code></td>
 </tr></table>
 
----
-
 # mpgn
 
 ## CVE-2019-5418
@@ -5715,8 +5497,6 @@ CVE-2019-5418 - File Content Disclosure on Ruby on Rails
 <td>Watchers: <code>157</code></td>
 <td>Forks: <code>17</code></td>
 </tr></table>
-
----
 
 # Mr-xn
 
@@ -5735,8 +5515,6 @@ CVE-2019-5418 - File Content Disclosure on Ruby on Rails
 <td>Forks: <code>704</code></td>
 </tr></table>
 
----
-
 # mubix
 
 ## post-exploitation
@@ -5753,8 +5531,6 @@ Post Exploitation Collection
 <td>Watchers: <code>1321</code></td>
 <td>Forks: <code>329</code></td>
 </tr></table>
-
----
 
 # MyKings
 
@@ -5773,8 +5549,6 @@ Use the docker to build a vulnerability environment
 <td>Forks: <code>136</code></td>
 </tr></table>
 
----
-
 # mzet-
 
 ## linux-exploit-suggester
@@ -5791,8 +5565,6 @@ Linux privilege escalation auditing tool
 <td>Watchers: <code>2055</code></td>
 <td>Forks: <code>561</code></td>
 </tr></table>
-
----
 
 # nanshihui
 
@@ -5811,8 +5583,6 @@ a plenty of poc based on python
 <td>Forks: <code>180</code></td>
 </tr></table>
 
----
-
 # neex
 
 ## gifoeb
@@ -5829,8 +5599,6 @@ exploit for ImageMagick's uninitialized memory disclosure in gif coder
 <td>Watchers: <code>228</code></td>
 <td>Forks: <code>52</code></td>
 </tr></table>
-
----
 
 # networkx
 
@@ -5849,8 +5617,6 @@ Network Analysis in Python
 <td>Forks: <code>2057</code></td>
 </tr></table>
 
----
-
 # nixawk
 
 ## labs
@@ -5868,8 +5634,6 @@ Vulnerability Labs for security analysis
 <td>Forks: <code>430</code></td>
 </tr></table>
 
----
-
 # nomi-sec
 
 ## PoC-in-GitHub
@@ -5884,8 +5648,6 @@ Vulnerability Labs for security analysis
 <td>Watchers: <code>994</code></td>
 <td>Forks: <code>236</code></td>
 </tr></table>
-
----
 
 # nsacyber
 
@@ -5919,8 +5681,6 @@ Configuration guidance for implementing the Windows 10 and Windows Server 2016 D
 <td>Forks: <code>256</code></td>
 </tr></table>
 
----
-
 # NullArray
 
 ## AutoSploit
@@ -5937,8 +5697,6 @@ Automated Mass Exploiter
 <td>Watchers: <code>4207</code></td>
 <td>Forks: <code>1082</code></td>
 </tr></table>
-
----
 
 # offensive-security
 
@@ -5972,8 +5730,6 @@ Exploit Database binary exploits located in the /sploits directory
 <td>Forks: <code>458</code></td>
 </tr></table>
 
----
-
 # OpenZeppelin
 
 ## openzeppelin-contracts
@@ -5991,8 +5747,6 @@ OpenZeppelin Contracts is a library for secure smart contract development.
 <td>Forks: <code>3541</code></td>
 </tr></table>
 
----
-
 # ossf
 
 ## wg-vulnerability-disclosures
@@ -6007,8 +5761,6 @@ OpenZeppelin Contracts is a library for secure smart contract development.
 <td>Watchers: <code>47</code></td>
 <td>Forks: <code>12</code></td>
 </tr></table>
-
----
 
 # OWASP
 
@@ -6042,8 +5794,6 @@ SEDATED® Project (Sensitive Enterprise Data Analyzer To Eliminate Disclosure)
 <td>Forks: <code>21</code></td>
 </tr></table>
 
----
-
 # paboldin
 
 ## meltdown-exploit
@@ -6061,8 +5811,6 @@ Meltdown Exploit PoC
 <td>Forks: <code>283</code></td>
 </tr></table>
 
----
-
 # payloadbox
 
 ## xss-payload-list
@@ -6078,8 +5826,6 @@ Meltdown Exploit PoC
 <td>Forks: <code>415</code></td>
 </tr></table>
 
----
-
 # pedrib
 
 ## PoC
@@ -6092,8 +5838,6 @@ Meltdown Exploit PoC
 <td>Watchers: <code>267</code></td>
 <td>Forks: <code>81</code></td>
 </tr></table>
-
----
 
 # phpseclib
 
@@ -6112,8 +5856,6 @@ PHP Secure Communications Library
 <td>Forks: <code>680</code></td>
 </tr></table>
 
----
-
 # pigigaldi
 
 ## Pock
@@ -6130,8 +5872,6 @@ Display macOS Dock in Touch Bar
 <td>Watchers: <code>8097</code></td>
 <td>Forks: <code>313</code></td>
 </tr></table>
-
----
 
 # pmmp
 
@@ -6150,8 +5890,6 @@ A server software for Minecraft: Bedrock Edition in PHP
 <td>Forks: <code>1263</code></td>
 </tr></table>
 
----
-
 # pockethub
 
 ## PocketHub
@@ -6168,8 +5906,6 @@ PocketHub Android App
 <td>Watchers: <code>9478</code></td>
 <td>Forks: <code>3609</code></td>
 </tr></table>
-
----
 
 # PocketMine
 
@@ -6188,8 +5924,6 @@ Legacy PocketMine-MP repository. Head to https://github.com/pmmp for up to date 
 <td>Forks: <code>682</code></td>
 </tr></table>
 
----
-
 # pocketsvg
 
 ## PocketSVG
@@ -6206,8 +5940,6 @@ Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths
 <td>Watchers: <code>1359</code></td>
 <td>Forks: <code>198</code></td>
 </tr></table>
-
----
 
 # pocoproject
 
@@ -6226,8 +5958,6 @@ The POCO C++ Libraries are powerful cross-platform C++ libraries for building ne
 <td>Forks: <code>1479</code></td>
 </tr></table>
 
----
-
 # PowerShellMafia
 
 ## PowerSploit
@@ -6245,8 +5975,6 @@ PowerSploit - A PowerShell Post-Exploitation Framework
 <td>Forks: <code>2860</code></td>
 </tr></table>
 
----
-
 # projectdiscovery
 
 ## public-bugbounty-programs
@@ -6262,8 +5990,6 @@ Community curated list of public bugbounty and responsible disclosure programs.
 <td>Forks: <code>68</code></td>
 </tr></table>
 
----
-
 # qazbnm456
 
 ## awesome-cve-poc
@@ -6278,8 +6004,6 @@ Community curated list of public bugbounty and responsible disclosure programs.
 <td>Watchers: <code>2420</code></td>
 <td>Forks: <code>601</code></td>
 </tr></table>
-
----
 
 # quay
 
@@ -6297,8 +6021,6 @@ Vulnerability Static Analysis for Containers
 <td>Watchers: <code>6946</code></td>
 <td>Forks: <code>881</code></td>
 </tr></table>
-
----
 
 # r4j0x00
 
@@ -6493,8 +6215,6 @@ Matrix multiplication benchmarking
 <td>Watchers: <code>0</code></td>
 <td>Forks: <code>0</code></td>
 </tr></table>
-
----
 
 # rapid7
 
@@ -6918,8 +6638,6 @@ Centrally and dynamically change configuration values of your services!
 <td>Forks: <code>8</code></td>
 </tr></table>
 
----
-
 # rdpeng
 
 ## ExData_Plotting1
@@ -6935,8 +6653,6 @@ Plotting Assignment 1 for Exploratory Data Analysis
 <td>Forks: <code>54050</code></td>
 </tr></table>
 
----
-
 # rednaga
 
 ## disclosures
@@ -6951,8 +6667,6 @@ A place for disclosing things
 <td>Watchers: <code>37</code></td>
 <td>Forks: <code>10</code></td>
 </tr></table>
-
----
 
 # ReFirmLabs
 
@@ -6971,8 +6685,6 @@ Firmware Analysis Tool
 <td>Forks: <code>986</code></td>
 </tr></table>
 
----
-
 # restic
 
 ## restic
@@ -6989,8 +6701,6 @@ Fast, secure, efficient backup program
 <td>Watchers: <code>10860</code></td>
 <td>Forks: <code>771</code></td>
 </tr></table>
-
----
 
 # rezasp
 
@@ -7009,8 +6719,6 @@ OWASP Joomla Vulnerability Scanner Project
 <td>Forks: <code>171</code></td>
 </tr></table>
 
----
-
 # rhiever
 
 ## Data-Analysis-and-Machine-Learning-Projects
@@ -7027,8 +6735,6 @@ Repository of teaching materials, code, and data for my data analysis and machin
 <td>Watchers: <code>4800</code></td>
 <td>Forks: <code>1812</code></td>
 </tr></table>
-
----
 
 # RhinoSecurityLabs
 
@@ -7253,8 +6959,6 @@ A tool geared towards pentesting APIs using OpenAPI definitions.
 <td>Forks: <code>15</code></td>
 </tr></table>
 
----
-
 # ronmamo
 
 ## reflections
@@ -7272,8 +6976,6 @@ Java runtime metadata analysis
 <td>Forks: <code>559</code></td>
 </tr></table>
 
----
-
 # rshipp
 
 ## awesome-malware-analysis
@@ -7288,8 +6990,6 @@ Defund the Police.
 <td>Watchers: <code>6467</code></td>
 <td>Forks: <code>1817</code></td>
 </tr></table>
-
----
 
 # rsmbl
 
@@ -7308,8 +7008,6 @@ Image analysis and comparison
 <td>Forks: <code>398</code></td>
 </tr></table>
 
----
-
 # s0md3v
 
 ## Striker
@@ -7326,8 +7024,6 @@ Striker is an offensive information and vulnerability scanner.
 <td>Watchers: <code>1567</code></td>
 <td>Forks: <code>362</code></td>
 </tr></table>
-
----
 
 # sakurity
 
@@ -7346,8 +7042,6 @@ This version won't be maintained!
 <td>Forks: <code>58</code></td>
 </tr></table>
 
----
-
 # scipag
 
 ## vulscan
@@ -7364,8 +7058,6 @@ Advanced vulnerability scanning with Nmap NSE
 <td>Watchers: <code>1685</code></td>
 <td>Forks: <code>421</code></td>
 </tr></table>
-
----
 
 # scottyab
 
@@ -7384,8 +7076,6 @@ Android Shared preference wrapper than encrypts the values of Shared Preferences
 <td>Forks: <code>242</code></td>
 </tr></table>
 
----
-
 # seaswalker
 
 ## spring-analysis
@@ -7402,8 +7092,6 @@ Spring源码阅读
 <td>Watchers: <code>9116</code></td>
 <td>Forks: <code>3086</code></td>
 </tr></table>
-
----
 
 # SecWiki
 
@@ -7436,8 +7124,6 @@ windows-kernel-exploits   Windows平台提权漏洞集合
 <td>Watchers: <code>4592</code></td>
 <td>Forks: <code>2117</code></td>
 </tr></table>
-
----
 
 # sensepost
 
@@ -7879,8 +7565,6 @@ Memcache hacking tool.
 <td>Forks: <code>4</code></td>
 </tr></table>
 
----
-
 # seoul-opengov
 
 ## opengov
@@ -7896,8 +7580,6 @@ Memcache hacking tool.
 <td>Forks: <code>59</code></td>
 </tr></table>
 
----
-
 # sergey-pronin
 
 ## Awesome-Vulnerability-Research
@@ -7912,8 +7594,6 @@ Memcache hacking tool.
 <td>Watchers: <code>579</code></td>
 <td>Forks: <code>118</code></td>
 </tr></table>
-
----
 
 # simple-android-framework
 
@@ -7931,8 +7611,6 @@ Android源码设计模式分析项目
 <td>Watchers: <code>2519</code></td>
 <td>Forks: <code>1498</code></td>
 </tr></table>
-
----
 
 # sk3ptre
 
@@ -8059,8 +7737,6 @@ Runtime memory analysis framework to identify Android malware
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # snyk
 
 ## vulnerabilitydb
@@ -8075,8 +7751,6 @@ Snyk's public vulnerability database
 <td>Watchers: <code>338</code></td>
 <td>Forks: <code>54</code></td>
 </tr></table>
-
----
 
 # spaceraccoon
 
@@ -8520,8 +8194,6 @@ SecLists is the security tester's companion. It's a collection of multiple types
 <td>Forks: <code>1</code></td>
 </tr></table>
 
----
-
 # spatie
 
 ## laravel-permission
@@ -8538,8 +8210,6 @@ Associate users with roles and permissions
 <td>Watchers: <code>8486</code></td>
 <td>Forks: <code>1276</code></td>
 </tr></table>
-
----
 
 # ssd-secure-disclosure
 
@@ -8558,8 +8228,6 @@ SSD Secure Disclosure Advisories
 <td>Forks: <code>28</code></td>
 </tr></table>
 
----
-
 # sucese
 
 ## android-open-source-project-analysis
@@ -8577,8 +8245,6 @@ Android open source project analysis. Note: The project has been moved to https:
 <td>Forks: <code>425</code></td>
 </tr></table>
 
----
-
 # sushiwushi
 
 ## bug-bounty-dorks
@@ -8593,8 +8259,6 @@ List of Google Dorks for sites that have responsible disclosure program / bug bo
 <td>Watchers: <code>214</code></td>
 <td>Forks: <code>64</code></td>
 </tr></table>
-
----
 
 # tenable
 
@@ -8613,8 +8277,6 @@ Proof of Concepts
 <td>Forks: <code>197</code></td>
 </tr></table>
 
----
-
 # Tencent
 
 ## PocketFlow
@@ -8631,8 +8293,6 @@ An Automatic Model Compression (AutoMC) framework for developing smaller and fas
 <td>Watchers: <code>2533</code></td>
 <td>Forks: <code>482</code></td>
 </tr></table>
-
----
 
 # thebigsmileXD
 
@@ -8651,8 +8311,6 @@ The new PocketMine. Now compatible with 0.13.
 <td>Forks: <code>6361</code></td>
 </tr></table>
 
----
-
 # the-robot
 
 ## sqliv
@@ -8669,8 +8327,6 @@ massive SQL injection vulnerability scanner
 <td>Watchers: <code>798</code></td>
 <td>Forks: <code>318</code></td>
 </tr></table>
-
----
 
 # thezdi
 
@@ -8689,8 +8345,6 @@ Proofs-of-concept
 <td>Forks: <code>147</code></td>
 </tr></table>
 
----
-
 # threat9
 
 ## routersploit
@@ -8708,8 +8362,6 @@ Exploitation Framework for Embedded Devices
 <td>Forks: <code>1841</code></td>
 </tr></table>
 
----
-
 # tinysec
 
 ## vulnerability
@@ -8726,8 +8378,6 @@ windows kernel vulnerability found by me
 <td>Watchers: <code>95</code></td>
 <td>Forks: <code>45</code></td>
 </tr></table>
-
----
 
 # TrapaSecurity
 
@@ -8751,8 +8401,6 @@ windows kernel vulnerability found by me
 <td>Forks: <code>0</code></td>
 </tr></table>
 
----
-
 # tyiannak
 
 ## pyAudioAnalysis
@@ -8769,8 +8417,6 @@ Python Audio Analysis Library: Feature Extraction, Classification, Segmentation 
 <td>Watchers: <code>3399</code></td>
 <td>Forks: <code>912</code></td>
 </tr></table>
-
----
 
 # tyranid
 
@@ -8789,8 +8435,6 @@ A tool to exploit .NET Remoting Services
 <td>Forks: <code>93</code></td>
 </tr></table>
 
----
-
 # unrolled
 
 ## secure
@@ -8808,8 +8452,6 @@ HTTP middleware for Go that facilitates some quick security wins.
 <td>Forks: <code>101</code></td>
 </tr></table>
 
----
-
 # ustbhuangyi
 
 ## vue-analysis
@@ -8826,8 +8468,6 @@ HTTP middleware for Go that facilitates some quick security wins.
 <td>Watchers: <code>5240</code></td>
 <td>Forks: <code>1137</code></td>
 </tr></table>
-
----
 
 # v8
 
@@ -8996,8 +8636,6 @@ JavaScript benchmark for common web developer workloads
 <td>Forks: <code>46</code></td>
 </tr></table>
 
----
-
 # veeral-patel
 
 ## how-to-secure-anything
@@ -9012,8 +8650,6 @@ How to systematically secure anything: a repository about security engineering
 <td>Watchers: <code>4286</code></td>
 <td>Forks: <code>214</code></td>
 </tr></table>
-
----
 
 # V-E-O
 
@@ -9032,8 +8668,6 @@ PoC of CVE/Exploit
 <td>Forks: <code>131</code></td>
 </tr></table>
 
----
-
 # VLSI-EDA
 
 ## PoC
@@ -9050,8 +8684,6 @@ IP Core Library - Published and maintained by the Chair for VLSI Design, Diagnos
 <td>Watchers: <code>326</code></td>
 <td>Forks: <code>80</code></td>
 </tr></table>
-
----
 
 # w-digital-scanner
 
@@ -9070,8 +8702,6 @@ Plug-in type web vulnerability scanner
 <td>Forks: <code>345</code></td>
 </tr></table>
 
----
-
 # WhitewidowScanner
 
 ## whitewidow
@@ -9088,8 +8718,6 @@ SQL Vulnerability Scanner
 <td>Watchers: <code>912</code></td>
 <td>Forks: <code>239</code></td>
 </tr></table>
-
----
 
 # WillKoehrsen
 
@@ -9108,8 +8736,6 @@ Data Science Using Python
 <td>Forks: <code>2822</code></td>
 </tr></table>
 
----
-
 # WindowsExploits
 
 ## Exploits
@@ -9127,8 +8753,6 @@ Windows Exploits
 <td>Forks: <code>465</code></td>
 </tr></table>
 
----
-
 # x0rz
 
 ## tweets_analyzer
@@ -9145,8 +8769,6 @@ Tweets metadata scraper & activity analyzer
 <td>Watchers: <code>2616</code></td>
 <td>Forks: <code>457</code></td>
 </tr></table>
-
----
 
 # xairy
 
@@ -9178,8 +8800,6 @@ A collection of links related to Linux kernel exploitation
 <td>Forks: <code>699</code></td>
 </tr></table>
 
----
-
 # XiphosResearch
 
 ## exploits
@@ -9196,8 +8816,6 @@ Miscellaneous exploit code
 <td>Watchers: <code>1071</code></td>
 <td>Forks: <code>500</code></td>
 </tr></table>
-
----
 
 # Xyntax
 
@@ -9216,8 +8834,6 @@ Miscellaneous exploit code
 <td>Forks: <code>725</code></td>
 </tr></table>
 
----
-
 # yarnpkg
 
 ## yarn
@@ -9234,8 +8850,6 @@ Miscellaneous exploit code
 <td>Watchers: <code>38960</code></td>
 <td>Forks: <code>2585</code></td>
 </tr></table>
-
----
 
 # yiisoft
 
@@ -9254,8 +8868,6 @@ Yii 2: The Fast, Secure and Professional PHP Framework
 <td>Forks: <code>6942</code></td>
 </tr></table>
 
----
-
 # Yochengliu
 
 ## awesome-point-cloud-analysis
@@ -9270,8 +8882,6 @@ A list of papers and datasets about point cloud analysis (processing)
 <td>Watchers: <code>2146</code></td>
 <td>Forks: <code>534</code></td>
 </tr></table>
-
----
 
 # zerosum0x0
 
@@ -9711,8 +9321,6 @@ Persistent IAT hooking application - based on bearparser.
 <td>Forks: <code>2</code></td>
 </tr></table>
 
----
-
 # ZtesoftCS
 
 ## go-ethereum-code-analysis
@@ -9723,8 +9331,6 @@ Persistent IAT hooking application - based on bearparser.
 <td>Watchers: <code>1577</code></td>
 <td>Forks: <code>668</code></td>
 </tr></table>
-
----
 
 # zwopple
 
