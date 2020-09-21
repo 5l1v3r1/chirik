@@ -1,3 +1,28 @@
+# gentilkiwi
+**https://twitter.com/gentilkiwi/status/1306178689630076929 _at Wed Sep 16 10:30:41 +0000 2020_**
+<blockquote>
+A new #mimikatz 🥝release with #zerologon / CVE-2020-1472 detection, exploit, DCSync support and a lots of love inside ❤️
+
+It now uses direct RPC call (fast and supports unauthenticated on Windows)
+
+&gt; https://t.co/Wzb5GAfWfd
+
+Thank you: @SecuraBV https://t.co/s7LRRLPRTP
+</blockquote>
+
+* https://github.com/gentilkiwi/mimikatz/releases
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EiB6H2cXsAAZi_s.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EiB6H2cXsAAZi_s.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>31</code></td>
+<td>Replies: <code>13</code></td>
+<td>Retweets: <code>568</code></td>
+<td>Favorites: <code>983</code></td>
+</tr></table>
+
+---
 # ptswarm
 **https://twitter.com/ptswarm/status/1305479737234599941 _at Mon Sep 14 12:13:18 +0000 2020_**
 <blockquote>
@@ -28,8 +53,8 @@ CVSS Score: 8.4
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>54</code></td>
-<td>Favorites: <code>96</code></td>
+<td>Retweets: <code>59</code></td>
+<td>Favorites: <code>104</code></td>
 </tr></table>
 
 ---
@@ -108,8 +133,8 @@ poc (ps-remoting): https://t.co/ziVbNP3jXN
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>208</code></td>
-<td>Favorites: <code>351</code></td>
+<td>Retweets: <code>224</code></td>
+<td>Favorites: <code>369</code></td>
 </tr></table>
 
 ---
@@ -126,8 +151,8 @@ Exploit: https://t.co/tgPRb3GKeZ
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>206</code></td>
-<td>Favorites: <code>362</code></td>
+<td>Retweets: <code>208</code></td>
+<td>Favorites: <code>363</code></td>
 </tr></table>
 
 ---
@@ -169,8 +194,8 @@ https://t.co/JHegDlI9pW
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>75</code></td>
-<td>Favorites: <code>255</code></td>
+<td>Retweets: <code>76</code></td>
+<td>Favorites: <code>256</code></td>
 </tr></table>
 
 ---
@@ -1672,8 +1697,8 @@ via @sourceincite
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>169</code></td>
-<td>Favorites: <code>278</code></td>
+<td>Retweets: <code>168</code></td>
+<td>Favorites: <code>275</code></td>
 </tr></table>
 
 ---
@@ -2014,7 +2039,7 @@ https://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>6</code></td>
 <td>Retweets: <code>161</code></td>
-<td>Favorites: <code>277</code></td>
+<td>Favorites: <code>276</code></td>
 </tr></table>
 
 ---
@@ -4826,7 +4851,7 @@ https://t.co/A1KkMmCzf0 https://t.co/al3Ar5J20x
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>17</code></td>
+<td>Retweets: <code>16</code></td>
 <td>Favorites: <code>38</code></td>
 </tr></table>
 
@@ -5093,8 +5118,8 @@ See https://t.co/9yMSWNM8VG for more details.
 <table><tr>
 <td>Quotes: <code>55</code></td>
 <td>Replies: <code>32</code></td>
-<td>Retweets: <code>1239</code></td>
-<td>Favorites: <code>2277</code></td>
+<td>Retweets: <code>1244</code></td>
+<td>Favorites: <code>2296</code></td>
 </tr></table>
 
 ---
@@ -5256,7 +5281,7 @@ https://t.co/ywrKISoTke
 <td>Quotes: <code>11</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>161</code></td>
-<td>Favorites: <code>233</code></td>
+<td>Favorites: <code>234</code></td>
 </tr></table>
 
 ---
@@ -5964,7 +5989,7 @@ The Trend Micro Research Team takes a detailed look at CVE-2020-0729 - an RCE bu
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>143</code></td>
-<td>Favorites: <code>248</code></td>
+<td>Favorites: <code>247</code></td>
 </tr></table>
 
 ---
@@ -6277,8 +6302,8 @@ Our sigma rule to detect this: https://t.co/fXalEL0F6Z
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>141</code></td>
-<td>Favorites: <code>227</code></td>
+<td>Retweets: <code>140</code></td>
+<td>Favorites: <code>225</code></td>
 </tr></table>
 
 ---
@@ -7881,7 +7906,7 @@ ZDI researcher @HexKitchen takes a detailed look at CVE-2019-1069 - an LPE via t
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>138</code></td>
+<td>Favorites: <code>139</code></td>
 </tr></table>
 
 ---
@@ -8443,6 +8468,42 @@ In 2019, I expect epic 0days to be found in the wild: Android, iOS, Windows, Off
 <td>Replies: <code>7</code></td>
 <td>Retweets: <code>163</code></td>
 <td>Favorites: <code>239</code></td>
+</tr></table>
+
+---
+# wugeej
+**https://twitter.com/wugeej/status/1100557747483856896 _at Wed Feb 27 00:46:29 +0000 2019_**
+<blockquote>
+[PoC] Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative) 
+
+https://t.co/6O8FddvJ4W
+</blockquote>
+
+* https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>6</code></td>
+<td>Favorites: <code>6</code></td>
+</tr></table>
+
+---
+# wugeej
+**https://twitter.com/wugeej/status/1100557746066272257 _at Wed Feb 27 00:46:28 +0000 2019_**
+<blockquote>
+[PoC] Jenkins RCE PoC. From unauthenticated user to remote code execution - it's a hacker's dream! (Chaining CVE-2019-1003000, CVE-2018-1999002, and more)
+
+https://t.co/5VaYi00nbS
+</blockquote>
+
+* https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>2</code></td>
 </tr></table>
 
 ---
@@ -9161,7 +9222,7 @@ https://t.co/iHVe8yHom3
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>93</code></td>
-<td>Favorites: <code>135</code></td>
+<td>Favorites: <code>134</code></td>
 </tr></table>
 
 ---
