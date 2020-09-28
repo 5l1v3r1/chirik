@@ -1,3 +1,62 @@
+# sleepya_
+**https://twitter.com/sleepya_/status/1309518569277853697 _at Fri Sep 25 15:42:11 +0000 2020_**
+<blockquote>
+Exploit writeup of #SIGRed (CVE-2020-1350) #RCE on Windows 2012/2016/2019 https://t.co/fgv5vjul1q
+</blockquote>
+
+* https://medium.com/@datafarm.cybersecurity/exploiting-sigred-cve-2020-1350-on-windows-server-2012-2016-2019-80dd88594228
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>134</code></td>
+<td>Favorites: <code>232</code></td>
+</tr></table>
+
+---
+# DanyL931
+**https://twitter.com/DanyL931/status/1309158974399356932 _at Thu Sep 24 15:53:17 +0000 2020_**
+<blockquote>
+.@pimskeks and I are releasing c0ntextomy, an RCE exploit based on CVE-2020-9992 (patched in iOS 14 and Xcode 12 last week), alongside a writeup and a basic post-exploitation toolkit.
+
+github repo:
+https://t.co/uopFh8mdUx
+
+@zLabsProject blog post:
+https://t.co/3nJkgEYhig
+</blockquote>
+
+* https://github.com/c0ntextomy/c0ntextomy
+* https://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/
+
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>12</code></td>
+<td>Retweets: <code>75</code></td>
+<td>Favorites: <code>194</code></td>
+</tr></table>
+
+---
+# gweeperx
+**https://twitter.com/gweeperx/status/1308320723711275008 _at Tue Sep 22 08:22:22 +0000 2020_**
+<blockquote>
+Exploitation of IBM QRadar Wincollect Escalation of Privilege (user-&gt;system via arbitrary delete/CVE-2020-4486) and CVE-2020-4485 .
+
+#IBM #Qradar #WinCollect #0day #RedyOpsLabs #infosec #redteam #blueteam #cybersecurity #CVE #exploit #informationsecurity
+
+https://t.co/cyt8af4UUF
+</blockquote>
+
+* https://labs.redyops.com/index.php/2020/09/11/ibm-qradar-wincollect-escalation-of-privileges-cve-2020-4485-cve-2020-4486/
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>98</code></td>
+<td>Favorites: <code>152</code></td>
+</tr></table>
+
+---
 # gentilkiwi
 **https://twitter.com/gentilkiwi/status/1306178689630076929 _at Wed Sep 16 10:30:41 +0000 2020_**
 <blockquote>
@@ -20,6 +79,23 @@ Thank you: @SecuraBV https://t.co/s7LRRLPRTP
 <td>Replies: <code>13</code></td>
 <td>Retweets: <code>568</code></td>
 <td>Favorites: <code>983</code></td>
+</tr></table>
+
+---
+# _CPResearch_
+**https://twitter.com/_CPResearch_/status/1305499777317171201 _at Mon Sep 14 13:32:56 +0000 2020_**
+<blockquote>
+[CPR-Zero] CVE-2020-1310 (Windows 8.1/10 Kernel): Use-After-Free in win32k.sys triggered from Desktop Window Manager
+https://t.co/obT9tkAclY
+</blockquote>
+
+* https://cpr-zero.checkpoint.com/vulns/cprid-2155/
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>64</code></td>
+<td>Favorites: <code>123</code></td>
 </tr></table>
 
 ---
@@ -805,7 +881,7 @@ Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>24</code></td>
+<td>Retweets: <code>23</code></td>
 <td>Favorites: <code>32</code></td>
 </tr></table>
 
@@ -1240,8 +1316,8 @@ https://t.co/k7nAYfAZeu https://t.co/wrC0VHol3f
 </tr></table>
 
 ---
-# behindbreach
-**https://twitter.com/behindbreach/status/1290860109053284353 _at Wed Aug 05 04:00:07 +0000 2020_**
+# behindthebreach
+**https://twitter.com/behindthebreach/status/1290860109053284353 _at Wed Aug 05 04:00:07 +0000 2020_**
 <blockquote>
 Apache Tomcat RCE by deserialization (CVE-2020-9484) - write-up and exploit https://t.co/YygbwhoXTd #vulnerability #collection #execution #cve_2020_9484 #apache #tomcat
 </blockquote>
@@ -4926,7 +5002,7 @@ Intel SDM added the Ice Lake specific MSRs. Ice Lake introduced the concept of t
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>18</code></td>
-<td>Favorites: <code>48</code></td>
+<td>Favorites: <code>47</code></td>
 </tr></table>
 
 ---
@@ -5040,7 +5116,7 @@ Code: https://t.co/dH1ZLqj2Ws https://t.co/URjPfmAg2R
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>98</code></td>
-<td>Favorites: <code>253</code></td>
+<td>Favorites: <code>252</code></td>
 </tr></table>
 
 ---
@@ -5218,7 +5294,7 @@ https://t.co/UTClKAc677
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>81</code></td>
-<td>Favorites: <code>245</code></td>
+<td>Favorites: <code>243</code></td>
 </tr></table>
 
 ---
@@ -5281,7 +5357,7 @@ https://t.co/ywrKISoTke
 <td>Quotes: <code>11</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>161</code></td>
-<td>Favorites: <code>234</code></td>
+<td>Favorites: <code>232</code></td>
 </tr></table>
 
 ---
@@ -5320,8 +5396,8 @@ https://t.co/lF8jETRabx
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>70</code></td>
-<td>Favorites: <code>229</code></td>
+<td>Retweets: <code>68</code></td>
+<td>Favorites: <code>226</code></td>
 </tr></table>
 
 ---
@@ -5660,7 +5736,7 @@ Big thanks to @Intel80x86 for sharing tricks about Hyper-V compatibility! https:
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>110</code></td>
-<td>Favorites: <code>297</code></td>
+<td>Favorites: <code>298</code></td>
 </tr></table>
 
 ---
@@ -6204,8 +6280,8 @@ Also @brucedang and I are offering a 5-day class on the development of hyperviso
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>99</code></td>
-<td>Favorites: <code>271</code></td>
+<td>Retweets: <code>100</code></td>
+<td>Favorites: <code>270</code></td>
 </tr></table>
 
 ---
@@ -6359,8 +6435,8 @@ https://t.co/f0eHDQDoDr
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>83</code></td>
-<td>Favorites: <code>266</code></td>
+<td>Retweets: <code>82</code></td>
+<td>Favorites: <code>260</code></td>
 </tr></table>
 
 ---
@@ -7495,7 +7571,7 @@ Windows-RCE-exploits: The exploit samples database is a repository for **RCE** (
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>163</code></td>
-<td>Favorites: <code>348</code></td>
+<td>Favorites: <code>349</code></td>
 </tr></table>
 
 ---
@@ -7839,7 +7915,7 @@ GitHub - sophoslabs/CVE-2019-0888: PoC for CVE-2019-0888 - Use-After-Free in Win
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>52</code></td>
-<td>Favorites: <code>108</code></td>
+<td>Favorites: <code>107</code></td>
 </tr></table>
 
 ---
@@ -8328,7 +8404,7 @@ Got someone asking for the PoC of CVE-2018-8142, the LPE for Microsoft Autoupdat
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>48</code></td>
-<td>Favorites: <code>89</code></td>
+<td>Favorites: <code>88</code></td>
 </tr></table>
 
 ---
@@ -8410,7 +8486,7 @@ https://t.co/gfc27CTMpB
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>19</code></td>
-<td>Favorites: <code>43</code></td>
+<td>Favorites: <code>42</code></td>
 </tr></table>
 
 ---
@@ -8467,7 +8543,7 @@ In 2019, I expect epic 0days to be found in the wild: Android, iOS, Windows, Off
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>7</code></td>
 <td>Retweets: <code>163</code></td>
-<td>Favorites: <code>239</code></td>
+<td>Favorites: <code>238</code></td>
 </tr></table>
 
 ---
@@ -8690,8 +8766,8 @@ Happy 1st Patch Tuesday of 2019! This is the largest January update I've seen in
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>29</code></td>
-<td>Favorites: <code>67</code></td>
+<td>Retweets: <code>28</code></td>
+<td>Favorites: <code>66</code></td>
 </tr></table>
 
 ---
@@ -9273,7 +9349,7 @@ I'll be presenting "Crashing to root: How to escape the iOS sandbox using abort(
 <table><tr>
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>26</code></td>
-<td>Retweets: <code>318</code></td>
+<td>Retweets: <code>317</code></td>
 <td>Favorites: <code>987</code></td>
 </tr></table>
 
@@ -9485,8 +9561,8 @@ CredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl
 <table><tr>
 <td>Quotes: <code>14</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>383</code></td>
-<td>Favorites: <code>409</code></td>
+<td>Retweets: <code>381</code></td>
+<td>Favorites: <code>407</code></td>
 </tr></table>
 
 ---
@@ -9606,8 +9682,8 @@ Chrome &lt; 62 uxss exploit (CVE-2017-5124) https://t.co/OyOnzEQau4 #Chrome #0da
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>46</code></td>
-<td>Favorites: <code>87</code></td>
+<td>Retweets: <code>45</code></td>
+<td>Favorites: <code>86</code></td>
 </tr></table>
 
 ---
