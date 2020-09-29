@@ -129,8 +129,8 @@ CVSS Score: 8.4
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>59</code></td>
-<td>Favorites: <code>104</code></td>
+<td>Retweets: <code>60</code></td>
+<td>Favorites: <code>105</code></td>
 </tr></table>
 
 ---
@@ -210,7 +210,7 @@ poc (ps-remoting): https://t.co/ziVbNP3jXN
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>224</code></td>
-<td>Favorites: <code>369</code></td>
+<td>Favorites: <code>368</code></td>
 </tr></table>
 
 ---
@@ -1791,8 +1791,8 @@ CVE-2020-1147 full analysis and exploit :-&gt;
 <table><tr>
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>319</code></td>
-<td>Favorites: <code>605</code></td>
+<td>Retweets: <code>324</code></td>
+<td>Favorites: <code>609</code></td>
 </tr></table>
 
 ---
@@ -1908,7 +1908,7 @@ https://t.co/IhyNf2OVHf   #Pentesting #RCE #Window #Vulnerability #Infosec https
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>60</code></td>
+<td>Retweets: <code>58</code></td>
 <td>Favorites: <code>116</code></td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ Some of my recent bugs: Hyper-V RemoteFX vGPU Remote Code Execution Vulnerabilit
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>102</code></td>
-<td>Favorites: <code>248</code></td>
+<td>Favorites: <code>245</code></td>
 </tr></table>
 
 ---
@@ -4040,8 +4040,8 @@ Microsoft Windows LNK Remote Code Execution Vulnerability – CVE-2020-1299 htt
 <table><tr>
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>249</code></td>
-<td>Favorites: <code>444</code></td>
+<td>Retweets: <code>247</code></td>
+<td>Favorites: <code>436</code></td>
 </tr></table>
 
 ---
@@ -4077,9 +4077,9 @@ Video: https://t.co/AfFvPUsKQl
 
 <table><tr>
 <td>Quotes: <code>1</code></td>
-<td>Replies: <code>5</code></td>
-<td>Retweets: <code>41</code></td>
-<td>Favorites: <code>142</code></td>
+<td>Replies: <code>6</code></td>
+<td>Retweets: <code>40</code></td>
+<td>Favorites: <code>140</code></td>
 </tr></table>
 
 ---
@@ -5017,8 +5017,8 @@ Intel SDM added the Ice Lake specific MSRs. Ice Lake introduced the concept of t
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>122</code></td>
-<td>Favorites: <code>162</code></td>
+<td>Retweets: <code>119</code></td>
+<td>Favorites: <code>161</code></td>
 </tr></table>
 
 ---
@@ -5857,8 +5857,8 @@ https://t.co/xvEip0RYD6 https://t.co/9F3NQNRVXU
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>90</code></td>
-<td>Favorites: <code>214</code></td>
+<td>Retweets: <code>89</code></td>
+<td>Favorites: <code>211</code></td>
 </tr></table>
 
 ---
@@ -6242,8 +6242,8 @@ CVE-2020-0796 is a remote code execution vulnerability in Microsoft Server Messa
 <table><tr>
 <td>Quotes: <code>15</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>167</code></td>
-<td>Favorites: <code>291</code></td>
+<td>Retweets: <code>164</code></td>
+<td>Favorites: <code>289</code></td>
 </tr></table>
 
 ---
@@ -6298,8 +6298,8 @@ Mitigation Guidance available at: https://t.co/MMlBo8BsB0
 <table><tr>
 <td>Quotes: <code>42</code></td>
 <td>Replies: <code>38</code></td>
-<td>Retweets: <code>738</code></td>
-<td>Favorites: <code>866</code></td>
+<td>Retweets: <code>686</code></td>
+<td>Favorites: <code>841</code></td>
 </tr></table>
 
 ---
@@ -7530,7 +7530,7 @@ CVE-2019-1082 Windows Local Privileges Escalation. Little Writeup How i found lp
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>130</code></td>
-<td>Favorites: <code>274</code></td>
+<td>Favorites: <code>273</code></td>
 </tr></table>
 
 ---
@@ -7695,8 +7695,8 @@ https://t.co/kg8deEXLnk
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>124</code></td>
-<td>Favorites: <code>231</code></td>
+<td>Retweets: <code>123</code></td>
+<td>Favorites: <code>230</code></td>
 </tr></table>
 
 ---
@@ -8332,7 +8332,7 @@ CVE-2019-0726/ZDI-19-272: @HexKitchen details a vuln in the #Windows DHCP Client
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>85</code></td>
-<td>Favorites: <code>141</code></td>
+<td>Favorites: <code>140</code></td>
 </tr></table>
 
 ---
@@ -8501,8 +8501,8 @@ Microsoft fixed a Windows 0day (CVE-2019-0808) in Patch Tuesday. Our team constr
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>192</code></td>
-<td>Favorites: <code>311</code></td>
+<td>Retweets: <code>191</code></td>
+<td>Favorites: <code>309</code></td>
 </tr></table>
 
 ---
@@ -8851,7 +8851,7 @@ Patch for CVE-2018-8653 Scripting Engine Memory Corruption Vulnerability is out:
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>35</code></td>
+<td>Retweets: <code>34</code></td>
 <td>Favorites: <code>40</code></td>
 </tr></table>
 
@@ -9007,8 +9007,8 @@ Promised, full exploitation  process of : TALOS-2018-0636 (CVE-2018-3971) -Hitma
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>175</code></td>
-<td>Favorites: <code>222</code></td>
+<td>Retweets: <code>173</code></td>
+<td>Favorites: <code>221</code></td>
 </tr></table>
 
 ---
@@ -9173,7 +9173,7 @@ https://t.co/nEnTaaiTeB
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>255</code></td>
+<td>Favorites: <code>252</code></td>
 </tr></table>
 
 ---
@@ -9220,8 +9220,8 @@ Whereas, @Microsoft's advisory says CVE-2018-15967 is a remote code execution bu
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>9</code></td>
-<td>Retweets: <code>74</code></td>
-<td>Favorites: <code>75</code></td>
+<td>Retweets: <code>73</code></td>
+<td>Favorites: <code>72</code></td>
 </tr></table>
 
 ---
@@ -9479,8 +9479,8 @@ Dell SupportAssist driver vuln to SYSTEM local privilege escalation https://t.co
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>154</code></td>
-<td>Favorites: <code>246</code></td>
+<td>Retweets: <code>153</code></td>
+<td>Favorites: <code>248</code></td>
 </tr></table>
 
 ---
@@ -9920,7 +9920,7 @@ My first Chrome sandbox escape ❤️ https://t.co/kMcfHirSNj
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>97</code></td>
+<td>Retweets: <code>96</code></td>
 <td>Favorites: <code>139</code></td>
 </tr></table>
 
