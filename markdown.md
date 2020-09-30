@@ -209,7 +209,7 @@ poc (ps-remoting): https://t.co/ziVbNP3jXN
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>224</code></td>
+<td>Retweets: <code>223</code></td>
 <td>Favorites: <code>368</code></td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ via @sourceincite
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>168</code></td>
+<td>Retweets: <code>167</code></td>
 <td>Favorites: <code>275</code></td>
 </tr></table>
 
@@ -4785,9 +4785,9 @@ https://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU
 </tr></table>
 <table><tr>
 <td>Quotes: <code>23</code></td>
-<td>Replies: <code>12</code></td>
-<td>Retweets: <code>398</code></td>
-<td>Favorites: <code>712</code></td>
+<td>Replies: <code>11</code></td>
+<td>Retweets: <code>395</code></td>
+<td>Favorites: <code>708</code></td>
 </tr></table>
 
 ---
@@ -6173,7 +6173,7 @@ https://t.co/hD93owRitk
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>23</code></td>
+<td>Retweets: <code>22</code></td>
 <td>Favorites: <code>33</code></td>
 </tr></table>
 
@@ -6243,7 +6243,7 @@ CVE-2020-0796 is a remote code execution vulnerability in Microsoft Server Messa
 <td>Quotes: <code>15</code></td>
 <td>Replies: <code>10</code></td>
 <td>Retweets: <code>164</code></td>
-<td>Favorites: <code>289</code></td>
+<td>Favorites: <code>290</code></td>
 </tr></table>
 
 ---
@@ -6299,7 +6299,7 @@ Mitigation Guidance available at: https://t.co/MMlBo8BsB0
 <td>Quotes: <code>42</code></td>
 <td>Replies: <code>38</code></td>
 <td>Retweets: <code>686</code></td>
-<td>Favorites: <code>841</code></td>
+<td>Favorites: <code>843</code></td>
 </tr></table>
 
 ---
@@ -6379,7 +6379,7 @@ Our sigma rule to detect this: https://t.co/fXalEL0F6Z
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>140</code></td>
-<td>Favorites: <code>225</code></td>
+<td>Favorites: <code>226</code></td>
 </tr></table>
 
 ---
@@ -6520,7 +6520,7 @@ CVE-2020-0618: Microsoft SQL Server Reporting Services Remote Code Execution Vul
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>64</code></td>
-<td>Favorites: <code>187</code></td>
+<td>Favorites: <code>186</code></td>
 </tr></table>
 
 ---
@@ -6835,7 +6835,7 @@ https://t.co/1mbqh1IMDz
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>34</code></td>
-<td>Favorites: <code>68</code></td>
+<td>Favorites: <code>67</code></td>
 </tr></table>
 
 ---
@@ -7515,6 +7515,23 @@ https://t.co/l9F8jmfQXU
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>180</code></td>
 <td>Favorites: <code>315</code></td>
+</tr></table>
+
+---
+# msftsecresponse
+**https://twitter.com/msftsecresponse/status/1176181336131784705 _at Mon Sep 23 17:07:37 +0000 2019_**
+<blockquote>
+Out of band security vulnerability fixes CVE-2019-1367 and CVE-2019-1255 have been released today. For more information please see https://t.co/QMUM53m8so and https://t.co/vy3d0wXWng .
+</blockquote>
+
+* https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1367
+* https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1255
+
+<table><tr>
+<td>Quotes: <code>24</code></td>
+<td>Replies: <code>12</code></td>
+<td>Retweets: <code>135</code></td>
+<td>Favorites: <code>132</code></td>
 </tr></table>
 
 ---
@@ -8732,6 +8749,21 @@ https://t.co/4pLAMCuZDs https://t.co/GINXF8wInO
 </tr></table>
 
 ---
+# AmarSaar
+**https://twitter.com/AmarSaar/status/1090914852275740672 _at Thu Jan 31 10:09:03 +0000 2019_**
+<blockquote>
+Since we love spread knowledge - beside the UAF discussed here (CVE-2018-0965), in the same function (vpcivsp!VirtualBusChannelProcessPacket) there was an info disclosure: uninitialized local structure on the stack sent to the guest via VirtualBusPacketComplete (CVE-2018-0964)
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>4</code></td>
+<td>Favorites: <code>57</code></td>
+</tr></table>
+
+---
 # wugeej
 **https://twitter.com/wugeej/status/1090028823280644096 _at Mon Jan 28 23:28:17 +0000 2019_**
 <blockquote>
@@ -8784,8 +8816,8 @@ https://t.co/xaXlEGa51S
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>104</code></td>
-<td>Favorites: <code>169</code></td>
+<td>Retweets: <code>103</code></td>
+<td>Favorites: <code>165</code></td>
 </tr></table>
 
 ---
