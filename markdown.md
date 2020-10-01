@@ -8192,6 +8192,30 @@ I'm pretty tired of this =&gt; Not earning 💰 on 0day and putting people at un
 </tr></table>
 
 ---
+# wugeej
+**https://twitter.com/wugeej/status/1130268214913462272 _at Mon May 20 00:25:16 +0000 2019_**
+<blockquote>
+[PoC] Horde Webmail - XSS + CSRF to SQLi, RCE, Stealing Emails &lt;= v5.2.22
+
+CVE-2019-12094
+CVE-2019-12095
+
+https://t.co/Gp4FgGvJKa https://t.co/bTNPZL21xs
+</blockquote>
+
+* https://cxsecurity.com/issue/WLB-2019050199
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+D6-E2Y8UwAAYeYq.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/D6-E2Y8UwAAYeYq.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>27</code></td>
+<td>Favorites: <code>38</code></td>
+</tr></table>
+
+---
 # XI_Research
 **https://twitter.com/XI_Research/status/1129436429648629761 _at Fri May 17 17:20:03 +0000 2019_**
 <blockquote>
