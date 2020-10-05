@@ -1,3 +1,131 @@
+# binitamshah
+**https://twitter.com/binitamshah/status/1311510376031219712 _at Thu Oct 01 03:36:54 +0000 2020_**
+<blockquote>
+Hardware Hacking Experiments - Extracting firware from embedded Devices : https://t.co/Qj7SI1fHDO (Slides/pdf)
+</blockquote>
+
+* https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>3</code></td>
+<td>Retweets: <code>53</code></td>
+<td>Favorites: <code>130</code></td>
+</tr></table>
+
+---
+# thezdi
+**https://twitter.com/thezdi/status/1310992105628721153 _at Tue Sep 29 17:17:29 +0000 2020_**
+<blockquote>
+Two different RCE bugs in #IBM #WebSphere are detailed by @zebasquared in his latest blog. Read the root cause and see video demos of CVE-2020-4464 and -4448 at https://t.co/zxPFGoFlFZ
+</blockquote>
+
+* https://bit.ly/33eQK2S
+
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>111</code></td>
+<td>Favorites: <code>194</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1310950906452758528 _at Tue Sep 29 14:33:47 +0000 2020_**
+<blockquote>
+Wireflow : an open-source flowchart real-time collaboration tool : https://t.co/yvLuxwdcS1 credits @entrptaher || @naimur103 https://t.co/09SVp0ZUge
+</blockquote>
+
+* https://github.com/vanila-io/wireflow
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EjFu3UQXYAQ9KJU.jpg" alt="http://pbs.twimg.com/media/EjFu3UQXYAQ9KJU.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>33</code></td>
+<td>Favorites: <code>110</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1310943258571427843 _at Tue Sep 29 14:03:23 +0000 2020_**
+<blockquote>
+https://t.co/Cj5IdI981S : A collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained : https://t.co/QF8uWWR4RL 
+
+Post Exploitation Collection : https://t.co/y1KYsNbvZK credits @mubix
+</blockquote>
+
+* http://PwnWiki.io
+* http://pwnwiki.io/#!index.md
+* https://github.com/mubix/post-exploitation
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>80</code></td>
+<td>Favorites: <code>155</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1310941655239929858 _at Tue Sep 29 13:57:01 +0000 2020_**
+<blockquote>
+duf : Disk Usage/Free Utility (Linux, BSD &amp; macOS) : https://t.co/xciwKrHQqt credits @mueslix https://t.co/9MgWTf52pS
+</blockquote>
+
+* https://github.com/muesli/duf
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EjFmdpwXsAEFvLd.png" alt="http://pbs.twimg.com/media/EjFmdpwXsAEFvLd.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>93</code></td>
+<td>Favorites: <code>284</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1310857007960743936 _at Tue Sep 29 08:20:39 +0000 2020_**
+<blockquote>
+Yaya (Yet Another Yara Automaton) : Automatically curate open source yara rules and run scans : https://t.co/NuQpTP29ho 
+
+Details : https://t.co/1PJ66hZqFS
+</blockquote>
+
+* https://github.com/EFForg/yaya
+* https://www.eff.org/deeplinks/2020/09/introducing-yaya-new-threat-hunting-tool-eff-threat-lab
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>31</code></td>
+<td>Favorites: <code>79</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1310487971347361792 _at Mon Sep 28 07:54:14 +0000 2020_**
+<blockquote>
+Artifactory Hacking guide : https://t.co/GoN3ZcQ4gm
+
+Hacking Artifactory with server side template injection : https://t.co/6pCO448ViS
+</blockquote>
+
+* https://www.errno.fr/artifactory/Attacking_Artifactory
+* https://github.com/gquere/CVE-2020-7931
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>39</code></td>
+<td>Favorites: <code>91</code></td>
+</tr></table>
+
+---
 # sleepya_
 **https://twitter.com/sleepya_/status/1309518569277853697 _at Fri Sep 25 15:42:11 +0000 2020_**
 <blockquote>
@@ -6488,6 +6616,37 @@ https://t.co/zDu2m9gJnh https://t.co/FeCBMcnaPv
 </tr></table>
 
 ---
+# a13xp0p0v
+**https://twitter.com/a13xp0p0v/status/1228684638123626498 _at Sat Feb 15 14:17:00 +0000 2020_**
+<blockquote>
+My write-up covering @offensive_con talk!
+
+CVE-2019-18683: Exploiting a Linux kernel vulnerability in the V4L2 subsystem
+https://t.co/rXTaqzoAAZ
+
+@offensive_con slides: https://t.co/oKyNC3dTER
+
+PoC exploit demo video: https://t.co/tIaurXLAOF
+
+Enjoy! https://t.co/W1ZkceXOr4
+</blockquote>
+
+* https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html
+* https://a13xp0p0v.github.io/img/CVE-2019-18683.pdf
+* https://www.youtube.com/watch?v=mb4YHyLy0Zc
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EQ0qKHqW4AECPuF.jpg" alt="http://pbs.twimg.com/media/EQ0qKHqW4AECPuF.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EQ0qKHrX0AU2voy.png" alt="http://pbs.twimg.com/media/EQ0qKHrX0AU2voy.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>232</code></td>
+<td>Favorites: <code>484</code></td>
+</tr></table>
+
+---
 # ExcreamOn
 **https://twitter.com/ExcreamOn/status/1227675139304718337 _at Wed Feb 12 19:25:36 +0000 2020_**
 <blockquote>
@@ -9943,6 +10102,23 @@ Nice writeup of CVE-2015-6086 (Microsoft Internet Explorer 9/10/11) ASLR bypass:
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>29</code></td>
 <td>Favorites: <code>36</code></td>
+</tr></table>
+
+---
+# EternalToDo
+**https://twitter.com/EternalToDo/status/689731003364032512 _at Wed Jan 20 08:47:40 +0000 2016_**
+<blockquote>
+Analyzing/exploiting a new Linux kernel vulnerability (CVE-2016-0728): memory leak + UaF https://t.co/tkvmGrtVId PoC https://t.co/5pTJvVSzXq
+</blockquote>
+
+* http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/
+* https://gist.github.com/PerceptionPointTeam/18b1e86d1c0f8531ff8f
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>50</code></td>
+<td>Favorites: <code>39</code></td>
 </tr></table>
 
 ---
