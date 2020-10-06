@@ -5529,6 +5529,24 @@ https://t.co/lF8jETRabx
 </tr></table>
 
 ---
+# h0mbre_
+**https://twitter.com/h0mbre_/status/1254108024018481152 _at Sat Apr 25 18:00:27 +0000 2020_**
+<blockquote>
+Exploit Proof-of-Concept for CVE-2020-12138, Privilege Escalation in ATI Technologies Inc. driver 'atillk64.sys'. Thanks to all those cited for helping me along the way. 
+
+https://t.co/OGqwdUs5ZS
+</blockquote>
+
+* https://h0mbre.github.io/atillk64_exploit/#
+
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>10</code></td>
+<td>Retweets: <code>315</code></td>
+<td>Favorites: <code>635</code></td>
+</tr></table>
+
+---
 # piedpiper1616
 **https://twitter.com/piedpiper1616/status/1253106517240233984 _at Wed Apr 22 23:40:49 +0000 2020_**
 <blockquote>
@@ -7455,6 +7473,22 @@ CVE-2019-1412: Windows Kernel information disclosure.
 </tr></table>
 
 ---
+# _markel___
+**https://twitter.com/_markel___/status/1194351078202101761 _at Tue Nov 12 20:27:41 +0000 2019_**
+<blockquote>
+Intel discloses remote 'privileges escalation' vulnerability in CSME for non-vPro systems (not having AMT module). That's a precedent breaking well recognized assumptions about remote attacks on CSME (CVE-2019-0169): https://t.co/ADPHCzUpcZ
+</blockquote>
+
+* https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00241.html
+
+<table><tr>
+<td>Quotes: <code>6</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>73</code></td>
+<td>Favorites: <code>119</code></td>
+</tr></table>
+
+---
 # iFenixx
 **https://twitter.com/iFenixx/status/1193881947178749952 _at Mon Nov 11 13:23:32 +0000 2019_**
 <blockquote>
@@ -7637,6 +7671,31 @@ Confluence Unauthorized RCE Vulnerability (CVE-2019-3396) Analysis  https://t.co
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>24</code></td>
 <td>Favorites: <code>30</code></td>
+</tr></table>
+
+---
+# wugeej
+**https://twitter.com/wugeej/status/1176758274151964672 _at Wed Sep 25 07:20:10 +0000 2019_**
+<blockquote>
+[PoC] Microsoft Exchange – Privilege Escalation
+
+https://t.co/tzuMX4ObTq
+
+- Delegate Access
+https://t.co/wVGpW9mlDl script adding a forwarding rule is assigning permissions to the account to access any mailbox in the domain including domain administrator. https://t.co/wer6Jvej0H
+</blockquote>
+
+* https://pentestlab.blog/2019/09/16/microsoft-exchange-privilege-escalation/
+* https://github.com/thezdi/PoC/tree/master/CVE-2018-8581
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EFSvZ-RU8AAR5Al.png" alt="http://pbs.twimg.com/media/EFSvZ-RU8AAR5Al.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>14</code></td>
+<td>Favorites: <code>31</code></td>
 </tr></table>
 
 ---
@@ -7856,6 +7915,29 @@ Demo: https://t.co/SQB4j1IwCF
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>132</code></td>
 <td>Favorites: <code>245</code></td>
+</tr></table>
+
+---
+# itm4n
+**https://twitter.com/itm4n/status/1163873661947928576 _at Tue Aug 20 18:01:19 +0000 2019_**
+<blockquote>
+Here is a potential alternative to @tiraniddo 's DiagHub DLL loading technique. 
+
+👉 https://t.co/ykIguMzukb
+
+Arbitrary file write -&gt; Code execution as System 👌 https://t.co/OKqaZpt8zA
+</blockquote>
+
+* https://github.com/itm4n/UsoDllLoader
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+ECbo5KTX4AE1Rme.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/ECbo5KTX4AE1Rme.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>189</code></td>
+<td>Favorites: <code>385</code></td>
 </tr></table>
 
 ---
@@ -9359,6 +9441,29 @@ https://t.co/bZue1dJBH9
 </tr></table>
 
 ---
+# TheHackersNews
+**https://twitter.com/TheHackersNews/status/1044923936314675200 _at Wed Sep 26 12:17:34 +0000 2018_**
+<blockquote>
+New #Linux Kernel Root Privilege-Escalation #Vulnerability (CVE-2018-14634) Affects Red Hat, #CentOS, and Debian Operating Systems
+
+https://t.co/QaJXB2DZq9
+
+Proof-of-Concept Exploits Released. https://t.co/5nbpdNDfsl
+</blockquote>
+
+* https://thehackernews.com/2018/09/linux-kernel-vulnerability.html
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+DoBQwhWXUAAbtKK.jpg" alt="http://pbs.twimg.com/media/DoBQwhWXUAAbtKK.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>23</code></td>
+<td>Replies: <code>5</code></td>
+<td>Retweets: <code>484</code></td>
+<td>Favorites: <code>446</code></td>
+</tr></table>
+
+---
 # pozdnychev
 **https://twitter.com/pozdnychev/status/1044636342590873600 _at Tue Sep 25 17:14:47 +0000 2018_**
 <blockquote>
@@ -9389,6 +9494,22 @@ https://t.co/nEnTaaiTeB
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>91</code></td>
 <td>Favorites: <code>252</code></td>
+</tr></table>
+
+---
+# Nettitude_Labs
+**https://twitter.com/Nettitude_Labs/status/1039858773903462400 _at Wed Sep 12 12:50:25 +0000 2018_**
+<blockquote>
+CVE-2018-5240: Symantec Management Agent (Altiris) Privilege Escalation by @benpturner 😀 Full analysis and proof of concept included. https://t.co/7zSjmY9FEX
+</blockquote>
+
+* https://labs.nettitude.com/blog/cve-2018-5240-symantec-management-agent-altiris-privilege-escalation/
+
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>127</code></td>
+<td>Favorites: <code>132</code></td>
 </tr></table>
 
 ---
