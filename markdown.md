@@ -444,6 +444,22 @@ CVE-2020-1074
 </tr></table>
 
 ---
+# kmkz_security
+**https://twitter.com/kmkz_security/status/1303242252827987970 _at Tue Sep 08 08:02:20 +0000 2020_**
+<blockquote>
+CVE-2019-1458 LPE PoC + full writeup with a very interesting patch diffing approach 👌 https://t.co/QyRvp17zMU
+</blockquote>
+
+* https://github.com/piotrflorczyk/cve-2019-1458_POC
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>51</code></td>
+<td>Favorites: <code>127</code></td>
+</tr></table>
+
+---
 # maxpl0it
 **https://twitter.com/maxpl0it/status/1299068051044921347 _at Thu Aug 27 19:35:33 +0000 2020_**
 <blockquote>
@@ -2164,7 +2180,7 @@ https://t.co/FsnwbwCUtY
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>17</code></td>
-<td>Favorites: <code>41</code></td>
+<td>Favorites: <code>40</code></td>
 </tr></table>
 
 ---
@@ -6724,6 +6740,36 @@ https://t.co/jacpdF2hyf
 </tr></table>
 
 ---
+# _odisseus
+**https://twitter.com/_odisseus/status/1225322575561216000 _at Thu Feb 06 07:37:22 +0000 2020_**
+<blockquote>
+Cisco Discovery Protocol (CDP) enabled devices are vulnerable to Denial-of-Service (DoS) and Remote Code Execution (RCE) 👏👏👏
+
+CVE-2020-3110
+CVE-2020-3111
+CVE-2020-3118
+CVE-2020-3119
+CVE-2020-3120
+
+Note: https://t.co/1PUb2gT1KE
+
+Hacking Video: https://t.co/NMqbjoWU2y https://t.co/vxHxa6jlMH
+</blockquote>
+
+* https://kb.cert.org/vuls/id/261385/
+* https://www.youtube.com/watch?v=nYtDJlzU-ao&feature=youtu.be
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EQE4Yj8WsAU1MtW.png" alt="http://pbs.twimg.com/media/EQE4Yj8WsAU1MtW.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>31</code></td>
+<td>Favorites: <code>34</code></td>
+</tr></table>
+
+---
 # _ringzer0
 **https://twitter.com/_ringzer0/status/1224325925606699010 _at Mon Feb 03 13:37:02 +0000 2020_**
 <blockquote>
@@ -6860,6 +6906,24 @@ https://t.co/7B3ZXVoFGh
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>130</code></td>
 <td>Favorites: <code>353</code></td>
+</tr></table>
+
+---
+# PO3T1985
+**https://twitter.com/PO3T1985/status/1221533490761498625 _at Sun Jan 26 20:40:53 +0000 2020_**
+<blockquote>
+@layle_ctf Isn't this the same as @ollypwn BlueGate exploit? (reported 2 days ago)
+
+https://t.co/QZfkR5ucq2
+</blockquote>
+
+* https://github.com/ollypwn/BlueGate
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>5</code></td>
+<td>Favorites: <code>32</code></td>
 </tr></table>
 
 ---
@@ -8618,6 +8682,25 @@ CVE-2019-0726/ZDI-19-272: @HexKitchen details a vuln in the #Windows DHCP Client
 </tr></table>
 
 ---
+# Jackson_T
+**https://twitter.com/Jackson_T/status/1117767541999357952 _at Mon Apr 15 12:32:03 +0000 2019_**
+<blockquote>
+CVE-2019-9730: Local privilege elevation in Synaptics Sound Device Driver package. Multiple OEMs affected. Exploit and write-up here: https://t.co/swozSC1Ka7. https://t.co/R6NmPG370G
+</blockquote>
+
+* http://jackson-t.ca/synaptics-cxutilsvc-lpe.html
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1117760394087419905+pu+img+ZQRlxDl_AD7eOAYN.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1117760394087419905/pu/img/ZQRlxDl_AD7eOAYN.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>7</code></td>
+<td>Replies: <code>9</code></td>
+<td>Retweets: <code>366</code></td>
+<td>Favorites: <code>726</code></td>
+</tr></table>
+
+---
 # CyberWarship
 **https://twitter.com/CyberWarship/status/1117727023424782338 _at Mon Apr 15 09:51:03 +0000 2019_**
 <blockquote>
@@ -9588,8 +9671,8 @@ CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>115</code></td>
-<td>Favorites: <code>201</code></td>
+<td>Retweets: <code>113</code></td>
+<td>Favorites: <code>199</code></td>
 </tr></table>
 
 ---
@@ -9988,6 +10071,27 @@ https://t.co/PCbRUHVkXI https://t.co/uG3o0Qo5Xb
 </tr></table>
 
 ---
+# TheHackersNews
+**https://twitter.com/TheHackersNews/status/958065422942724096 _at Mon Jan 29 19:52:51 +0000 2018_**
+<blockquote>
+Remote code execution (RCE) and Denial of service (DoS) vulnerability (CVE-2018-0101) discovered in the SSL VPN functionality of Cisco Adaptive Security Appliance. 
+
+https://t.co/ZFTV93cLqM https://t.co/fo7kdGmZNb
+</blockquote>
+
+* https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+DUu7alTVQAA1ajB.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/DUu7alTVQAA1ajB.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>9</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>182</code></td>
+<td>Favorites: <code>139</code></td>
+</tr></table>
+
+---
 # nuria_imeq
 **https://twitter.com/nuria_imeq/status/950860665719312384 _at Tue Jan 09 22:43:43 +0000 2018_**
 <blockquote>
@@ -10175,6 +10279,26 @@ I found a fun little type confusion and sandbox escape vuln in mruby! Here's a d
 </tr></table>
 
 ---
+# gsuberland
+**https://twitter.com/gsuberland/status/792024494265204738 _at Fri Oct 28 15:25:29 +0000 2016_**
+<blockquote>
+I feel like this isn't getting the HOLY SHIT it deserves.
+
+Kernel ASLR bypass on Intel processors. Any OS or VM.
+
+https://t.co/cTKTuLsMpu
+</blockquote>
+
+* https://github.com/sslab-gatech/DrK
+
+<table><tr>
+<td>Quotes: <code>9</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>156</code></td>
+<td>Favorites: <code>150</code></td>
+</tr></table>
+
+---
 # standa_t
 **https://twitter.com/standa_t/status/753472697955254273 _at Thu Jul 14 06:14:24 +0000 2016_**
 <blockquote>
@@ -10257,7 +10381,7 @@ https://t.co/dkqNYwOfp8
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>90</code></td>
+<td>Retweets: <code>89</code></td>
 <td>Favorites: <code>93</code></td>
 </tr></table>
 
