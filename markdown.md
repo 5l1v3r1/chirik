@@ -2259,7 +2259,7 @@ https://t.co/pzJni5aCUh https://t.co/qi8g6XvqDm
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>6</code></td>
 <td>Retweets: <code>161</code></td>
-<td>Favorites: <code>276</code></td>
+<td>Favorites: <code>275</code></td>
 </tr></table>
 
 ---
@@ -6215,6 +6215,22 @@ https://t.co/qf1wb5wZqV
 </tr></table>
 
 ---
+# _r_netsec
+**https://twitter.com/_r_netsec/status/1243911501955530753 _at Sat Mar 28 14:43:07 +0000 2020_**
+<blockquote>
+CVE-2020-8816 – Pi-hole Remote Code Execution – Detailed write-up about the vulnerability and exploitation proof of concept https://t.co/lk502TmAad
+</blockquote>
+
+* https://natedotred.wordpress.com/2020/03/28/cve-2020-8816-pi-hole-remote-code-execution/
+
+<table><tr>
+<td>Quotes: <code>7</code></td>
+<td>Replies: <code>5</code></td>
+<td>Retweets: <code>120</code></td>
+<td>Favorites: <code>213</code></td>
+</tr></table>
+
+---
 # thezdi
 **https://twitter.com/thezdi/status/1243194544017072128 _at Thu Mar 26 15:14:11 +0000 2020_**
 <blockquote>
@@ -7381,7 +7397,7 @@ Details and PoC: https://t.co/Lc1NTtTG3G
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>70</code></td>
-<td>Favorites: <code>112</code></td>
+<td>Favorites: <code>110</code></td>
 </tr></table>
 
 ---
@@ -7738,6 +7754,29 @@ Confluence Unauthorized RCE Vulnerability (CVE-2019-3396) Analysis  https://t.co
 </tr></table>
 
 ---
+# GreyNoiseIO
+**https://twitter.com/GreyNoiseIO/status/1176898873622781954 _at Wed Sep 25 16:38:51 +0000 2019_**
+<blockquote>
+GreyNoise is observing opportunistic exploitation of the recent vBulletin 5.x remote code execution vulnerability (CVE-2019-16759), starting three hours ago from several hundred devices around the Internet. Tags available now. 
+
+tags:"vBulletin 5.x RCE"
+
+https://t.co/tBMaCdimRI https://t.co/3JLNNxA0qG
+</blockquote>
+
+* https://viz.greynoise.io/query/?gnql=tags%3A%22vBulletin%205.x%20RCE%22
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EFUvSLTXYAEiADO.jpg" alt="http://pbs.twimg.com/media/EFUvSLTXYAEiADO.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>51</code></td>
+<td>Favorites: <code>90</code></td>
+</tr></table>
+
+---
 # wugeej
 **https://twitter.com/wugeej/status/1176758274151964672 _at Wed Sep 25 07:20:10 +0000 2019_**
 <blockquote>
@@ -7936,6 +7975,25 @@ We previously analyzed the (at the time) 0day used in the attacks Google Threat 
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>31</code></td>
 <td>Favorites: <code>60</code></td>
+</tr></table>
+
+---
+# bad_packets
+**https://twitter.com/bad_packets/status/1166851346143707142 _at Wed Aug 28 23:13:34 +0000 2019_**
+<blockquote>
+Further exploitation of CVE-2019-11510 can lead to remote code execution (RCE) on the clients connecting to a compromised Pulse Secure VPN server.
+
+This technique could be used to spread ransomware and any other type of malware on sensitive networks.
+https://t.co/lXcedIyQSB
+</blockquote>
+
+* https://badpackets.net/over-14500-pulse-secure-vpn-endpoints-vulnerable-to-cve-2019-11510/
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>26</code></td>
+<td>Favorites: <code>39</code></td>
 </tr></table>
 
 ---
@@ -8344,6 +8402,24 @@ https://t.co/DdO0bztrO5
 <td>Replies: <code>10</code></td>
 <td>Retweets: <code>390</code></td>
 <td>Favorites: <code>497</code></td>
+</tr></table>
+
+---
+# ryHanson
+**https://twitter.com/ryHanson/status/1135685906965262336 _at Mon Jun 03 23:13:14 +0000 2019_**
+<blockquote>
+I've got reliable RCE on Windows 7 / Server 2008 and I have very little experience with kernel exploitation... Now I understand why MSRC considers CVE-2019-0708 so dangerous. https://t.co/ChGYTgyetV
+</blockquote>
+
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+ext_tw_video_thumb+1135685878720946178+pu+img+ohjbT5ZKiOI5ccpy.jpg" alt="http://pbs.twimg.com/ext_tw_video_thumb/1135685878720946178/pu/img/ohjbT5ZKiOI5ccpy.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>18</code></td>
+<td>Replies: <code>16</code></td>
+<td>Retweets: <code>404</code></td>
+<td>Favorites: <code>1130</code></td>
 </tr></table>
 
 ---
@@ -10160,6 +10236,22 @@ https://t.co/I1GyqK2FWt https://t.co/ryF7lEFwoQ
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>209</code></td>
 <td>Favorites: <code>245</code></td>
+</tr></table>
+
+---
+# JosephBialek
+**https://twitter.com/JosephBialek/status/913470106675560448 _at Thu Sep 28 18:26:59 +0000 2017_**
+<blockquote>
+Uploaded my BountyCraft slides, the State of Kernel-Mode RCE Defense: https://t.co/k47c0TppbU
+</blockquote>
+
+* https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2017_07_BountyCraft/BountyCraft2017_JosephBialek_State_Of_Kernel_RCE_Mitigations.pdf
+
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>143</code></td>
+<td>Favorites: <code>217</code></td>
 </tr></table>
 
 ---
