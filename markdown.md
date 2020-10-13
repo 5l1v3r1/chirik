@@ -456,7 +456,7 @@ CVE-2019-1458 LPE PoC + full writeup with a very interesting patch diffing appro
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>51</code></td>
-<td>Favorites: <code>127</code></td>
+<td>Favorites: <code>128</code></td>
 </tr></table>
 
 ---
@@ -2180,7 +2180,7 @@ https://t.co/FsnwbwCUtY
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>17</code></td>
-<td>Favorites: <code>40</code></td>
+<td>Favorites: <code>41</code></td>
 </tr></table>
 
 ---
@@ -8844,8 +8844,8 @@ Got someone asking for the PoC of CVE-2018-8142, the LPE for Microsoft Autoupdat
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>48</code></td>
-<td>Favorites: <code>88</code></td>
+<td>Retweets: <code>47</code></td>
+<td>Favorites: <code>89</code></td>
 </tr></table>
 
 ---
@@ -9652,7 +9652,7 @@ https://t.co/nEnTaaiTeB
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>252</code></td>
+<td>Favorites: <code>254</code></td>
 </tr></table>
 
 ---
@@ -9864,6 +9864,23 @@ Windows local privilege escalation - Analysis and Exploit (CVE-2018-8120). https
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>0</code></td>
 <td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1020900329104162816 _at Sun Jul 22 05:16:20 +0000 2018_**
+<blockquote>
+BeRoot For Windows : a post exploitation tool to check common Windows misconfigurations to find a way to escalate our privilege : https://t.co/FViNPxD8Nb , Privilege Escalation Project - Windows / Linux / Mac : https://t.co/L3zM8WiAqN
+</blockquote>
+
+* https://github.com/AlessandroZ/BeRoot/tree/master/Windows
+* https://github.com/AlessandroZ/BeRoot
+
+<table><tr>
+<td>Quotes: <code>6</code></td>
+<td>Replies: <code>3</code></td>
+<td>Retweets: <code>367</code></td>
+<td>Favorites: <code>741</code></td>
 </tr></table>
 
 ---
