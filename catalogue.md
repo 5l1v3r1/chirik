@@ -1,39 +1,19 @@
-# static-analysis
+# PocketSVG
 
-https://github.com/analysis-tools-dev/static-analysis
+https://github.com/pocketsvg/PocketSVG
 <blockquote>
-A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths 
 </blockquote>
 
 <table>
-<tr><td>Owner: analysis-tools-dev</td>
-    <td>Language: Rust</td>
-    <td>Started: Fri Dec 18 17:58:30 2015 +0100</td>
-    <td>Latest: Wed Oct 21 08:14:52 2020 +0000</td></tr>
-<tr><td>Commits: 843</td>
-    <td>Stargazers: 7880</td>
-    <td>Watchers: 7880</td>
-    <td>Forks: 911</td></tr>
-</table>
-
----
-
-# wg-vulnerability-disclosures
-
-https://github.com/ossf/wg-vulnerability-disclosures
-<blockquote>
-The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting and communication.
-</blockquote>
-
-<table>
-<tr><td>Owner: ossf</td>
-    <td>Language: null</td>
-    <td>Started: Wed Jul 29 11:16:18 2020 -0700</td>
-    <td>Latest: Wed Oct 21 10:03:20 2020 +0200</td></tr>
-<tr><td>Commits: 83</td>
-    <td>Stargazers: 53</td>
-    <td>Watchers: 53</td>
-    <td>Forks: 18</td></tr>
+<tr><td>Owner: pocketsvg</td>
+    <td>Language: Objective-C++</td>
+    <td>Started: Thu Aug 2 12:28:30 2012 +0100</td>
+    <td>Latest: Mon Oct 26 11:18:37 2020 +0000</td></tr>
+<tr><td>Commits: 431</td>
+    <td>Stargazers: 1369</td>
+    <td>Watchers: 1369</td>
+    <td>Forks: 200</td></tr>
 </table>
 
 ---
@@ -49,171 +29,31 @@ https://github.com/Mr-xn/Penetration_Testing_POC
 <tr><td>Owner: Mr-xn</td>
     <td>Language: PowerShell</td>
     <td>Started: Wed Jul 24 11:37:56 2019 +0800</td>
-    <td>Latest: Wed Oct 21 15:49:38 2020 +0800</td></tr>
-<tr><td>Commits: 717</td>
-    <td>Stargazers: 2256</td>
-    <td>Watchers: 2256</td>
-    <td>Forks: 768</td></tr>
+    <td>Latest: Mon Oct 26 17:54:47 2020 +0800</td></tr>
+<tr><td>Commits: 723</td>
+    <td>Stargazers: 2264</td>
+    <td>Watchers: 2264</td>
+    <td>Forks: 772</td></tr>
 </table>
 
 ---
 
-# insightface
+# networkx
 
-https://github.com/deepinsight/insightface
+https://github.com/networkx/networkx
 <blockquote>
-Face Analysis Project on MXNet
+Network Analysis in Python
 </blockquote>
 
 <table>
-<tr><td>Owner: deepinsight</td>
+<tr><td>Owner: networkx</td>
     <td>Language: Python</td>
-    <td>Started: Fri Sep 1 08:36:52 2017 +0800</td>
-    <td>Latest: Wed Oct 21 14:16:21 2020 +0800</td></tr>
-<tr><td>Commits: 1343</td>
-    <td>Stargazers: 7830</td>
-    <td>Watchers: 7830</td>
-    <td>Forks: 2721</td></tr>
-</table>
-
----
-
-# commix
-
-https://github.com/commixproject/commix
-<blockquote>
-Automated All-in-One OS command injection and exploitation tool.
-</blockquote>
-
-<table>
-<tr><td>Owner: commixproject</td>
-    <td>Language: Python</td>
-    <td>Started: Fri Mar 20 10:58:16 2015 +0200</td>
-    <td>Latest: Wed Oct 21 09:02:52 2020 +0300</td></tr>
-<tr><td>Commits: 1501</td>
-    <td>Stargazers: 2417</td>
-    <td>Watchers: 2417</td>
-    <td>Forks: 566</td></tr>
-</table>
-
----
-
-# exploitdb
-
-https://github.com/offensive-security/exploitdb
-<blockquote>
-The official Exploit Database repository
-</blockquote>
-
-<table>
-<tr><td>Owner: offensive-security</td>
-    <td>Language: C</td>
-    <td>Started: Tue Dec 3 10:50:07 2013 -0800</td>
-    <td>Latest: Wed Oct 21 05:02:11 2020 +0000</td></tr>
-<tr><td>Commits: 2234</td>
-    <td>Stargazers: 5598</td>
-    <td>Watchers: 5598</td>
-    <td>Forks: 1602</td></tr>
-</table>
-
----
-
-# dosbox-x
-
-https://github.com/joncampbell123/dosbox-x
-<blockquote>
-DOSBox-X fork of the DOSBox project
-</blockquote>
-
-<table>
-<tr><td>Owner: joncampbell123</td>
-    <td>Language: C</td>
-    <td>Started: Sun Jul 7 20:39:49 2013 -0700</td>
-    <td>Latest: Wed Oct 21 00:19:27 2020 -0400</td></tr>
-<tr><td>Commits: 13208</td>
-    <td>Stargazers: 886</td>
-    <td>Watchers: 886</td>
-    <td>Forks: 149</td></tr>
-</table>
-
----
-
-# open-disclosure
-
-https://github.com/codeforsanjose/open-disclosure
-<blockquote>
-A web app to track campaign finances for the General Election (November 3, 2020) in San Jose & South Bay California
-</blockquote>
-
-<table>
-<tr><td>Owner: codeforsanjose</td>
-    <td>Language: Jupyter Notebook</td>
-    <td>Started: Fri Aug 23 11:29:13 2019 -0700</td>
-    <td>Latest: Tue Oct 20 21:06:48 2020 -0700</td></tr>
-<tr><td>Commits: 575</td>
-    <td>Stargazers: 11</td>
-    <td>Watchers: 11</td>
-    <td>Forks: 11</td></tr>
-</table>
-
----
-
-# diodb
-
-https://github.com/disclose/diodb
-<blockquote>
-Open-source vulnerability disclosure and bug bounty program database.
-</blockquote>
-
-<table>
-<tr><td>Owner: disclose</td>
-    <td>Language: JavaScript</td>
-    <td>Started: Wed May 16 22:25:48 2018 -0700</td>
-    <td>Latest: Wed Oct 21 12:46:18 2020 +1100</td></tr>
-<tr><td>Commits: 578</td>
-    <td>Stargazers: 459</td>
-    <td>Watchers: 459</td>
-    <td>Forks: 165</td></tr>
-</table>
-
----
-
-# dosemu2
-
-https://github.com/dosemu2/dosemu2
-<blockquote>
-Run DOS programs under linux:
-</blockquote>
-
-<table>
-<tr><td>Owner: dosemu2</td>
-    <td>Language: C</td>
-    <td>Started: Mon Jun 23 00:02:05 2003 +0000</td>
-    <td>Latest: Wed Oct 21 04:45:20 2020 +0300</td></tr>
-<tr><td>Commits: 8447</td>
-    <td>Stargazers: 207</td>
-    <td>Watchers: 207</td>
-    <td>Forks: 40</td></tr>
-</table>
-
----
-
-# disclosure-backend-static
-
-https://github.com/caciviclab/disclosure-backend-static
-<blockquote>
-Campaign finance data powering Open Disclosure California
-</blockquote>
-
-<table>
-<tr><td>Owner: caciviclab</td>
-    <td>Language: Ruby</td>
-    <td>Started: Mon Sep 5 14:37:37 2016 -0700</td>
-    <td>Latest: Tue Oct 20 16:40:41 2020 -0700</td></tr>
-<tr><td>Commits: 1689</td>
-    <td>Stargazers: 9</td>
-    <td>Watchers: 9</td>
-    <td>Forks: 14</td></tr>
+    <td>Started: Tue Jul 12 23:35:35 2005 +0000</td>
+    <td>Latest: Sun Oct 25 16:41:23 2020 -0700</td></tr>
+<tr><td>Commits: 6312</td>
+    <td>Stargazers: 8070</td>
+    <td>Watchers: 8070</td>
+    <td>Forks: 2108</td></tr>
 </table>
 
 ---
@@ -318,102 +158,42 @@ null
 
 ---
 
-# public-bugbounty-programs
+# opengov
 
-https://github.com/projectdiscovery/public-bugbounty-programs
+https://github.com/seoul-opengov/opengov
 <blockquote>
-Community curated list of public bug bounty and responsible disclosure programs.  
+서울시 행정정보 공개 깃허브입니다.(서울 정보소통광장) Github for the Seoul government information disclosure.
 </blockquote>
 
 <table>
-<tr><td>Owner: projectdiscovery</td>
+<tr><td>Owner: seoul-opengov</td>
     <td>Language: null</td>
-    <td>Started: Thu May 7 07:58:47 2020 +0530</td>
-    <td>Latest: Wed Oct 21 00:17:28 2020 +0530</td></tr>
-<tr><td>Commits: 303</td>
-    <td>Stargazers: 151</td>
-    <td>Watchers: 151</td>
-    <td>Forks: 74</td></tr>
+    <td>Started: Mon May 16 11:28:04 2016 +0900</td>
+    <td>Latest: Mon Oct 26 05:59:01 2020 +0900</td></tr>
+<tr><td>Commits: 685</td>
+    <td>Stargazers: 483</td>
+    <td>Watchers: 483</td>
+    <td>Forks: 59</td></tr>
 </table>
 
 ---
 
-# networkx
+# beef
 
-https://github.com/networkx/networkx
+https://github.com/beefproject/beef
 <blockquote>
-Network Analysis in Python
+The Browser Exploitation Framework Project
 </blockquote>
 
 <table>
-<tr><td>Owner: networkx</td>
-    <td>Language: Python</td>
-    <td>Started: Tue Jul 12 23:35:35 2005 +0000</td>
-    <td>Latest: Tue Oct 20 10:49:46 2020 -0700</td></tr>
-<tr><td>Commits: 6305</td>
-    <td>Stargazers: 8050</td>
-    <td>Watchers: 8050</td>
-    <td>Forks: 2102</td></tr>
-</table>
-
----
-
-# archerysec
-
-https://github.com/archerysec/archerysec
-<blockquote>
-Centralize Vulnerability Assessment and Management for DevSecOps Team
-</blockquote>
-
-<table>
-<tr><td>Owner: archerysec</td>
-    <td>Language: Python</td>
-    <td>Started: Mon Dec 4 18:07:26 2017 +0530</td>
-    <td>Latest: Tue Oct 20 22:30:56 2020 +0530</td></tr>
-<tr><td>Commits: 1094</td>
-    <td>Stargazers: 1501</td>
-    <td>Watchers: 1501</td>
-    <td>Forks: 376</td></tr>
-</table>
-
----
-
-# pwntools
-
-https://github.com/Gallopsled/pwntools
-<blockquote>
-CTF framework and exploit development library
-</blockquote>
-
-<table>
-<tr><td>Owner: Gallopsled</td>
-    <td>Language: Python</td>
-    <td>Started: Wed May 1 09:19:47 2013 +0200</td>
-    <td>Latest: Tue Oct 20 18:17:29 2020 +0200</td></tr>
-<tr><td>Commits: 4581</td>
-    <td>Stargazers: 7142</td>
-    <td>Watchers: 7142</td>
-    <td>Forks: 1295</td></tr>
-</table>
-
----
-
-# openvas
-
-https://github.com/greenbone/openvas
-<blockquote>
-Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Management (GVM)
-</blockquote>
-
-<table>
-<tr><td>Owner: greenbone</td>
-    <td>Language: C</td>
-    <td>Started: Sun Nov 6 20:06:15 2005 +0000</td>
-    <td>Latest: Tue Oct 20 12:44:44 2020 +0200</td></tr>
-<tr><td>Commits: 3724</td>
-    <td>Stargazers: 857</td>
-    <td>Watchers: 857</td>
-    <td>Forks: 255</td></tr>
+<tr><td>Owner: beefproject</td>
+    <td>Language: JavaScript</td>
+    <td>Started: Tue Jan 5 06:08:19 2010 +0000</td>
+    <td>Latest: Sun Oct 25 20:20:30 2020 +1000</td></tr>
+<tr><td>Commits: 4027</td>
+    <td>Stargazers: 5317</td>
+    <td>Watchers: 5317</td>
+    <td>Forks: 1282</td></tr>
 </table>
 
 ---
@@ -429,11 +209,391 @@ A server software for Minecraft: Bedrock Edition in PHP
 <tr><td>Owner: pmmp</td>
     <td>Language: PHP</td>
     <td>Started: Fri Oct 19 02:21:54 2012 +0200</td>
-    <td>Latest: Tue Oct 20 09:06:46 2020 +0000</td></tr>
-<tr><td>Commits: 12614</td>
-    <td>Stargazers: 2075</td>
-    <td>Watchers: 2075</td>
-    <td>Forks: 1285</td></tr>
+    <td>Latest: Sat Oct 24 17:22:49 2020 +0100</td></tr>
+<tr><td>Commits: 12634</td>
+    <td>Stargazers: 2080</td>
+    <td>Watchers: 2080</td>
+    <td>Forks: 1286</td></tr>
+</table>
+
+---
+
+# pwntools
+
+https://github.com/Gallopsled/pwntools
+<blockquote>
+CTF framework and exploit development library
+</blockquote>
+
+<table>
+<tr><td>Owner: Gallopsled</td>
+    <td>Language: Python</td>
+    <td>Started: Wed May 1 09:19:47 2013 +0200</td>
+    <td>Latest: Sat Oct 24 13:53:50 2020 +0200</td></tr>
+<tr><td>Commits: 4582</td>
+    <td>Stargazers: 7158</td>
+    <td>Watchers: 7158</td>
+    <td>Forks: 1295</td></tr>
+</table>
+
+---
+
+# exploitdb
+
+https://github.com/offensive-security/exploitdb
+<blockquote>
+The official Exploit Database repository
+</blockquote>
+
+<table>
+<tr><td>Owner: offensive-security</td>
+    <td>Language: C</td>
+    <td>Started: Tue Dec 3 10:50:07 2013 -0800</td>
+    <td>Latest: Sat Oct 24 05:02:08 2020 +0000</td></tr>
+<tr><td>Commits: 2236</td>
+    <td>Stargazers: 5601</td>
+    <td>Watchers: 5601</td>
+    <td>Forks: 1604</td></tr>
+</table>
+
+---
+
+# public-bugbounty-programs
+
+https://github.com/projectdiscovery/public-bugbounty-programs
+<blockquote>
+Community curated list of public bug bounty and responsible disclosure programs.  
+</blockquote>
+
+<table>
+<tr><td>Owner: projectdiscovery</td>
+    <td>Language: null</td>
+    <td>Started: Thu May 7 07:58:47 2020 +0530</td>
+    <td>Latest: Sat Oct 24 00:49:05 2020 +0530</td></tr>
+<tr><td>Commits: 322</td>
+    <td>Stargazers: 153</td>
+    <td>Watchers: 153</td>
+    <td>Forks: 75</td></tr>
+</table>
+
+---
+
+# insightface
+
+https://github.com/deepinsight/insightface
+<blockquote>
+Face Analysis Project on MXNet
+</blockquote>
+
+<table>
+<tr><td>Owner: deepinsight</td>
+    <td>Language: Python</td>
+    <td>Started: Fri Sep 1 08:36:52 2017 +0800</td>
+    <td>Latest: Mon Oct 26 18:57:45 2020 +0800</td></tr>
+<tr><td>Commits: 1352</td>
+    <td>Stargazers: 7850</td>
+    <td>Watchers: 7850</td>
+    <td>Forks: 2729</td></tr>
+</table>
+
+---
+
+# dosemu2
+
+https://github.com/dosemu2/dosemu2
+<blockquote>
+Run DOS programs under linux:
+</blockquote>
+
+<table>
+<tr><td>Owner: dosemu2</td>
+    <td>Language: C</td>
+    <td>Started: Mon Jun 23 00:02:05 2003 +0000</td>
+    <td>Latest: Fri Oct 23 23:25:27 2020 +0300</td></tr>
+<tr><td>Commits: 8455</td>
+    <td>Stargazers: 209</td>
+    <td>Watchers: 209</td>
+    <td>Forks: 42</td></tr>
+</table>
+
+---
+
+# static-analysis
+
+https://github.com/analysis-tools-dev/static-analysis
+<blockquote>
+A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+</blockquote>
+
+<table>
+<tr><td>Owner: analysis-tools-dev</td>
+    <td>Language: Rust</td>
+    <td>Started: Fri Dec 18 17:58:30 2015 +0100</td>
+    <td>Latest: Sun Oct 25 12:16:15 2020 +0000</td></tr>
+<tr><td>Commits: 861</td>
+    <td>Stargazers: 7891</td>
+    <td>Watchers: 7891</td>
+    <td>Forks: 911</td></tr>
+</table>
+
+---
+
+# vuls
+
+https://github.com/future-architect/vuls
+<blockquote>
+Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+</blockquote>
+
+<table>
+<tr><td>Owner: future-architect</td>
+    <td>Language: Go</td>
+    <td>Started: Sun Mar 27 11:29:09 2016 +0900</td>
+    <td>Latest: Fri Oct 23 16:40:03 2020 +0900</td></tr>
+<tr><td>Commits: 1042</td>
+    <td>Stargazers: 8010</td>
+    <td>Watchers: 8010</td>
+    <td>Forks: 888</td></tr>
+</table>
+
+---
+
+# openvas
+
+https://github.com/greenbone/openvas
+<blockquote>
+Open Vulnerability Assessment Scanner - Scanner for Greenbone Vulnerability Management (GVM)
+</blockquote>
+
+<table>
+<tr><td>Owner: greenbone</td>
+    <td>Language: C</td>
+    <td>Started: Sun Nov 6 20:06:15 2005 +0000</td>
+    <td>Latest: Fri Oct 23 08:20:36 2020 +0200</td></tr>
+<tr><td>Commits: 3734</td>
+    <td>Stargazers: 861</td>
+    <td>Watchers: 861</td>
+    <td>Forks: 256</td></tr>
+</table>
+
+---
+
+# dosbox-x
+
+https://github.com/joncampbell123/dosbox-x
+<blockquote>
+DOSBox-X fork of the DOSBox project
+</blockquote>
+
+<table>
+<tr><td>Owner: joncampbell123</td>
+    <td>Language: C</td>
+    <td>Started: Sun Jul 7 20:39:49 2013 -0700</td>
+    <td>Latest: Mon Oct 26 03:31:58 2020 -0400</td></tr>
+<tr><td>Commits: 13250</td>
+    <td>Stargazers: 887</td>
+    <td>Watchers: 887</td>
+    <td>Forks: 151</td></tr>
+</table>
+
+---
+
+# open-disclosure
+
+https://github.com/codeforsanjose/open-disclosure
+<blockquote>
+A web app to track campaign finances for the General Election (November 3, 2020) in San Jose & South Bay California
+</blockquote>
+
+<table>
+<tr><td>Owner: codeforsanjose</td>
+    <td>Language: Jupyter Notebook</td>
+    <td>Started: Fri Aug 23 11:29:13 2019 -0700</td>
+    <td>Latest: Fri Oct 23 17:50:33 2020 -0700</td></tr>
+<tr><td>Commits: 588</td>
+    <td>Stargazers: 11</td>
+    <td>Watchers: 11</td>
+    <td>Forks: 11</td></tr>
+</table>
+
+---
+
+# disclosure-backend-static
+
+https://github.com/caciviclab/disclosure-backend-static
+<blockquote>
+Campaign finance data powering Open Disclosure California
+</blockquote>
+
+<table>
+<tr><td>Owner: caciviclab</td>
+    <td>Language: Ruby</td>
+    <td>Started: Mon Sep 5 14:37:37 2016 -0700</td>
+    <td>Latest: Sun Oct 25 16:42:02 2020 -0700</td></tr>
+<tr><td>Commits: 1696</td>
+    <td>Stargazers: 9</td>
+    <td>Watchers: 9</td>
+    <td>Forks: 14</td></tr>
+</table>
+
+---
+
+# clair
+
+https://github.com/quay/clair
+<blockquote>
+Vulnerability Static Analysis for Containers
+</blockquote>
+
+<table>
+<tr><td>Owner: quay</td>
+    <td>Language: Go</td>
+    <td>Started: Fri Nov 13 14:11:28 2015 -0500</td>
+    <td>Latest: Thu Oct 22 14:20:47 2020 -0500</td></tr>
+<tr><td>Commits: 1389</td>
+    <td>Stargazers: 7063</td>
+    <td>Watchers: 7063</td>
+    <td>Forks: 894</td></tr>
+</table>
+
+---
+
+# archerysec
+
+https://github.com/archerysec/archerysec
+<blockquote>
+Centralize Vulnerability Assessment and Management for DevSecOps Team
+</blockquote>
+
+<table>
+<tr><td>Owner: archerysec</td>
+    <td>Language: Python</td>
+    <td>Started: Mon Dec 4 18:07:26 2017 +0530</td>
+    <td>Latest: Sun Oct 25 18:45:42 2020 +0530</td></tr>
+<tr><td>Commits: 1110</td>
+    <td>Stargazers: 1502</td>
+    <td>Watchers: 1502</td>
+    <td>Forks: 376</td></tr>
+</table>
+
+---
+
+# awesome-point-cloud-analysis
+
+https://github.com/Yochengliu/awesome-point-cloud-analysis
+<blockquote>
+A list of papers and datasets about point cloud analysis (processing)
+</blockquote>
+
+<table>
+<tr><td>Owner: Yochengliu</td>
+    <td>Language: null</td>
+    <td>Started: Thu Apr 25 01:16:06 2019 +0800</td>
+    <td>Latest: Thu Oct 22 18:04:35 2020 +0800</td></tr>
+<tr><td>Commits: 222</td>
+    <td>Stargazers: 2277</td>
+    <td>Watchers: 2277</td>
+    <td>Forks: 565</td></tr>
+</table>
+
+---
+
+# commix
+
+https://github.com/commixproject/commix
+<blockquote>
+Automated All-in-One OS command injection and exploitation tool.
+</blockquote>
+
+<table>
+<tr><td>Owner: commixproject</td>
+    <td>Language: Python</td>
+    <td>Started: Fri Mar 20 10:58:16 2015 +0200</td>
+    <td>Latest: Mon Oct 26 08:55:01 2020 +0200</td></tr>
+<tr><td>Commits: 1503</td>
+    <td>Stargazers: 2417</td>
+    <td>Watchers: 2417</td>
+    <td>Forks: 566</td></tr>
+</table>
+
+---
+
+# angr
+
+https://github.com/angr/angr
+<blockquote>
+A powerful and user-friendly binary analysis platform!
+</blockquote>
+
+<table>
+<tr><td>Owner: angr</td>
+    <td>Language: Python</td>
+    <td>Started: Thu Aug 15 21:09:11 2013 -0700</td>
+    <td>Latest: Mon Oct 26 03:49:16 2020 -0700</td></tr>
+<tr><td>Commits: 11346</td>
+    <td>Stargazers: 4600</td>
+    <td>Watchers: 4600</td>
+    <td>Forks: 765</td></tr>
+</table>
+
+---
+
+# DVWA
+
+https://github.com/digininja/DVWA
+<blockquote>
+Damn Vulnerable Web Application (DVWA)
+</blockquote>
+
+<table>
+<tr><td>Owner: digininja</td>
+    <td>Language: PHP</td>
+    <td>Started: Wed May 1 06:03:11 2013 -0700</td>
+    <td>Latest: Sun Oct 25 21:04:12 2020 +0000</td></tr>
+<tr><td>Commits: 347</td>
+    <td>Stargazers: 4635</td>
+    <td>Watchers: 4635</td>
+    <td>Forks: 1428</td></tr>
+</table>
+
+---
+
+# wg-vulnerability-disclosures
+
+https://github.com/ossf/wg-vulnerability-disclosures
+<blockquote>
+The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting and communication.
+</blockquote>
+
+<table>
+<tr><td>Owner: ossf</td>
+    <td>Language: null</td>
+    <td>Started: Wed Jul 29 11:16:18 2020 -0700</td>
+    <td>Latest: Wed Oct 21 10:03:20 2020 +0200</td></tr>
+<tr><td>Commits: 83</td>
+    <td>Stargazers: 53</td>
+    <td>Watchers: 53</td>
+    <td>Forks: 18</td></tr>
+</table>
+
+---
+
+# diodb
+
+https://github.com/disclose/diodb
+<blockquote>
+Open-source vulnerability disclosure and bug bounty program database.
+</blockquote>
+
+<table>
+<tr><td>Owner: disclose</td>
+    <td>Language: JavaScript</td>
+    <td>Started: Wed May 16 22:25:48 2018 -0700</td>
+    <td>Latest: Mon Oct 26 21:31:17 2020 +1100</td></tr>
+<tr><td>Commits: 599</td>
+    <td>Stargazers: 461</td>
+    <td>Watchers: 461</td>
+    <td>Forks: 165</td></tr>
 </table>
 
 ---
@@ -451,29 +611,9 @@ iDOS - DOSBox port on iOS
     <td>Started: Mon Oct 11 07:58:24 2010 +0000</td>
     <td>Latest: Tue Oct 20 15:30:30 2020 +0800</td></tr>
 <tr><td>Commits: 127</td>
-    <td>Stargazers: 263</td>
-    <td>Watchers: 263</td>
+    <td>Stargazers: 264</td>
+    <td>Watchers: 264</td>
     <td>Forks: 83</td></tr>
-</table>
-
----
-
-# clair
-
-https://github.com/quay/clair
-<blockquote>
-Vulnerability Static Analysis for Containers
-</blockquote>
-
-<table>
-<tr><td>Owner: quay</td>
-    <td>Language: Go</td>
-    <td>Started: Fri Nov 13 14:11:28 2015 -0500</td>
-    <td>Latest: Mon Oct 19 14:27:19 2020 -0400</td></tr>
-<tr><td>Commits: 1384</td>
-    <td>Stargazers: 7060</td>
-    <td>Watchers: 7060</td>
-    <td>Forks: 894</td></tr>
 </table>
 
 ---
@@ -491,29 +631,9 @@ null
     <td>Started: Mon Oct 19 13:47:57 2020 +0100</td>
     <td>Latest: Mon Oct 19 15:00:50 2020 +0100</td></tr>
 <tr><td>Commits: 4</td>
-    <td>Stargazers: 3</td>
-    <td>Watchers: 3</td>
+    <td>Stargazers: 6</td>
+    <td>Watchers: 6</td>
     <td>Forks: 0</td></tr>
-</table>
-
----
-
-# vuls
-
-https://github.com/future-architect/vuls
-<blockquote>
-Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-</blockquote>
-
-<table>
-<tr><td>Owner: future-architect</td>
-    <td>Language: Go</td>
-    <td>Started: Sun Mar 27 11:29:09 2016 +0900</td>
-    <td>Latest: Mon Oct 19 17:47:20 2020 +0900</td></tr>
-<tr><td>Commits: 1041</td>
-    <td>Stargazers: 8007</td>
-    <td>Watchers: 8007</td>
-    <td>Forks: 888</td></tr>
 </table>
 
 ---
@@ -531,49 +651,9 @@ CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
     <td>Started: Sun Sep 8 09:14:00 2019 +0800</td>
     <td>Latest: Mon Oct 19 09:42:08 2020 +0800</td></tr>
 <tr><td>Commits: 374</td>
-    <td>Stargazers: 956</td>
-    <td>Watchers: 956</td>
-    <td>Forks: 242</td></tr>
-</table>
-
----
-
-# opengov
-
-https://github.com/seoul-opengov/opengov
-<blockquote>
-서울시 행정정보 공개 깃허브입니다.(서울 정보소통광장) Github for the Seoul government information disclosure.
-</blockquote>
-
-<table>
-<tr><td>Owner: seoul-opengov</td>
-    <td>Language: null</td>
-    <td>Started: Mon May 16 11:28:04 2016 +0900</td>
-    <td>Latest: Mon Oct 19 05:53:45 2020 +0900</td></tr>
-<tr><td>Commits: 684</td>
-    <td>Stargazers: 483</td>
-    <td>Watchers: 483</td>
-    <td>Forks: 59</td></tr>
-</table>
-
----
-
-# angr
-
-https://github.com/angr/angr
-<blockquote>
-A powerful and user-friendly binary analysis platform!
-</blockquote>
-
-<table>
-<tr><td>Owner: angr</td>
-    <td>Language: Python</td>
-    <td>Started: Thu Aug 15 21:09:11 2013 -0700</td>
-    <td>Latest: Sun Oct 18 10:29:02 2020 -0700</td></tr>
-<tr><td>Commits: 11335</td>
-    <td>Stargazers: 4598</td>
-    <td>Watchers: 4598</td>
-    <td>Forks: 764</td></tr>
+    <td>Stargazers: 966</td>
+    <td>Watchers: 966</td>
+    <td>Forks: 246</td></tr>
 </table>
 
 ---
@@ -591,9 +671,9 @@ List of Google Dorks for sites that have responsible disclosure program / bug bo
     <td>Started: Sat Aug 24 22:52:58 2019 +0800</td>
     <td>Latest: Sat Oct 17 15:26:21 2020 +0800</td></tr>
 <tr><td>Commits: 53</td>
-    <td>Stargazers: 225</td>
-    <td>Watchers: 225</td>
-    <td>Forks: 79</td></tr>
+    <td>Stargazers: 228</td>
+    <td>Watchers: 228</td>
+    <td>Forks: 80</td></tr>
 </table>
 
 ---
@@ -609,31 +689,11 @@ JXA script to allow programmatic persistence via macOS Calendar.app alerts.
 <tr><td>Owner: FSecureLABS</td>
     <td>Language: JavaScript</td>
     <td>Started: Fri Oct 16 09:33:41 2020 +0100</td>
-    <td>Latest: Fri Oct 16 21:40:03 2020 +0100</td></tr>
-<tr><td>Commits: 7</td>
-    <td>Stargazers: 17</td>
-    <td>Watchers: 17</td>
+    <td>Latest: Fri Oct 23 14:35:40 2020 +0100</td></tr>
+<tr><td>Commits: 9</td>
+    <td>Stargazers: 18</td>
+    <td>Watchers: 18</td>
     <td>Forks: 1</td></tr>
-</table>
-
----
-
-# DVWA
-
-https://github.com/digininja/DVWA
-<blockquote>
-Damn Vulnerable Web Application (DVWA)
-</blockquote>
-
-<table>
-<tr><td>Owner: digininja</td>
-    <td>Language: PHP</td>
-    <td>Started: Wed May 1 06:03:11 2013 -0700</td>
-    <td>Latest: Fri Oct 16 13:52:41 2020 +0100</td></tr>
-<tr><td>Commits: 339</td>
-    <td>Stargazers: 4628</td>
-    <td>Watchers: 4628</td>
-    <td>Forks: 1428</td></tr>
 </table>
 
 ---
@@ -671,9 +731,9 @@ Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
     <td>Started: Wed Dec 13 13:36:41 2017 +0000</td>
     <td>Latest: Tue Oct 13 21:54:44 2020 +0100</td></tr>
 <tr><td>Commits: 102</td>
-    <td>Stargazers: 2242</td>
-    <td>Watchers: 2242</td>
-    <td>Forks: 609</td></tr>
+    <td>Stargazers: 2243</td>
+    <td>Watchers: 2243</td>
+    <td>Forks: 611</td></tr>
 </table>
 
 ---
@@ -691,9 +751,9 @@ Firmware Analysis Tool
     <td>Started: Fri Nov 15 12:45:40 2013 -0800</td>
     <td>Latest: Tue Oct 13 10:48:49 2020 -0400</td></tr>
 <tr><td>Commits: 1179</td>
-    <td>Stargazers: 6586</td>
-    <td>Watchers: 6586</td>
-    <td>Forks: 1009</td></tr>
+    <td>Stargazers: 6592</td>
+    <td>Watchers: 6592</td>
+    <td>Forks: 1010</td></tr>
 </table>
 
 ---
@@ -951,8 +1011,8 @@ https://github.com/skavngr/rapidscan
     <td>Started: Mon Jan 29 14:22:21 2018 +0530</td>
     <td>Latest: Sun Oct 11 09:05:36 2020 +0400</td></tr>
 <tr><td>Commits: 169</td>
-    <td>Stargazers: 636</td>
-    <td>Watchers: 636</td>
+    <td>Stargazers: 639</td>
+    <td>Watchers: 639</td>
     <td>Forks: 200</td></tr>
 </table>
 
@@ -1231,9 +1291,9 @@ Fully automated offensive security framework for reconnaissance and vulnerabilit
     <td>Started: Sun Sep 8 22:14:11 2019 +0700</td>
     <td>Latest: Thu Oct 8 10:14:20 2020 +0700</td></tr>
 <tr><td>Commits: 270</td>
-    <td>Stargazers: 2680</td>
-    <td>Watchers: 2680</td>
-    <td>Forks: 525</td></tr>
+    <td>Stargazers: 2690</td>
+    <td>Watchers: 2690</td>
+    <td>Forks: 526</td></tr>
 </table>
 
 ---
@@ -1331,8 +1391,8 @@ Custom Command and Control (C3). A framework for rapid prototyping of custom C2 
     <td>Started: Mon Sep 2 12:52:41 2019 +0200</td>
     <td>Latest: Tue Oct 6 11:40:10 2020 +0200</td></tr>
 <tr><td>Commits: 432</td>
-    <td>Stargazers: 675</td>
-    <td>Watchers: 675</td>
+    <td>Stargazers: 679</td>
+    <td>Watchers: 679</td>
     <td>Forks: 139</td></tr>
 </table>
 
@@ -1353,7 +1413,7 @@ null
 <tr><td>Commits: 440</td>
     <td>Stargazers: 269</td>
     <td>Watchers: 269</td>
-    <td>Forks: 79</td></tr>
+    <td>Forks: 78</td></tr>
 </table>
 
 ---
@@ -1431,8 +1491,8 @@ Linux privilege escalation auditing tool
     <td>Started: Thu Oct 6 17:55:54 2016 -0400</td>
     <td>Latest: Fri Oct 2 11:00:49 2020 +0200</td></tr>
 <tr><td>Commits: 159</td>
-    <td>Stargazers: 2137</td>
-    <td>Watchers: 2137</td>
+    <td>Stargazers: 2145</td>
+    <td>Watchers: 2145</td>
     <td>Forks: 578</td></tr>
 </table>
 
@@ -1451,8 +1511,8 @@ Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
     <td>Started: Sun Mar 29 22:03:02 2020 -0300</td>
     <td>Latest: Thu Oct 1 18:44:50 2020 -0300</td></tr>
 <tr><td>Commits: 137</td>
-    <td>Stargazers: 867</td>
-    <td>Watchers: 867</td>
+    <td>Stargazers: 876</td>
+    <td>Watchers: 876</td>
     <td>Forks: 948</td></tr>
 </table>
 
@@ -1471,9 +1531,9 @@ Python Audio Analysis Library: Feature Extraction, Classification, Segmentation 
     <td>Started: Wed Aug 27 15:44:23 2014 +0300</td>
     <td>Latest: Thu Oct 1 22:20:47 2020 +0300</td></tr>
 <tr><td>Commits: 663</td>
-    <td>Stargazers: 3462</td>
-    <td>Watchers: 3462</td>
-    <td>Forks: 925</td></tr>
+    <td>Stargazers: 3467</td>
+    <td>Watchers: 3467</td>
+    <td>Forks: 926</td></tr>
 </table>
 
 ---
@@ -1491,8 +1551,8 @@ https://github.com/FSecureLABS/dref
     <td>Started: Sat Jun 23 16:20:32 2018 +0100</td>
     <td>Latest: Thu Oct 1 16:18:54 2020 +0100</td></tr>
 <tr><td>Commits: 134</td>
-    <td>Stargazers: 399</td>
-    <td>Watchers: 399</td>
+    <td>Stargazers: 400</td>
+    <td>Watchers: 400</td>
     <td>Forks: 58</td></tr>
 </table>
 
@@ -1511,8 +1571,8 @@ A collection of links related to VMware escape exploits
     <td>Started: Thu Dec 6 08:39:33 2018 +0100</td>
     <td>Latest: Thu Oct 1 16:54:13 2020 +0200</td></tr>
 <tr><td>Commits: 19</td>
-    <td>Stargazers: 634</td>
-    <td>Watchers: 634</td>
+    <td>Stargazers: 639</td>
+    <td>Watchers: 639</td>
     <td>Forks: 125</td></tr>
 </table>
 
@@ -1551,8 +1611,8 @@ https://github.com/sensepost/gowitness
     <td>Started: Tue Oct 31 19:07:28 2017 +0200</td>
     <td>Latest: Thu Oct 1 09:45:41 2020 +0200</td></tr>
 <tr><td>Commits: 147</td>
-    <td>Stargazers: 863</td>
-    <td>Watchers: 863</td>
+    <td>Stargazers: 867</td>
+    <td>Watchers: 867</td>
     <td>Forks: 129</td></tr>
 </table>
 
@@ -1578,26 +1638,6 @@ A collection of android security related resources
 
 ---
 
-# PocketSVG
-
-https://github.com/pocketsvg/PocketSVG
-<blockquote>
-Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths 
-</blockquote>
-
-<table>
-<tr><td>Owner: pocketsvg</td>
-    <td>Language: Objective-C++</td>
-    <td>Started: Thu Aug 2 12:28:30 2012 +0100</td>
-    <td>Latest: Wed Sep 30 17:33:58 2020 +0100</td></tr>
-<tr><td>Commits: 430</td>
-    <td>Stargazers: 1368</td>
-    <td>Watchers: 1368</td>
-    <td>Forks: 200</td></tr>
-</table>
-
----
-
 # pocs
 
 https://github.com/corkami/pocs
@@ -1614,26 +1654,6 @@ Proof of Concepts (PE, PDF...)
     <td>Stargazers: 1085</td>
     <td>Watchers: 1085</td>
     <td>Forks: 165</td></tr>
-</table>
-
----
-
-# beef
-
-https://github.com/beefproject/beef
-<blockquote>
-The Browser Exploitation Framework Project
-</blockquote>
-
-<table>
-<tr><td>Owner: beefproject</td>
-    <td>Language: JavaScript</td>
-    <td>Started: Tue Jan 5 06:08:19 2010 +0000</td>
-    <td>Latest: Tue Sep 29 08:10:00 2020 +1000</td></tr>
-<tr><td>Commits: 4025</td>
-    <td>Stargazers: 5311</td>
-    <td>Watchers: 5311</td>
-    <td>Forks: 1280</td></tr>
 </table>
 
 ---
@@ -1733,7 +1753,7 @@ Application Layer DoS attack simulator
 <tr><td>Commits: 255</td>
     <td>Stargazers: 936</td>
     <td>Watchers: 936</td>
-    <td>Forks: 217</td></tr>
+    <td>Forks: 218</td></tr>
 </table>
 
 ---
@@ -1771,8 +1791,8 @@ Run Linux programs on DOS
     <td>Started: Sun Sep 20 18:16:34 2020 +1000</td>
     <td>Latest: Sun Sep 27 13:10:03 2020 +1000</td></tr>
 <tr><td>Commits: 68</td>
-    <td>Stargazers: 733</td>
-    <td>Watchers: 733</td>
+    <td>Stargazers: 735</td>
+    <td>Watchers: 735</td>
     <td>Forks: 23</td></tr>
 </table>
 
@@ -1831,8 +1851,8 @@ Proof of Concepts
     <td>Started: Thu Sep 6 15:32:43 2018 -0400</td>
     <td>Latest: Fri Sep 25 10:12:14 2020 -0300</td></tr>
 <tr><td>Commits: 155</td>
-    <td>Stargazers: 656</td>
-    <td>Watchers: 656</td>
+    <td>Stargazers: 658</td>
+    <td>Watchers: 658</td>
     <td>Forks: 204</td></tr>
 </table>
 
@@ -1890,7 +1910,7 @@ The best API for running dos programs in browser
     <td>Language: C++</td>
     <td>Started: Fri Jan 4 00:49:12 2019 +0700</td>
     <td>Latest: Wed Sep 23 16:17:55 2020 +0700</td></tr>
-<tr><td>Commits: 501</td>
+<tr><td>Commits: 510</td>
     <td>Stargazers: 302</td>
     <td>Watchers: 302</td>
     <td>Forks: 43</td></tr>
@@ -1931,8 +1951,8 @@ null
     <td>Started: Thu Oct 5 20:38:25 2017 +0200</td>
     <td>Latest: Mon Sep 21 17:28:41 2020 +0200</td></tr>
 <tr><td>Commits: 24</td>
-    <td>Stargazers: 54</td>
-    <td>Watchers: 54</td>
+    <td>Stargazers: 55</td>
+    <td>Watchers: 55</td>
     <td>Forks: 22</td></tr>
 </table>
 
@@ -1954,26 +1974,6 @@ https://github.com/Genivia/Husky
     <td>Stargazers: 5</td>
     <td>Watchers: 5</td>
     <td>Forks: 0</td></tr>
-</table>
-
----
-
-# awesome-point-cloud-analysis
-
-https://github.com/Yochengliu/awesome-point-cloud-analysis
-<blockquote>
-A list of papers and datasets about point cloud analysis (processing)
-</blockquote>
-
-<table>
-<tr><td>Owner: Yochengliu</td>
-    <td>Language: null</td>
-    <td>Started: Thu Apr 25 01:16:06 2019 +0800</td>
-    <td>Latest: Mon Sep 21 10:42:22 2020 +0800</td></tr>
-<tr><td>Commits: 220</td>
-    <td>Stargazers: 2270</td>
-    <td>Watchers: 2270</td>
-    <td>Forks: 561</td></tr>
 </table>
 
 ---
@@ -2030,10 +2030,10 @@ A graph-based tool for visualizing effective access and resource relationships i
     <td>Language: Python</td>
     <td>Started: Wed Dec 4 17:22:17 2019 +0200</td>
     <td>Latest: Fri Sep 18 11:30:31 2020 +0200</td></tr>
-<tr><td>Commits: 222</td>
+<tr><td>Commits: 224</td>
     <td>Stargazers: 479</td>
     <td>Watchers: 479</td>
-    <td>Forks: 53</td></tr>
+    <td>Forks: 54</td></tr>
 </table>
 
 ---
@@ -2051,8 +2051,8 @@ Public Disclosures
     <td>Started: Sat Jan 19 09:42:08 2019 +0200</td>
     <td>Latest: Fri Sep 18 08:40:54 2020 +0300</td></tr>
 <tr><td>Commits: 30</td>
-    <td>Stargazers: 32</td>
-    <td>Watchers: 32</td>
+    <td>Stargazers: 33</td>
+    <td>Watchers: 33</td>
     <td>Forks: 7</td></tr>
 </table>
 
@@ -2071,8 +2071,8 @@ Repository of teaching materials, code, and data for my data analysis and machin
     <td>Started: Thu Feb 12 18:03:48 2015 -0500</td>
     <td>Latest: Thu Sep 17 12:21:13 2020 -0700</td></tr>
 <tr><td>Commits: 113</td>
-    <td>Stargazers: 4839</td>
-    <td>Watchers: 4839</td>
+    <td>Stargazers: 4837</td>
+    <td>Watchers: 4837</td>
     <td>Forks: 1827</td></tr>
 </table>
 
@@ -2111,9 +2111,9 @@ A cheat sheet that contains common enumeration and attack methods for Windows Ac
     <td>Started: Mon Feb 24 13:43:56 2020 +0200</td>
     <td>Latest: Thu Sep 17 15:05:00 2020 +0300</td></tr>
 <tr><td>Commits: 239</td>
-    <td>Stargazers: 772</td>
-    <td>Watchers: 772</td>
-    <td>Forks: 207</td></tr>
+    <td>Stargazers: 773</td>
+    <td>Watchers: 773</td>
+    <td>Forks: 208</td></tr>
 </table>
 
 ---
@@ -2131,8 +2131,8 @@ Official PetaPoco, A tiny ORM-ish thing for your POCO's
     <td>Started: Fri Mar 18 11:35:52 2011 +1100</td>
     <td>Latest: Wed Sep 16 19:01:10 2020 +1000</td></tr>
 <tr><td>Commits: 720</td>
-    <td>Stargazers: 1744</td>
-    <td>Watchers: 1744</td>
+    <td>Stargazers: 1745</td>
+    <td>Watchers: 1745</td>
     <td>Forks: 574</td></tr>
 </table>
 
@@ -2271,8 +2271,8 @@ CAPTCHA22 is a toolset for building, and training, CAPTCHA cracking models using
     <td>Started: Fri Jan 11 13:54:51 2019 +0200</td>
     <td>Latest: Tue Sep 8 14:44:41 2020 +0200</td></tr>
 <tr><td>Commits: 17</td>
-    <td>Stargazers: 173</td>
-    <td>Watchers: 173</td>
+    <td>Stargazers: 174</td>
+    <td>Watchers: 174</td>
     <td>Forks: 27</td></tr>
 </table>
 
@@ -2311,9 +2311,9 @@ The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support
     <td>Started: Fri Dec 16 17:02:21 2011 +0800</td>
     <td>Latest: Sun Sep 6 16:34:40 2020 +0800</td></tr>
 <tr><td>Commits: 273</td>
-    <td>Stargazers: 10766</td>
-    <td>Watchers: 10766</td>
-    <td>Forks: 2478</td></tr>
+    <td>Stargazers: 10779</td>
+    <td>Watchers: 10779</td>
+    <td>Forks: 2480</td></tr>
 </table>
 
 ---
@@ -2333,7 +2333,7 @@ Low bandwidth DoS tool. Slowloris rewrite in Python.
 <tr><td>Commits: 34</td>
     <td>Stargazers: 1022</td>
     <td>Watchers: 1022</td>
-    <td>Forks: 386</td></tr>
+    <td>Forks: 387</td></tr>
 </table>
 
 ---
@@ -2371,8 +2371,8 @@ Collaborative Penetration Test and Vulnerability Management Platform
     <td>Started: Tue Nov 5 18:07:23 2013 -0800</td>
     <td>Latest: Thu Sep 3 20:03:39 2020 -0300</td></tr>
 <tr><td>Commits: 9630</td>
-    <td>Stargazers: 2750</td>
-    <td>Watchers: 2750</td>
+    <td>Stargazers: 2753</td>
+    <td>Watchers: 2753</td>
     <td>Forks: 648</td></tr>
 </table>
 
@@ -2391,8 +2391,8 @@ The AWS exploitation framework, designed for testing the security of Amazon Web 
     <td>Started: Tue Jun 26 15:31:12 2018 -0700</td>
     <td>Latest: Thu Sep 3 09:03:21 2020 -0700</td></tr>
 <tr><td>Commits: 1030</td>
-    <td>Stargazers: 1679</td>
-    <td>Watchers: 1679</td>
+    <td>Stargazers: 1686</td>
+    <td>Watchers: 1686</td>
     <td>Forks: 310</td></tr>
 </table>
 
@@ -2431,9 +2431,9 @@ Proofs-of-concept
     <td>Started: Wed Jun 6 17:32:39 2018 -0500</td>
     <td>Latest: Tue Sep 1 11:55:17 2020 -0500</td></tr>
 <tr><td>Commits: 18</td>
-    <td>Stargazers: 418</td>
-    <td>Watchers: 418</td>
-    <td>Forks: 151</td></tr>
+    <td>Stargazers: 420</td>
+    <td>Watchers: 420</td>
+    <td>Forks: 152</td></tr>
 </table>
 
 ---
@@ -2453,7 +2453,7 @@ The vulnerability disclosure policy for 18F and GSA's Technology Transformation 
 <tr><td>Commits: 110</td>
     <td>Stargazers: 21</td>
     <td>Watchers: 21</td>
-    <td>Forks: 24</td></tr>
+    <td>Forks: 23</td></tr>
 </table>
 
 ---
@@ -2471,8 +2471,8 @@ A collection of links related to Linux kernel exploitation
     <td>Started: Sun Nov 27 14:37:13 2016 +0100</td>
     <td>Latest: Sun Aug 30 16:51:04 2020 +0200</td></tr>
 <tr><td>Commits: 72</td>
-    <td>Stargazers: 3097</td>
-    <td>Watchers: 3097</td>
+    <td>Stargazers: 3101</td>
+    <td>Watchers: 3101</td>
     <td>Forks: 705</td></tr>
 </table>
 
@@ -2671,9 +2671,9 @@ Defund the Police.
     <td>Started: Fri May 8 18:08:28 2015 -0600</td>
     <td>Latest: Mon Aug 24 15:10:22 2020 -0500</td></tr>
 <tr><td>Commits: 667</td>
-    <td>Stargazers: 6606</td>
-    <td>Watchers: 6606</td>
-    <td>Forks: 1852</td></tr>
+    <td>Stargazers: 6618</td>
+    <td>Watchers: 6618</td>
+    <td>Forks: 1856</td></tr>
 </table>
 
 ---
@@ -2771,8 +2771,8 @@ A bash script for recon and DOS attacks
     <td>Started: Mon May 9 21:11:58 2016 +0100</td>
     <td>Latest: Sat Aug 22 08:52:36 2020 +0100</td></tr>
 <tr><td>Commits: 200</td>
-    <td>Stargazers: 258</td>
-    <td>Watchers: 258</td>
+    <td>Stargazers: 259</td>
+    <td>Watchers: 259</td>
     <td>Forks: 162</td></tr>
 </table>
 
@@ -2911,9 +2911,9 @@ PowerSploit - A PowerShell Post-Exploitation Framework
     <td>Started: Sat May 26 12:34:54 2012 -0400</td>
     <td>Latest: Mon Aug 17 16:13:56 2020 -0700</td></tr>
 <tr><td>Commits: 591</td>
-    <td>Stargazers: 7594</td>
-    <td>Watchers: 7594</td>
-    <td>Forks: 2919</td></tr>
+    <td>Stargazers: 7607</td>
+    <td>Watchers: 7607</td>
+    <td>Forks: 2923</td></tr>
 </table>
 
 ---
@@ -2971,8 +2971,8 @@ https://github.com/ustbhuangyi/vue-analysis
     <td>Started: Mon Aug 28 17:09:37 2017 +0800</td>
     <td>Latest: Fri Aug 14 15:14:23 2020 +0800</td></tr>
 <tr><td>Commits: 282</td>
-    <td>Stargazers: 5368</td>
-    <td>Watchers: 5368</td>
+    <td>Stargazers: 5372</td>
+    <td>Watchers: 5372</td>
     <td>Forks: 1156</td></tr>
 </table>
 
@@ -3211,9 +3211,9 @@ pocsuite3 is an open-sourced remote vulnerability testing framework developed by
     <td>Started: Fri Mar 15 15:04:02 2019 +0800</td>
     <td>Latest: Thu Aug 6 17:49:33 2020 +0800</td></tr>
 <tr><td>Commits: 268</td>
-    <td>Stargazers: 1391</td>
-    <td>Watchers: 1391</td>
-    <td>Forks: 414</td></tr>
+    <td>Stargazers: 1392</td>
+    <td>Watchers: 1392</td>
+    <td>Forks: 416</td></tr>
 </table>
 
 ---
@@ -3371,8 +3371,8 @@ https://github.com/qazbnm456/awesome-cve-poc
     <td>Started: Thu Feb 2 14:44:20 2017 +0800</td>
     <td>Latest: Wed Jul 29 20:45:52 2020 +0800</td></tr>
 <tr><td>Commits: 695</td>
-    <td>Stargazers: 2449</td>
-    <td>Watchers: 2449</td>
+    <td>Stargazers: 2450</td>
+    <td>Watchers: 2450</td>
     <td>Forks: 609</td></tr>
 </table>
 
@@ -3431,9 +3431,9 @@ CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
     <td>Started: Mon Jul 16 20:21:08 2018 -0400</td>
     <td>Latest: Thu Jul 23 14:54:59 2020 -0700</td></tr>
 <tr><td>Commits: 159</td>
-    <td>Stargazers: 966</td>
-    <td>Watchers: 966</td>
-    <td>Forks: 187</td></tr>
+    <td>Stargazers: 967</td>
+    <td>Watchers: 967</td>
+    <td>Forks: 188</td></tr>
 </table>
 
 ---
@@ -3551,9 +3551,9 @@ Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.
     <td>Started: Mon Apr 24 14:41:57 2017 +0200</td>
     <td>Latest: Wed Jul 15 23:26:45 2020 +0200</td></tr>
 <tr><td>Commits: 7</td>
-    <td>Stargazers: 880</td>
-    <td>Watchers: 880</td>
-    <td>Forks: 525</td></tr>
+    <td>Stargazers: 881</td>
+    <td>Watchers: 881</td>
+    <td>Forks: 526</td></tr>
 </table>
 
 ---
@@ -3591,9 +3591,9 @@ Resources for Windows exploit development
     <td>Started: Mon Jun 15 16:43:19 2020 -0400</td>
     <td>Latest: Wed Jul 15 16:59:10 2020 -0400</td></tr>
 <tr><td>Commits: 33</td>
-    <td>Stargazers: 567</td>
-    <td>Watchers: 567</td>
-    <td>Forks: 127</td></tr>
+    <td>Stargazers: 568</td>
+    <td>Watchers: 568</td>
+    <td>Forks: 129</td></tr>
 </table>
 
 ---
@@ -3671,8 +3671,8 @@ windows-kernel-exploits   Windows平台提权漏洞集合
     <td>Started: Tue Apr 25 12:02:31 2017 +0800</td>
     <td>Latest: Sun Jul 12 10:47:18 2020 +0800</td></tr>
 <tr><td>Commits: 281</td>
-    <td>Stargazers: 4729</td>
-    <td>Watchers: 4729</td>
+    <td>Stargazers: 4733</td>
+    <td>Watchers: 4733</td>
     <td>Forks: 2163</td></tr>
 </table>
 
@@ -3691,8 +3691,8 @@ A vintage 1980s DOS inspired Twitter Bootstrap theme
     <td>Started: Fri Apr 12 06:49:32 2013 -0700</td>
     <td>Latest: Thu Jul 9 16:13:56 2020 -0700</td></tr>
 <tr><td>Commits: 547</td>
-    <td>Stargazers: 5714</td>
-    <td>Watchers: 5714</td>
+    <td>Stargazers: 5715</td>
+    <td>Watchers: 5715</td>
     <td>Forks: 273</td></tr>
 </table>
 
@@ -3731,8 +3731,8 @@ Exploit Database binary exploits located in the /sploits directory
     <td>Started: Wed Mar 4 15:01:52 2015 -0400</td>
     <td>Latest: Tue Jul 7 09:45:11 2020 +0000</td></tr>
 <tr><td>Commits: 5321</td>
-    <td>Stargazers: 1309</td>
-    <td>Watchers: 1309</td>
+    <td>Stargazers: 1312</td>
+    <td>Watchers: 1312</td>
     <td>Forks: 472</td></tr>
 </table>
 
@@ -3771,9 +3771,9 @@ A repository for learning various heap exploitation techniques.
     <td>Started: Tue Jan 19 17:22:46 2016 -0800</td>
     <td>Latest: Mon Jul 6 15:20:59 2020 -0700</td></tr>
 <tr><td>Commits: 277</td>
-    <td>Stargazers: 4006</td>
-    <td>Watchers: 4006</td>
-    <td>Forks: 847</td></tr>
+    <td>Stargazers: 4010</td>
+    <td>Watchers: 4010</td>
+    <td>Forks: 848</td></tr>
 </table>
 
 ---
@@ -3911,9 +3911,9 @@ https://github.com/payloadbox/xss-payload-list
     <td>Started: Mon Apr 23 09:09:29 2018 +0300</td>
     <td>Latest: Sun Jun 28 12:16:27 2020 +0300</td></tr>
 <tr><td>Commits: 33</td>
-    <td>Stargazers: 1337</td>
-    <td>Watchers: 1337</td>
-    <td>Forks: 448</td></tr>
+    <td>Stargazers: 1346</td>
+    <td>Watchers: 1346</td>
+    <td>Forks: 446</td></tr>
 </table>
 
 ---
@@ -3931,8 +3931,8 @@ Docker containers vulnerability scan
     <td>Started: Sun Apr 2 10:12:00 2017 +0200</td>
     <td>Latest: Fri Jun 26 08:41:12 2020 +0200</td></tr>
 <tr><td>Commits: 118</td>
-    <td>Stargazers: 628</td>
-    <td>Watchers: 628</td>
+    <td>Stargazers: 629</td>
+    <td>Watchers: 629</td>
     <td>Forks: 103</td></tr>
 </table>
 
@@ -4031,9 +4031,9 @@ Spring源码阅读
     <td>Started: Fri Sep 9 15:52:27 2016 +0800</td>
     <td>Latest: Tue Jun 23 08:54:56 2020 +0800</td></tr>
 <tr><td>Commits: 99</td>
-    <td>Stargazers: 9223</td>
-    <td>Watchers: 9223</td>
-    <td>Forks: 3124</td></tr>
+    <td>Stargazers: 9232</td>
+    <td>Watchers: 9232</td>
+    <td>Forks: 3127</td></tr>
 </table>
 
 ---
@@ -4091,8 +4091,8 @@ status of GLaDOS
     <td>Started: Wed Oct 16 19:03:50 2019 +0800</td>
     <td>Latest: Fri Jun 19 22:01:24 2020 +0800</td></tr>
 <tr><td>Commits: 38</td>
-    <td>Stargazers: 587</td>
-    <td>Watchers: 587</td>
+    <td>Stargazers: 591</td>
+    <td>Watchers: 591</td>
     <td>Forks: 59</td></tr>
 </table>
 
@@ -4271,9 +4271,9 @@ Exploitation Framework for Embedded Devices
     <td>Started: Wed Mar 30 12:47:30 2016 +0100</td>
     <td>Latest: Fri Jun 12 09:59:04 2020 +0200</td></tr>
 <tr><td>Commits: 821</td>
-    <td>Stargazers: 8411</td>
-    <td>Watchers: 8411</td>
-    <td>Forks: 1867</td></tr>
+    <td>Stargazers: 8421</td>
+    <td>Watchers: 8421</td>
+    <td>Forks: 1872</td></tr>
 </table>
 
 ---
@@ -4291,8 +4291,8 @@ A curated list of awesome network analysis resources.
     <td>Started: Sun Apr 10 22:30:04 2016 +0200</td>
     <td>Latest: Sun Jun 7 12:02:53 2020 +0200</td></tr>
 <tr><td>Commits: 312</td>
-    <td>Stargazers: 2078</td>
-    <td>Watchers: 2078</td>
+    <td>Stargazers: 2079</td>
+    <td>Watchers: 2079</td>
     <td>Forks: 451</td></tr>
 </table>
 
@@ -4311,9 +4311,9 @@ SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全
     <td>Started: Wed May 20 17:18:45 2020 +0800</td>
     <td>Latest: Sat Jun 6 15:00:27 2020 +0800</td></tr>
 <tr><td>Commits: 25</td>
-    <td>Stargazers: 1304</td>
-    <td>Watchers: 1304</td>
-    <td>Forks: 313</td></tr>
+    <td>Stargazers: 1311</td>
+    <td>Watchers: 1311</td>
+    <td>Forks: 314</td></tr>
 </table>
 
 ---
@@ -4330,7 +4330,7 @@ DOSA is a data object abstraction layer
     <td>Language: Go</td>
     <td>Started: Thu Jan 5 11:48:17 2017 -0800</td>
     <td>Latest: Fri Jun 5 10:08:23 2020 -0700</td></tr>
-<tr><td>Commits: 541</td>
+<tr><td>Commits: 550</td>
     <td>Stargazers: 168</td>
     <td>Watchers: 168</td>
     <td>Forks: 37</td></tr>
@@ -4391,8 +4391,8 @@ This Pinyin Analysis plugin is used to do conversion between Chinese characters 
     <td>Started: Tue May 22 18:49:58 2012 +0800</td>
     <td>Latest: Tue Jun 2 22:03:41 2020 +0800</td></tr>
 <tr><td>Commits: 176</td>
-    <td>Stargazers: 1834</td>
-    <td>Watchers: 1834</td>
+    <td>Stargazers: 1837</td>
+    <td>Watchers: 1837</td>
     <td>Forks: 400</td></tr>
 </table>
 
@@ -4451,8 +4451,8 @@ Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every r
     <td>Started: Wed Jul 31 11:39:00 2019 -0700</td>
     <td>Latest: Thu May 28 14:48:07 2020 -0700</td></tr>
 <tr><td>Commits: 38</td>
-    <td>Stargazers: 406</td>
-    <td>Watchers: 406</td>
+    <td>Stargazers: 407</td>
+    <td>Watchers: 407</td>
     <td>Forks: 75</td></tr>
 </table>
 
@@ -4491,8 +4491,8 @@ https://github.com/1120362990/vulnerability-list
     <td>Started: Sat Oct 27 14:55:37 2018 +0800</td>
     <td>Latest: Thu May 28 10:13:47 2020 +0800</td></tr>
 <tr><td>Commits: 114</td>
-    <td>Stargazers: 613</td>
-    <td>Watchers: 613</td>
+    <td>Stargazers: 614</td>
+    <td>Watchers: 614</td>
     <td>Forks: 133</td></tr>
 </table>
 
@@ -4571,9 +4571,9 @@ Advanced vulnerability scanning with Nmap NSE
     <td>Started: Fri Mar 10 13:32:51 2017 +0100</td>
     <td>Latest: Fri May 22 08:22:01 2020 +0200</td></tr>
 <tr><td>Commits: 76</td>
-    <td>Stargazers: 1721</td>
-    <td>Watchers: 1721</td>
-    <td>Forks: 427</td></tr>
+    <td>Stargazers: 1727</td>
+    <td>Watchers: 1727</td>
+    <td>Forks: 428</td></tr>
 </table>
 
 ---
@@ -4631,8 +4631,8 @@ SSD Secure Disclosure Advisories
     <td>Started: Sun Mar 17 14:15:23 2019 +0200</td>
     <td>Latest: Tue May 19 13:43:16 2020 +0300</td></tr>
 <tr><td>Commits: 93</td>
-    <td>Stargazers: 112</td>
-    <td>Watchers: 112</td>
+    <td>Stargazers: 113</td>
+    <td>Watchers: 113</td>
     <td>Forks: 29</td></tr>
 </table>
 
@@ -4671,8 +4671,8 @@ https://github.com/sensepost/godoh
     <td>Started: Tue Oct 23 23:41:46 2018 +0200</td>
     <td>Latest: Sun May 17 13:22:03 2020 +0200</td></tr>
 <tr><td>Commits: 21</td>
-    <td>Stargazers: 367</td>
-    <td>Watchers: 367</td>
+    <td>Stargazers: 368</td>
+    <td>Watchers: 368</td>
     <td>Forks: 73</td></tr>
 </table>
 
@@ -4791,9 +4791,9 @@ Miscellaneous exploit code
     <td>Started: Thu Mar 5 11:15:07 2015 +0000</td>
     <td>Latest: Thu May 7 21:20:14 2020 +0200</td></tr>
 <tr><td>Commits: 159</td>
-    <td>Stargazers: 1082</td>
-    <td>Watchers: 1082</td>
-    <td>Forks: 505</td></tr>
+    <td>Stargazers: 1085</td>
+    <td>Watchers: 1085</td>
+    <td>Forks: 506</td></tr>
 </table>
 
 ---
@@ -4851,8 +4851,8 @@ Post Exploitation Collection
     <td>Started: Sat Aug 25 08:22:55 2012 -0700</td>
     <td>Latest: Fri May 1 13:31:34 2020 -0400</td></tr>
 <tr><td>Commits: 96</td>
-    <td>Stargazers: 1345</td>
-    <td>Watchers: 1345</td>
+    <td>Stargazers: 1347</td>
+    <td>Watchers: 1347</td>
     <td>Forks: 341</td></tr>
 </table>
 
@@ -4931,9 +4931,9 @@ Java runtime metadata analysis
     <td>Started: Tue Apr 16 09:19:27 2013 -0700</td>
     <td>Latest: Sun Apr 26 21:33:56 2020 +0700</td></tr>
 <tr><td>Commits: 193</td>
-    <td>Stargazers: 3408</td>
-    <td>Watchers: 3408</td>
-    <td>Forks: 565</td></tr>
+    <td>Stargazers: 3412</td>
+    <td>Watchers: 3412</td>
+    <td>Forks: 566</td></tr>
 </table>
 
 ---
@@ -5131,8 +5131,8 @@ A fast vulnerability scanner
     <td>Started: Fri Nov 13 15:41:10 2015 +0800</td>
     <td>Latest: Sun Apr 19 20:11:50 2020 +0800</td></tr>
 <tr><td>Commits: 44</td>
-    <td>Stargazers: 1087</td>
-    <td>Watchers: 1087</td>
+    <td>Stargazers: 1088</td>
+    <td>Watchers: 1088</td>
     <td>Forks: 464</td></tr>
 </table>
 
@@ -5213,7 +5213,7 @@ PocketHub Android App
 <tr><td>Commits: 3529</td>
     <td>Stargazers: 9475</td>
     <td>Watchers: 9475</td>
-    <td>Forks: 3606</td></tr>
+    <td>Forks: 3605</td></tr>
 </table>
 
 ---
@@ -5271,8 +5271,8 @@ null
     <td>Started: Tue Aug 20 14:13:39 2019 +0200</td>
     <td>Latest: Mon Apr 6 09:59:48 2020 -0400</td></tr>
 <tr><td>Commits: 12</td>
-    <td>Stargazers: 91</td>
-    <td>Watchers: 91</td>
+    <td>Stargazers: 92</td>
+    <td>Watchers: 92</td>
     <td>Forks: 19</td></tr>
 </table>
 
@@ -5311,8 +5311,8 @@ My proof-of-concept exploits for the Linux kernel
     <td>Started: Mon Feb 22 01:32:09 2016 +0300</td>
     <td>Latest: Tue Mar 31 01:36:03 2020 +0200</td></tr>
 <tr><td>Commits: 10</td>
-    <td>Stargazers: 1116</td>
-    <td>Watchers: 1116</td>
+    <td>Stargazers: 1118</td>
+    <td>Watchers: 1118</td>
     <td>Forks: 365</td></tr>
 </table>
 
@@ -5331,8 +5331,8 @@ Automated Mass Exploiter
     <td>Started: Tue Jan 30 17:47:18 2018 +0000</td>
     <td>Latest: Mon Mar 30 19:20:36 2020 +0000</td></tr>
 <tr><td>Commits: 290</td>
-    <td>Stargazers: 4227</td>
-    <td>Watchers: 4227</td>
+    <td>Stargazers: 4229</td>
+    <td>Watchers: 4229</td>
     <td>Forks: 1084</td></tr>
 </table>
 
@@ -5351,8 +5351,8 @@ linux-kernel-exploits Linux平台提权漏洞集合
     <td>Started: Tue Apr 25 12:55:23 2017 +0800</td>
     <td>Latest: Mon Mar 30 15:25:49 2020 +0800</td></tr>
 <tr><td>Commits: 113</td>
-    <td>Stargazers: 3579</td>
-    <td>Watchers: 3579</td>
+    <td>Stargazers: 3581</td>
+    <td>Watchers: 3581</td>
     <td>Forks: 1485</td></tr>
 </table>
 
@@ -5373,7 +5373,7 @@ PocketSphinx is a lightweight speech recognition engine, specifically tuned for 
 <tr><td>Commits: 1526</td>
     <td>Stargazers: 2690</td>
     <td>Watchers: 2690</td>
-    <td>Forks: 572</td></tr>
+    <td>Forks: 571</td></tr>
 </table>
 
 ---
@@ -5431,9 +5431,9 @@ Wiki to collect Red Team infrastructure hardening resources
     <td>Started: Thu Feb 23 17:21:49 2017 -0800</td>
     <td>Latest: Tue Mar 24 14:37:22 2020 -0700</td></tr>
 <tr><td>Commits: 115</td>
-    <td>Stargazers: 2447</td>
-    <td>Watchers: 2447</td>
-    <td>Forks: 651</td></tr>
+    <td>Stargazers: 2450</td>
+    <td>Watchers: 2450</td>
+    <td>Forks: 652</td></tr>
 </table>
 
 ---
@@ -5591,8 +5591,8 @@ A pretty sweet vulnerability scanner
     <td>Started: Fri Oct 18 08:58:26 2019 -0700</td>
     <td>Latest: Tue Mar 10 14:43:18 2020 -0700</td></tr>
 <tr><td>Commits: 102</td>
-    <td>Stargazers: 3175</td>
-    <td>Watchers: 3175</td>
+    <td>Stargazers: 3177</td>
+    <td>Watchers: 3177</td>
     <td>Forks: 217</td></tr>
 </table>
 
@@ -5631,8 +5631,8 @@ https://github.com/lessfish/underscore-analysis
     <td>Started: Sun Apr 10 16:35:09 2016 +0800</td>
     <td>Latest: Thu Mar 5 15:26:40 2020 +0800</td></tr>
 <tr><td>Commits: 107</td>
-    <td>Stargazers: 3817</td>
-    <td>Watchers: 3817</td>
+    <td>Stargazers: 3819</td>
+    <td>Watchers: 3819</td>
     <td>Forks: 659</td></tr>
 </table>
 
@@ -5771,9 +5771,9 @@ Pwn stuff.
     <td>Started: Sat Sep 28 17:02:57 2019 +0300</td>
     <td>Latest: Sat Feb 22 12:49:44 2020 +0300</td></tr>
 <tr><td>Commits: 11</td>
-    <td>Stargazers: 898</td>
-    <td>Watchers: 898</td>
-    <td>Forks: 237</td></tr>
+    <td>Stargazers: 905</td>
+    <td>Watchers: 905</td>
+    <td>Forks: 239</td></tr>
 </table>
 
 ---
@@ -5791,8 +5791,8 @@ The POCO C++ Libraries are powerful cross-platform C++ libraries for building ne
     <td>Started: Tue Jul 11 16:33:40 2006 +0000</td>
     <td>Latest: Mon Feb 17 11:47:53 2020 +0100</td></tr>
 <tr><td>Commits: 8227</td>
-    <td>Stargazers: 4763</td>
-    <td>Watchers: 4763</td>
+    <td>Stargazers: 4769</td>
+    <td>Watchers: 4769</td>
     <td>Forks: 1484</td></tr>
 </table>
 
@@ -5871,9 +5871,9 @@ A comprehensive curated list of available Bug Bounty & Disclosure Programs and W
     <td>Started: Sun Feb 14 04:30:35 2016 +0530</td>
     <td>Latest: Sat Feb 15 15:40:08 2020 +0530</td></tr>
 <tr><td>Commits: 84</td>
-    <td>Stargazers: 2506</td>
-    <td>Watchers: 2506</td>
-    <td>Forks: 650</td></tr>
+    <td>Stargazers: 2507</td>
+    <td>Watchers: 2507</td>
+    <td>Forks: 651</td></tr>
 </table>
 
 ---
@@ -6071,8 +6071,8 @@ Display macOS Dock in Touch Bar
     <td>Started: Sun Sep 10 20:56:00 2017 +0200</td>
     <td>Latest: Tue Jan 21 15:05:57 2020 +0100</td></tr>
 <tr><td>Commits: 411</td>
-    <td>Stargazers: 8207</td>
-    <td>Watchers: 8207</td>
+    <td>Stargazers: 8213</td>
+    <td>Watchers: 8213</td>
     <td>Forks: 317</td></tr>
 </table>
 
@@ -6471,8 +6471,8 @@ Script for orchestrating mana rogue WiFi Access Points.
     <td>Started: Sat Sep 28 08:32:49 2013 +0300</td>
     <td>Latest: Wed Nov 20 15:12:20 2019 +0200</td></tr>
 <tr><td>Commits: 378</td>
-    <td>Stargazers: 109</td>
-    <td>Watchers: 109</td>
+    <td>Stargazers: 111</td>
+    <td>Watchers: 111</td>
     <td>Forks: 15</td></tr>
 </table>
 
@@ -6511,8 +6511,8 @@ Cloud Container Attack Tool (CCAT) is a tool for testing security of container e
     <td>Started: Wed Jul 31 10:12:34 2019 -0700</td>
     <td>Latest: Sun Nov 17 11:16:23 2019 -0800</td></tr>
 <tr><td>Commits: 183</td>
-    <td>Stargazers: 273</td>
-    <td>Watchers: 273</td>
+    <td>Stargazers: 274</td>
+    <td>Watchers: 274</td>
     <td>Forks: 44</td></tr>
 </table>
 
@@ -6731,9 +6731,9 @@ https://github.com/rwv/chinese-dos-games
     <td>Started: Thu Aug 30 22:12:12 2018 +0800</td>
     <td>Latest: Tue Oct 22 19:58:01 2019 +0800</td></tr>
 <tr><td>Commits: 125</td>
-    <td>Stargazers: 5569</td>
-    <td>Watchers: 5569</td>
-    <td>Forks: 604</td></tr>
+    <td>Stargazers: 5574</td>
+    <td>Watchers: 5574</td>
+    <td>Forks: 605</td></tr>
 </table>
 
 ---
@@ -6751,8 +6751,8 @@ Tweets metadata scraper & activity analyzer
     <td>Started: Tue Jan 24 17:56:12 2017 +0100</td>
     <td>Latest: Mon Oct 21 14:40:15 2019 +0200</td></tr>
 <tr><td>Commits: 55</td>
-    <td>Stargazers: 2627</td>
-    <td>Watchers: 2627</td>
+    <td>Stargazers: 2630</td>
+    <td>Watchers: 2630</td>
     <td>Forks: 456</td></tr>
 </table>
 
@@ -6811,8 +6811,8 @@ Open Source Vulnerability Disclosure Framework. Maintained by Bugcrowd.
     <td>Started: Wed Jul 23 23:02:41 2014 -0700</td>
     <td>Latest: Sat Oct 12 08:47:38 2019 -0700</td></tr>
 <tr><td>Commits: 12</td>
-    <td>Stargazers: 124</td>
-    <td>Watchers: 124</td>
+    <td>Stargazers: 123</td>
+    <td>Watchers: 123</td>
     <td>Forks: 45</td></tr>
 </table>
 
@@ -6871,8 +6871,8 @@ OWASP Joomla Vulnerability Scanner Project
     <td>Started: Thu Sep 1 13:36:17 2016 +0430</td>
     <td>Latest: Wed Oct 2 17:52:55 2019 +0330</td></tr>
 <tr><td>Commits: 71</td>
-    <td>Stargazers: 583</td>
-    <td>Watchers: 583</td>
+    <td>Stargazers: 585</td>
+    <td>Watchers: 585</td>
     <td>Forks: 172</td></tr>
 </table>
 
@@ -6911,9 +6911,9 @@ DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers 
     <td>Started: Fri Mar 2 13:03:34 2018 -0800</td>
     <td>Latest: Mon Sep 23 19:01:28 2019 -0700</td></tr>
 <tr><td>Commits: 20</td>
-    <td>Stargazers: 971</td>
-    <td>Watchers: 971</td>
-    <td>Forks: 405</td></tr>
+    <td>Stargazers: 973</td>
+    <td>Watchers: 973</td>
+    <td>Forks: 404</td></tr>
 </table>
 
 ---
@@ -6951,9 +6951,9 @@ This project has stopped to maintenance, please to https://github.com/knownsec/p
     <td>Started: Sun Aug 23 01:49:36 2015 +0800</td>
     <td>Latest: Wed Sep 11 17:51:44 2019 +0800</td></tr>
 <tr><td>Commits: 457</td>
-    <td>Stargazers: 1687</td>
-    <td>Watchers: 1687</td>
-    <td>Forks: 617</td></tr>
+    <td>Stargazers: 1688</td>
+    <td>Watchers: 1688</td>
+    <td>Forks: 618</td></tr>
 </table>
 
 ---
@@ -6971,8 +6971,8 @@ Plug-in type web vulnerability scanner
     <td>Started: Wed Dec 20 21:50:38 2017 +0800</td>
     <td>Latest: Tue Sep 10 18:43:46 2019 +0800</td></tr>
 <tr><td>Commits: 261</td>
-    <td>Stargazers: 934</td>
-    <td>Watchers: 934</td>
+    <td>Stargazers: 936</td>
+    <td>Watchers: 936</td>
     <td>Forks: 346</td></tr>
 </table>
 
@@ -7011,8 +7011,8 @@ Scanner PoC for CVE-2019-0708 RDP RCE vuln
     <td>Started: Tue May 21 18:08:45 2019 -0600</td>
     <td>Latest: Fri Sep 6 11:37:32 2019 -0600</td></tr>
 <tr><td>Commits: 56</td>
-    <td>Stargazers: 1118</td>
-    <td>Watchers: 1118</td>
+    <td>Stargazers: 1120</td>
+    <td>Watchers: 1120</td>
     <td>Forks: 378</td></tr>
 </table>
 
@@ -7151,8 +7151,8 @@ Exploits written by the Rhino Security Labs team
     <td>Started: Thu Nov 3 22:53:26 2016 +0530</td>
     <td>Latest: Thu Aug 8 13:28:37 2019 -0700</td></tr>
 <tr><td>Commits: 68</td>
-    <td>Stargazers: 809</td>
-    <td>Watchers: 809</td>
+    <td>Stargazers: 810</td>
+    <td>Watchers: 810</td>
     <td>Forks: 239</td></tr>
 </table>
 
@@ -7211,9 +7211,9 @@ Empire is a PowerShell and Python post-exploitation agent.
     <td>Started: Wed Aug 5 14:25:57 2015 -0400</td>
     <td>Latest: Wed Jul 31 21:57:47 2019 -0400</td></tr>
 <tr><td>Commits: 1836</td>
-    <td>Stargazers: 5639</td>
-    <td>Watchers: 5639</td>
-    <td>Forks: 2063</td></tr>
+    <td>Stargazers: 5646</td>
+    <td>Watchers: 5646</td>
+    <td>Forks: 2064</td></tr>
 </table>
 
 ---
@@ -7271,9 +7271,9 @@ Xerxes dos tool enhanced
     <td>Started: Fri Mar 23 15:08:25 2018 +0400</td>
     <td>Latest: Sat Jul 20 19:40:06 2019 +0400</td></tr>
 <tr><td>Commits: 259</td>
-    <td>Stargazers: 132</td>
-    <td>Watchers: 132</td>
-    <td>Forks: 72</td></tr>
+    <td>Stargazers: 133</td>
+    <td>Watchers: 133</td>
+    <td>Forks: 73</td></tr>
 </table>
 
 ---
@@ -7291,9 +7291,9 @@ A `.git` folder disclosure exploit
     <td>Started: Wed Apr 29 12:09:06 2015 +0800</td>
     <td>Latest: Tue Jul 16 15:07:15 2019 +0800</td></tr>
 <tr><td>Commits: 10</td>
-    <td>Stargazers: 1655</td>
-    <td>Watchers: 1655</td>
-    <td>Forks: 633</td></tr>
+    <td>Stargazers: 1659</td>
+    <td>Watchers: 1659</td>
+    <td>Forks: 634</td></tr>
 </table>
 
 ---
@@ -7311,8 +7311,8 @@ Striker is an offensive information and vulnerability scanner.
     <td>Started: Mon Oct 30 12:38:03 2017 +0530</td>
     <td>Latest: Wed Jul 10 16:47:59 2019 +0530</td></tr>
 <tr><td>Commits: 85</td>
-    <td>Stargazers: 1591</td>
-    <td>Watchers: 1591</td>
+    <td>Stargazers: 1593</td>
+    <td>Watchers: 1593</td>
     <td>Forks: 368</td></tr>
 </table>
 
@@ -7331,8 +7331,8 @@ This book on heap exploitation is a guide to understanding the internals of glib
     <td>Started: Fri Apr 7 02:41:52 2017 +0530</td>
     <td>Latest: Thu Jun 27 23:24:46 2019 -0700</td></tr>
 <tr><td>Commits: 56</td>
-    <td>Stargazers: 1013</td>
-    <td>Watchers: 1013</td>
+    <td>Stargazers: 1014</td>
+    <td>Watchers: 1014</td>
     <td>Forks: 109</td></tr>
 </table>
 
@@ -7591,8 +7591,8 @@ An Automatic Model Compression (AutoMC) framework for developing smaller and fas
     <td>Started: Wed Oct 31 20:39:11 2018 +0800</td>
     <td>Latest: Tue May 28 10:57:14 2019 +0800</td></tr>
 <tr><td>Commits: 214</td>
-    <td>Stargazers: 2546</td>
-    <td>Watchers: 2546</td>
+    <td>Stargazers: 2545</td>
+    <td>Watchers: 2545</td>
     <td>Forks: 484</td></tr>
 </table>
 
@@ -7651,8 +7651,8 @@ The Leading Security Assessment Framework for Android.
     <td>Started: Fri Feb 24 20:58:33 2012 +0200</td>
     <td>Latest: Sun May 12 20:47:50 2019 +0100</td></tr>
 <tr><td>Commits: 1096</td>
-    <td>Stargazers: 2332</td>
-    <td>Watchers: 2332</td>
+    <td>Stargazers: 2335</td>
+    <td>Watchers: 2335</td>
     <td>Forks: 605</td></tr>
 </table>
 
@@ -7691,8 +7691,8 @@ Easily deploy your own personal VPN server with DNS adblocking running on Digita
     <td>Started: Sat Apr 8 12:10:18 2017 -0700</td>
     <td>Latest: Mon May 6 19:31:40 2019 -0700</td></tr>
 <tr><td>Commits: 52</td>
-    <td>Stargazers: 275</td>
-    <td>Watchers: 275</td>
+    <td>Stargazers: 277</td>
+    <td>Watchers: 277</td>
     <td>Forks: 40</td></tr>
 </table>
 
@@ -7731,8 +7731,8 @@ A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads fi
     <td>Started: Tue Jan 24 19:50:14 2017 +0800</td>
     <td>Latest: Mon May 6 11:20:19 2019 +0800</td></tr>
 <tr><td>Commits: 7</td>
-    <td>Stargazers: 656</td>
-    <td>Watchers: 656</td>
+    <td>Stargazers: 657</td>
+    <td>Watchers: 657</td>
     <td>Forks: 178</td></tr>
 </table>
 
@@ -7791,9 +7791,9 @@ https://github.com/rwv/chinese-dos-games-web
     <td>Started: Tue Sep 18 00:46:49 2018 +0800</td>
     <td>Latest: Sat Apr 20 22:55:35 2019 +0800</td></tr>
 <tr><td>Commits: 13</td>
-    <td>Stargazers: 747</td>
-    <td>Watchers: 747</td>
-    <td>Forks: 181</td></tr>
+    <td>Stargazers: 749</td>
+    <td>Watchers: 749</td>
+    <td>Forks: 182</td></tr>
 </table>
 
 ---
@@ -7893,7 +7893,7 @@ Analysis implementation of android open source project, 微信公众号:codekk, 
 <tr><td>Commits: 1061</td>
     <td>Stargazers: 6631</td>
     <td>Watchers: 6631</td>
-    <td>Forks: 2287</td></tr>
+    <td>Forks: 2286</td></tr>
 </table>
 
 ---
@@ -7931,9 +7931,9 @@ spark ml 算法原理剖析以及具体的源码实现分析
     <td>Started: Fri Jan 8 21:39:03 2016 +0800</td>
     <td>Latest: Mon Mar 25 21:24:10 2019 +0800</td></tr>
 <tr><td>Commits: 650</td>
-    <td>Stargazers: 1770</td>
-    <td>Watchers: 1770</td>
-    <td>Forks: 828</td></tr>
+    <td>Stargazers: 1771</td>
+    <td>Watchers: 1771</td>
+    <td>Forks: 829</td></tr>
 </table>
 
 ---
@@ -7991,8 +7991,8 @@ Course materials for Modern Binary Exploitation by RPISEC
     <td>Started: Mon Jun 22 04:36:01 2015 -0400</td>
     <td>Latest: Thu Mar 21 22:13:05 2019 -0400</td></tr>
 <tr><td>Commits: 31</td>
-    <td>Stargazers: 4160</td>
-    <td>Watchers: 4160</td>
+    <td>Stargazers: 4164</td>
+    <td>Watchers: 4164</td>
     <td>Forks: 757</td></tr>
 </table>
 
@@ -8311,8 +8311,8 @@ https://github.com/huaban/jieba-analysis
     <td>Started: Mon Aug 5 03:06:04 2013 -0700</td>
     <td>Latest: Thu Feb 14 08:21:01 2019 +0800</td></tr>
 <tr><td>Commits: 108</td>
-    <td>Stargazers: 1743</td>
-    <td>Watchers: 1743</td>
+    <td>Stargazers: 1744</td>
+    <td>Watchers: 1744</td>
     <td>Forks: 669</td></tr>
 </table>
 
@@ -8631,8 +8631,8 @@ some sort of ddos-tools
     <td>Started: Thu Oct 13 09:44:58 2016 +0800</td>
     <td>Latest: Wed Nov 28 00:18:51 2018 +0800</td></tr>
 <tr><td>Commits: 25</td>
-    <td>Stargazers: 362</td>
-    <td>Watchers: 362</td>
+    <td>Stargazers: 363</td>
+    <td>Watchers: 363</td>
     <td>Forks: 192</td></tr>
 </table>
 
@@ -8653,7 +8653,7 @@ null
 <tr><td>Commits: 92</td>
     <td>Stargazers: 1595</td>
     <td>Watchers: 1595</td>
-    <td>Forks: 674</td></tr>
+    <td>Forks: 675</td></tr>
 </table>
 
 ---
@@ -8731,9 +8731,9 @@ The original sources of MS-DOS 1.25 and 2.0, for reference purposes
     <td>Started: Fri Sep 21 17:47:37 2018 -0700</td>
     <td>Latest: Mon Nov 5 17:11:42 2018 -0800</td></tr>
 <tr><td>Commits: 96</td>
-    <td>Stargazers: 15487</td>
-    <td>Watchers: 15487</td>
-    <td>Forks: 2359</td></tr>
+    <td>Stargazers: 15493</td>
+    <td>Watchers: 15493</td>
+    <td>Forks: 2358</td></tr>
 </table>
 
 ---
@@ -8851,8 +8851,8 @@ Snyk's public vulnerability database
     <td>Started: Wed Dec 2 02:18:02 2015 +0200</td>
     <td>Latest: Sun Sep 16 15:26:27 2018 +0300</td></tr>
 <tr><td>Commits: 439</td>
-    <td>Stargazers: 342</td>
-    <td>Watchers: 342</td>
+    <td>Stargazers: 341</td>
+    <td>Watchers: 341</td>
     <td>Forks: 54</td></tr>
 </table>
 
@@ -8931,8 +8931,8 @@ massive SQL injection vulnerability scanner
     <td>Started: Thu Jun 11 22:34:41 2015 +0630</td>
     <td>Latest: Tue Aug 14 19:28:45 2018 +0800</td></tr>
 <tr><td>Commits: 249</td>
-    <td>Stargazers: 807</td>
-    <td>Watchers: 807</td>
+    <td>Stargazers: 809</td>
+    <td>Watchers: 809</td>
     <td>Forks: 323</td></tr>
 </table>
 
@@ -9171,8 +9171,8 @@ Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
     <td>Started: Fri Jun 24 11:33:21 2016 +0200</td>
     <td>Latest: Mon Jun 11 19:07:13 2018 +0200</td></tr>
 <tr><td>Commits: 83</td>
-    <td>Stargazers: 2370</td>
-    <td>Watchers: 2370</td>
+    <td>Stargazers: 2371</td>
+    <td>Watchers: 2371</td>
     <td>Forks: 468</td></tr>
 </table>
 
@@ -9271,8 +9271,8 @@ Aggressor scripts for use with Cobalt Strike 3.0+
     <td>Started: Wed Apr 13 01:16:12 2016 -0700</td>
     <td>Latest: Wed May 30 15:20:21 2018 -0700</td></tr>
 <tr><td>Commits: 49</td>
-    <td>Stargazers: 437</td>
-    <td>Watchers: 437</td>
+    <td>Stargazers: 438</td>
+    <td>Watchers: 438</td>
     <td>Forks: 130</td></tr>
 </table>
 
@@ -9511,8 +9511,8 @@ A Python Framework For NoSQL Scanning and Exploitation
     <td>Started: Thu Dec 26 09:46:11 2013 -0800</td>
     <td>Latest: Thu Apr 26 10:29:40 2018 +0530</td></tr>
 <tr><td>Commits: 195</td>
-    <td>Stargazers: 566</td>
-    <td>Watchers: 566</td>
+    <td>Stargazers: 567</td>
+    <td>Watchers: 567</td>
     <td>Forks: 146</td></tr>
 </table>
 
@@ -9573,7 +9573,7 @@ PowerForensics provides an all in one platform for live disk forensic analysis
 <tr><td>Commits: 272</td>
     <td>Stargazers: 1015</td>
     <td>Watchers: 1015</td>
-    <td>Forks: 248</td></tr>
+    <td>Forks: 249</td></tr>
 </table>
 
 ---
@@ -9651,8 +9651,8 @@ Cmd.exe Command Obfuscation Generator & Detection Test Harness
     <td>Started: Mon Mar 19 09:49:17 2018 -0700</td>
     <td>Latest: Tue Mar 27 08:16:17 2018 -0400</td></tr>
 <tr><td>Commits: 7</td>
-    <td>Stargazers: 497</td>
-    <td>Watchers: 497</td>
+    <td>Stargazers: 499</td>
+    <td>Watchers: 499</td>
     <td>Forks: 88</td></tr>
 </table>
 
@@ -9791,8 +9791,8 @@ Notes for taking the OSCP in 2097. Read in book form on GitBook
     <td>Started: Mon Jul 4 10:52:59 2016 +0200</td>
     <td>Latest: Sun Feb 18 22:22:03 2018 +0000</td></tr>
 <tr><td>Commits: 346</td>
-    <td>Stargazers: 471</td>
-    <td>Watchers: 471</td>
+    <td>Stargazers: 472</td>
+    <td>Watchers: 472</td>
     <td>Forks: 174</td></tr>
 </table>
 
@@ -10091,8 +10091,8 @@ Legacy PocketMine-MP repository. Head to https://github.com/pmmp for up to date 
     <td>Started: Fri Oct 19 02:21:54 2012 +0200</td>
     <td>Latest: Sun Dec 31 12:05:38 2017 +0000</td></tr>
 <tr><td>Commits: 4723</td>
-    <td>Stargazers: 1233</td>
-    <td>Watchers: 1233</td>
+    <td>Stargazers: 1234</td>
+    <td>Watchers: 1234</td>
     <td>Forks: 687</td></tr>
 </table>
 
@@ -10111,8 +10111,8 @@ poc or exp of android vulnerability
     <td>Started: Mon Nov 28 14:30:37 2016 +0800</td>
     <td>Latest: Sat Dec 30 13:12:29 2017 +0800</td></tr>
 <tr><td>Commits: 25</td>
-    <td>Stargazers: 353</td>
-    <td>Watchers: 353</td>
+    <td>Stargazers: 354</td>
+    <td>Watchers: 354</td>
     <td>Forks: 110</td></tr>
 </table>
 
@@ -10251,8 +10251,8 @@ android sdk 源码解析——旨在帮助Android开发者更好的学习Android
     <td>Started: Wed Apr 20 21:51:24 2016 +0800</td>
     <td>Latest: Thu Nov 9 14:23:49 2017 +0800</td></tr>
 <tr><td>Commits: 251</td>
-    <td>Stargazers: 5990</td>
-    <td>Watchers: 5990</td>
+    <td>Stargazers: 5991</td>
+    <td>Watchers: 5991</td>
     <td>Forks: 1433</td></tr>
 </table>
 
@@ -10291,8 +10291,8 @@ https://github.com/sensepost/DET
     <td>Started: Tue Mar 8 18:19:19 2016 +0100</td>
     <td>Latest: Fri Nov 3 10:50:53 2017 +0200</td></tr>
 <tr><td>Commits: 31</td>
-    <td>Stargazers: 735</td>
-    <td>Watchers: 735</td>
+    <td>Stargazers: 736</td>
+    <td>Watchers: 736</td>
     <td>Forks: 193</td></tr>
 </table>
 
@@ -10531,8 +10531,8 @@ One-off scripts
     <td>Started: Wed May 13 19:36:06 2015 -0600</td>
     <td>Latest: Mon Sep 4 16:39:01 2017 -0700</td></tr>
 <tr><td>Commits: 13</td>
-    <td>Stargazers: 38</td>
-    <td>Watchers: 38</td>
+    <td>Stargazers: 39</td>
+    <td>Watchers: 39</td>
     <td>Forks: 23</td></tr>
 </table>
 
@@ -10611,8 +10611,8 @@ null
     <td>Started: Wed Mar 25 20:32:02 2015 -0700</td>
     <td>Latest: Tue Aug 15 22:40:59 2017 -0700</td></tr>
 <tr><td>Commits: 8</td>
-    <td>Stargazers: 53</td>
-    <td>Watchers: 53</td>
+    <td>Stargazers: 54</td>
+    <td>Watchers: 54</td>
     <td>Forks: 27</td></tr>
 </table>
 
@@ -10631,8 +10631,8 @@ Scripts and resources for Red Teaming at CCDC competitions
     <td>Started: Wed Mar 25 20:50:36 2015 -0700</td>
     <td>Latest: Tue Aug 15 22:40:08 2017 -0700</td></tr>
 <tr><td>Commits: 10</td>
-    <td>Stargazers: 69</td>
-    <td>Watchers: 69</td>
+    <td>Stargazers: 70</td>
+    <td>Watchers: 70</td>
     <td>Forks: 24</td></tr>
 </table>
 
@@ -10671,8 +10671,8 @@ Objective-C websocket library for building things that work in realtime on iOS a
     <td>Started: Wed Feb 19 03:50:22 2014 +1300</td>
     <td>Latest: Mon Aug 14 19:24:59 2017 +1200</td></tr>
 <tr><td>Commits: 101</td>
-    <td>Stargazers: 373</td>
-    <td>Watchers: 373</td>
+    <td>Stargazers: 374</td>
+    <td>Watchers: 374</td>
     <td>Forks: 117</td></tr>
 </table>
 
@@ -10751,8 +10751,8 @@ DC25 5A1F - Demystifying Windows Kernel Exploitation by Abusing GDI Objects
     <td>Started: Wed Jul 19 15:36:47 2017 +0100</td>
     <td>Latest: Sun Jul 30 06:13:40 2017 +0100</td></tr>
 <tr><td>Commits: 11</td>
-    <td>Stargazers: 115</td>
-    <td>Watchers: 115</td>
+    <td>Stargazers: 117</td>
+    <td>Watchers: 117</td>
     <td>Forks: 59</td></tr>
 </table>
 
@@ -10851,8 +10851,8 @@ latest version of scanners for IIS short filename (8.3) disclosure vulnerability
     <td>Started: Mon Apr 28 15:25:40 2014 -0700</td>
     <td>Latest: Tue Jul 11 17:05:13 2017 +0100</td></tr>
 <tr><td>Commits: 42</td>
-    <td>Stargazers: 578</td>
-    <td>Watchers: 578</td>
+    <td>Stargazers: 580</td>
+    <td>Watchers: 580</td>
     <td>Forks: 147</td></tr>
 </table>
 
@@ -11031,9 +11031,9 @@ Windows Exploits
     <td>Started: Mon Jun 5 16:39:23 2017 +0100</td>
     <td>Latest: Wed Jun 14 17:30:27 2017 +0100</td></tr>
 <tr><td>Commits: 74</td>
-    <td>Stargazers: 979</td>
-    <td>Watchers: 979</td>
-    <td>Forks: 470</td></tr>
+    <td>Stargazers: 980</td>
+    <td>Watchers: 980</td>
+    <td>Forks: 469</td></tr>
 </table>
 
 ---
@@ -11051,8 +11051,8 @@ a plenty of poc based on python
     <td>Started: Tue Jun 21 15:45:12 2016 +0800</td>
     <td>Latest: Sat Jun 10 17:28:18 2017 +0800</td></tr>
 <tr><td>Commits: 28</td>
-    <td>Stargazers: 285</td>
-    <td>Watchers: 285</td>
+    <td>Stargazers: 286</td>
+    <td>Watchers: 286</td>
     <td>Forks: 180</td></tr>
 </table>
 
@@ -11111,8 +11111,8 @@ Windows exploits, mostly precompiled. Not being updated. Check https://github.co
     <td>Started: Mon May 8 13:02:43 2017 -0700</td>
     <td>Latest: Sun May 21 10:21:47 2017 -0700</td></tr>
 <tr><td>Commits: 12</td>
-    <td>Stargazers: 1144</td>
-    <td>Watchers: 1144</td>
+    <td>Stargazers: 1148</td>
+    <td>Watchers: 1148</td>
     <td>Forks: 494</td></tr>
 </table>
 
@@ -11251,8 +11251,8 @@ null
     <td>Started: Thu Apr 20 11:05:03 2017 +0000</td>
     <td>Latest: Sun Apr 23 15:43:30 2017 +0000</td></tr>
 <tr><td>Commits: 5</td>
-    <td>Stargazers: 622</td>
-    <td>Watchers: 622</td>
+    <td>Stargazers: 625</td>
+    <td>Watchers: 625</td>
     <td>Forks: 236</td></tr>
 </table>
 
@@ -11351,9 +11351,9 @@ JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitatio
     <td>Started: Sun Nov 30 13:56:15 2014 -0300</td>
     <td>Latest: Mon Mar 27 22:34:04 2017 -0300</td></tr>
 <tr><td>Commits: 86</td>
-    <td>Stargazers: 1631</td>
-    <td>Watchers: 1631</td>
-    <td>Forks: 528</td></tr>
+    <td>Stargazers: 1632</td>
+    <td>Watchers: 1632</td>
+    <td>Forks: 529</td></tr>
 </table>
 
 ---
@@ -11511,8 +11511,8 @@ Various PoCs
     <td>Started: Tue Nov 8 18:30:09 2016 -0300</td>
     <td>Latest: Wed Feb 1 23:48:50 2017 +0100</td></tr>
 <tr><td>Commits: 2</td>
-    <td>Stargazers: 481</td>
-    <td>Watchers: 481</td>
+    <td>Stargazers: 482</td>
+    <td>Watchers: 482</td>
     <td>Forks: 219</td></tr>
 </table>
 
@@ -11551,8 +11551,8 @@ Malleable C2 profiles for Cobalt Strike
     <td>Started: Mon Dec 19 22:07:12 2016 -0800</td>
     <td>Latest: Fri Jan 20 00:45:06 2017 -0800</td></tr>
 <tr><td>Commits: 2</td>
-    <td>Stargazers: 45</td>
-    <td>Watchers: 45</td>
+    <td>Stargazers: 47</td>
+    <td>Watchers: 47</td>
     <td>Forks: 15</td></tr>
 </table>
 
@@ -11891,8 +11891,8 @@ DNS-Shell is an interactive Shell over DNS channel
     <td>Started: Wed Oct 5 14:51:30 2016 +0100</td>
     <td>Latest: Wed Oct 5 15:05:33 2016 +0100</td></tr>
 <tr><td>Commits: 3</td>
-    <td>Stargazers: 432</td>
-    <td>Watchers: 432</td>
+    <td>Stargazers: 434</td>
+    <td>Watchers: 434</td>
     <td>Forks: 121</td></tr>
 </table>
 
@@ -12091,8 +12091,8 @@ Android源码设计模式分析项目
     <td>Started: Sat Feb 28 14:20:15 2015 +0800</td>
     <td>Latest: Wed Jul 20 11:40:50 2016 +0800</td></tr>
 <tr><td>Commits: 149</td>
-    <td>Stargazers: 2526</td>
-    <td>Watchers: 2526</td>
+    <td>Stargazers: 2525</td>
+    <td>Watchers: 2525</td>
     <td>Forks: 1499</td></tr>
 </table>
 
@@ -12213,7 +12213,7 @@ poc from bugscan beebeeto
 <tr><td>Commits: 4</td>
     <td>Stargazers: 14</td>
     <td>Watchers: 14</td>
-    <td>Forks: 248</td></tr>
+    <td>Forks: 247</td></tr>
 </table>
 
 ---
@@ -12511,8 +12511,8 @@ Quick python script to automatically load NTLM hashes from Responder logs and fi
     <td>Started: Fri Dec 11 13:28:31 2015 +0000</td>
     <td>Latest: Fri Dec 11 13:28:31 2015 +0000</td></tr>
 <tr><td>Commits: 1</td>
-    <td>Stargazers: 72</td>
-    <td>Watchers: 72</td>
+    <td>Stargazers: 73</td>
+    <td>Watchers: 73</td>
     <td>Forks: 28</td></tr>
 </table>
 
@@ -12873,7 +12873,7 @@ Statistical Data Analysis in Python
 <tr><td>Commits: 41</td>
     <td>Stargazers: 1291</td>
     <td>Watchers: 1291</td>
-    <td>Forks: 888</td></tr>
+    <td>Forks: 887</td></tr>
 </table>
 
 ---
@@ -13511,8 +13511,8 @@ Linux Exploit Suggester; based on operating system release number
     <td>Started: Mon Aug 26 09:31:12 2013 -0700</td>
     <td>Latest: Mon May 19 00:18:10 2014 +0100</td></tr>
 <tr><td>Commits: 36</td>
-    <td>Stargazers: 1443</td>
-    <td>Watchers: 1443</td>
+    <td>Stargazers: 1444</td>
+    <td>Watchers: 1444</td>
     <td>Forks: 407</td></tr>
 </table>
 
@@ -13553,7 +13553,7 @@ Plotting Assignment 1 for Exploratory Data Analysis
 <tr><td>Commits: 3</td>
     <td>Stargazers: 195</td>
     <td>Watchers: 195</td>
-    <td>Forks: 54569</td></tr>
+    <td>Forks: 54592</td></tr>
 </table>
 
 ---
