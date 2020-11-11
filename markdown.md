@@ -1,3 +1,542 @@
+# binitamshah
+**https://twitter.com/binitamshah/status/1325942838245289984 _at Mon Nov 09 23:26:22 +0000 2020_**
+<blockquote>
+Dog : Command-line DNS client : https://t.co/wkV2g1gMfr https://t.co/Pxf3i5aVJj
+</blockquote>
+
+* https://github.com/ogham/dog
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+Emax-DMVkAAqu48.jpg" alt="http://pbs.twimg.com/media/Emax-DMVkAAqu48.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>7</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>90</code></td>
+<td>Favorites: <code>363</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325936887635218433 _at Mon Nov 09 23:02:43 +0000 2020_**
+<blockquote>
+Dump AES keys for Spotify songs from a compatible Windows Spotify version : https://t.co/zAqYldPdqj credits @ProfessorTox
+</blockquote>
+
+* https://gitlab.com/fuck-capitalism/spotifykeydumper
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>18</code></td>
+<td>Favorites: <code>83</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325935382991523840 _at Mon Nov 09 22:56:44 +0000 2020_**
+<blockquote>
+Critical Vulnerabilities Discovered in TCL Android TVs
+
+CVE-2020-27403
+Full file system browsing of the TV in the browser.
+
+CVE-2020-28055
+World writable update folder (malicious updates possible)
+ : https://t.co/nahQGxkhGY 
+
+credits @sickcodes  || @johnjhacking
+</blockquote>
+
+* https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>32</code></td>
+<td>Favorites: <code>79</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325932631062507520 _at Mon Nov 09 22:45:48 +0000 2020_**
+<blockquote>
+Coldfire : Golang malware development library : https://t.co/IgbdjP7Uwt
+</blockquote>
+
+* https://github.com/redcode-labs/Coldfire
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>42</code></td>
+<td>Favorites: <code>161</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325930948223881216 _at Mon Nov 09 22:39:07 +0000 2020_**
+<blockquote>
+Red Kube : a red team cheat sheet based on kubectl commands : https://t.co/qon0qB2aSW credits @AzarzarOr
+</blockquote>
+
+* https://github.com/lightspin-tech/red-kube
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>20</code></td>
+<td>Favorites: <code>49</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325930252464320512 _at Mon Nov 09 22:36:21 +0000 2020_**
+<blockquote>
+Global Socket (gsocket) : moving data from here to there, securely, fast and trough NAT/firewalls : https://t.co/Pv9TDcSIfl credits @hackerschoice https://t.co/6bSdZ3TpSi
+</blockquote>
+
+* https://github.com/hackerschoice/gsocket
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+tweet_video_thumb+EmamaKYVoAAzkPQ.jpg" alt="http://pbs.twimg.com/tweet_video_thumb/EmamaKYVoAAzkPQ.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>29</code></td>
+<td>Favorites: <code>93</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325926835591421953 _at Mon Nov 09 22:22:46 +0000 2020_**
+<blockquote>
+How I found a Tor vulnerability in Brave Browser, reported it, watched it get patched, got a CVE (CVE-2020-8276) and a small bounty, all in one working day : https://t.co/byy6rmUOl7   credits @sickcodes
+</blockquote>
+
+* https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>3</code></td>
+<td>Retweets: <code>51</code></td>
+<td>Favorites: <code>272</code></td>
+</tr></table>
+
+---
+# binitamshah
+**https://twitter.com/binitamshah/status/1325926011490365440 _at Mon Nov 09 22:19:30 +0000 2020_**
+<blockquote>
+First Contributions : Complete guide on how to contribute to open-source projects : https://t.co/zAI8UkTG8A
+</blockquote>
+
+* https://github.com/firstcontributions/first-contributions
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>16</code></td>
+<td>Favorites: <code>49</code></td>
+</tr></table>
+
+---
+# zyn3rgy
+**https://twitter.com/zyn3rgy/status/1325829707355594753 _at Mon Nov 09 15:56:49 +0000 2020_**
+<blockquote>
+Authenticated RCE against Exchange ECP (CVE-2020-0688) was very prevalent over the past several months during assessments, so I wrote a PoC that will hopefully make scanning and exploitation a little more streamlined.
+
+https://t.co/ftQkiI0cve
+</blockquote>
+
+* https://github.com/zyn3rgy/ecp_slap
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>2</code></td>
+<td>Favorites: <code>2</code></td>
+</tr></table>
+
+---
+# NaserifardA
+**https://twitter.com/NaserifardA/status/1325554616654770176 _at Sun Nov 08 21:43:42 +0000 2020_**
+<blockquote>
+Git-lfs Remote Code Execution (RCE) exploit CVE-2020-27955 (Go version)
+https://t.co/kIov6ZUCN5
+</blockquote>
+
+* https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>1</code></td>
+</tr></table>
+
+---
+# cherepanov74
+**https://twitter.com/cherepanov74/status/1324427068592001025 _at Thu Nov 05 19:03:14 +0000 2020_**
+<blockquote>
+RT @benhawkes: Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE),…
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>458</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# benhawkes
+**https://twitter.com/benhawkes/status/1324422885830610944 _at Thu Nov 05 18:46:37 +0000 2020_**
+<blockquote>
+Apple have fixed three issues reported by Project Zero that were being actively exploited in the wild. CVE-2020-27930 (RCE), CVE-2020-27950 (memory leak), and CVE-2020-27932 (kernel privilege escalation). The security bulletin is available here: https://t.co/4OIReajIp6
+</blockquote>
+
+* https://support.apple.com/en-us/HT211929
+
+<table><tr>
+<td>Quotes: <code>141</code></td>
+<td>Replies: <code>19</code></td>
+<td>Retweets: <code>458</code></td>
+<td>Favorites: <code>989</code></td>
+</tr></table>
+
+---
+# ptracesecurity
+**https://twitter.com/ptracesecurity/status/1324373761592799232 _at Thu Nov 05 15:31:25 +0000 2020_**
+<blockquote>
+Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc.  https://t.co/J5t48uTufk  #Windows #RCE #Exploit #CVE #CyberSecurity #Infosec https://t.co/whawKUIU44
+</blockquote>
+
+* https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EmEe6sfX0AA3q0e.jpg" alt="http://pbs.twimg.com/media/EmEe6sfX0AA3q0e.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+EmEe6sDXEAAcXmR.jpg" alt="http://pbs.twimg.com/media/EmEe6sDXEAAcXmR.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>15</code></td>
+<td>Favorites: <code>26</code></td>
+</tr></table>
+
+---
+# cyber_advising
+**https://twitter.com/cyber_advising/status/1324294177140711425 _at Thu Nov 05 10:15:10 +0000 2020_**
+<blockquote>
+CVE-2020-27955: Git-lfs Remote Code Execution (RCE) 
+Vulnerable: git, GitHub CLI (gh), GitHub Desktop, Visual Studio Code, SourceTree, SmartGit, GitKraken etc.
+PoC
+https://t.co/qHplRRz7em
+
+https://t.co/vey4E0aWmu https://t.co/izbkxNGoZf
+</blockquote>
+
+* https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go
+* https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EmDWhXMX0AEMV3F.jpg" alt="http://pbs.twimg.com/media/EmDWhXMX0AEMV3F.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>12</code></td>
+<td>Favorites: <code>27</code></td>
+</tr></table>
+
+---
+# Exploit_Box
+**https://twitter.com/Exploit_Box/status/1324198238887514112 _at Thu Nov 05 03:53:57 +0000 2020_**
+<blockquote>
+Git  &amp; GitHub CLI Remote CodeExec #RCE #exploit  via Git LFS CVE-2020-27955 @dawid_golunski
+
+Repo clone to Pwn ;) Full advisory with #PoC at
+https://t.co/n0vnrcSUCg
+
+#cybersecurity #infosec #hacking #security  #0day #git #github cli  #vuln #DevOps https://t.co/516I33RxYd
+</blockquote>
+
+* https://exploitbox.io/vuln/Git-Git-LFS-RCE-Exploit-CVE-2020-27955.html
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+EmB-wsnXYAI_lnZ.jpg" alt="http://pbs.twimg.com/media/EmB-wsnXYAI_lnZ.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>45</code></td>
+<td>Favorites: <code>55</code></td>
+</tr></table>
+
+---
+# VP_helena
+**https://twitter.com/VP_helena/status/1324135694508445696 _at Wed Nov 04 23:45:25 +0000 2020_**
+<blockquote>
+CVE-2020-15999 Chrome Crash POC #chrome #0day #rce
+https://t.co/HItQdZKGgL
+</blockquote>
+
+* https://github.com/marcinguy/CVE-2020-15999
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>1</code></td>
+<td>Favorites: <code>1</code></td>
+</tr></table>
+
+---
+# TimoHirvonen
+**https://twitter.com/TimoHirvonen/status/1324060555536117764 _at Wed Nov 04 18:46:50 +0000 2020_**
+<blockquote>
+How would you exploit this UAF :)?
+
+“Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-2020-1530)”, an instructive blog post by @symeonp:
+https://t.co/AHw1uWdm7e
+</blockquote>
+
+* https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>30</code></td>
+<td>Favorites: <code>65</code></td>
+</tr></table>
+
+---
+# hackerfantastic
+**https://twitter.com/hackerfantastic/status/1324022373255909377 _at Wed Nov 04 16:15:07 +0000 2020_**
+<blockquote>
+CVE-2020-14871 had been exploited and distributed in the wild to numerous groups since at least October 6th 2014. That's 6 years that this vulnerability was available as 0day to multiple non-exclusive parties, VBI leak in HT emails shows it's the same bug. https://t.co/Prh3tm3DHN https://t.co/Efv6jtPFOB
+</blockquote>
+
+* https://wikileaks.org/hackingteam/emails/emailid/45441
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+El_eunGWMAEjthh.jpg" alt="http://pbs.twimg.com/media/El_eunGWMAEjthh.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+El_evvQWMAI8D0s.jpg" alt="http://pbs.twimg.com/media/El_evvQWMAI8D0s.jpg"></td>
+<td><img src="pictures/http+++pbs.twimg.com+media+El_e8ZqWMAAuls_.png" alt="http://pbs.twimg.com/media/El_e8ZqWMAAuls_.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>69</code></td>
+<td>Favorites: <code>127</code></td>
+</tr></table>
+
+---
+# steventseeley
+**https://twitter.com/steventseeley/status/1323694078022848512 _at Tue Nov 03 18:30:35 +0000 2020_**
+<blockquote>
+For those that want to repro CVE-2020-1300 you can just use makecab, no need to manually calc checksums now:
+
+c:\&gt;type files.txt
+"rce.exe" "../../rce.exe"
+c:\&gt;makecab /f files.txt
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>4</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>36</code></td>
+<td>Favorites: <code>137</code></td>
+</tr></table>
+
+---
+# hackerfantastic
+**https://twitter.com/hackerfantastic/status/1323640631613394945 _at Tue Nov 03 14:58:13 +0000 2020_**
+<blockquote>
+Dirty libssh2 PoC for CVE-2020-14871 to core target and pack with your favorite shellcode &amp; return addresses, something for the kidz on lockdown. Happy Hacking. https://t.co/7dqSGjOXqw https://t.co/UtnyDtxx1s
+</blockquote>
+
+* https://github.com/hackerhouse-opensource/exploits/blob/master/prdelka-vs-SUN-sshd.tgz
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+El6D0-hXgAA05eY.jpg" alt="http://pbs.twimg.com/media/El6D0-hXgAA05eY.jpg"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>5</code></td>
+<td>Retweets: <code>101</code></td>
+<td>Favorites: <code>297</code></td>
+</tr></table>
+
+---
+# matarturo
+**https://twitter.com/matarturo/status/1323460543580168192 _at Tue Nov 03 03:02:36 +0000 2020_**
+<blockquote>
+CVE-2020-25668:
+Linux kernel 5.9.2 concurrency use-after-free in vt (PoC)
+https://t.co/f55gEqThwI
+</blockquote>
+
+* https://seclists.org/oss-sec/2020/q4/84?utm_source=dlvr.it&utm_medium=twitter
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>0</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# benhawkes
+**https://twitter.com/benhawkes/status/1323374326150701057 _at Mon Nov 02 21:20:01 +0000 2020_**
+<blockquote>
+Today Chrome fixed two more vulnerabilities that were being actively exploited in the wild (discovered by Project Zero/Google TAG last week). CVE-2020-16009 is a v8 bug used for remote code execution, CVE-2020-16010 is a Chrome sandbox escape for Android. https://t.co/IOhFwT0Wx1
+</blockquote>
+
+* https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html
+
+<table><tr>
+<td>Quotes: <code>10</code></td>
+<td>Replies: <code>5</code></td>
+<td>Retweets: <code>138</code></td>
+<td>Favorites: <code>320</code></td>
+</tr></table>
+
+---
+# anttitikkanen
+**https://twitter.com/anttitikkanen/status/1323371654966349826 _at Mon Nov 02 21:09:24 +0000 2020_**
+<blockquote>
+Another in-the-wild Chrome 0day patched (CVE-2020-16009), reported by @_clem1 from TAG and @5aelo from Project Zero: https://t.co/SP1SR3aXEp
+</blockquote>
+
+* https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop.html
+
+<table><tr>
+<td>Quotes: <code>5</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>30</code></td>
+<td>Favorites: <code>86</code></td>
+</tr></table>
+
+---
+# TheHackersNews
+**https://twitter.com/TheHackersNews/status/1323199634538332162 _at Mon Nov 02 09:45:51 +0000 2020_**
+<blockquote>
+WATCH OUT! Google disclosed details of a new zero-day flaw (CVE-2020-17087) in the Windows operating system that's being actively exploited in the wild.
+
+Details: https://t.co/tgtxsM9N2u
+
+#infosec #cybersecurity
+</blockquote>
+
+* https://thehackernews.com/2020/11/warning-google-discloses-windows-zero.html
+
+<table><tr>
+<td>Quotes: <code>13</code></td>
+<td>Replies: <code>4</code></td>
+<td>Retweets: <code>181</code></td>
+<td>Favorites: <code>225</code></td>
+</tr></table>
+
+---
+# certbund
+**https://twitter.com/certbund/status/1322978362575540232 _at Sun Nov 01 19:06:36 +0000 2020_**
+<blockquote>
+⚠️ Please apply the latest Chromium-based browser security updates (e. g. Chromium, Chrome, Microsoft Edge, Vivaldi) to fix FreeType heap-based buffer overflow CVE-2020-15999 which is actively exploited 🔥
+https://t.co/gm0LrCFEmM
+https://t.co/CB7HHt8FRb
+https://t.co/fu6gPRX1gX
+</blockquote>
+
+* https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html
+* https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV200002
+* https://vivaldi.com/blog/news/minor-update-for-vivaldi-desktop-browser-3-4/
+
+<table><tr>
+<td>Quotes: <code>3</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>27</code></td>
+<td>Favorites: <code>34</code></td>
+</tr></table>
+
+---
+# hackerfantastic
+**https://twitter.com/hackerfantastic/status/1322596727690506241 _at Sat Oct 31 17:50:07 +0000 2020_**
+<blockquote>
+Ah good, in the PoC notes for CVE-2020-14882 posted on github here (https://t.co/YkUA8BnmeE) links to a Chinese vendors homepage stating that the patch for this new WebLogic RCE is ineffective and can be bypassed as 0day. Disable "console/console.portal"  https://t.co/C1LUMIlVun
+</blockquote>
+
+* https://github.com/jas502n/CVE-2020-14882
+* https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A%2F%2Fhelp.aliyun.com%2Fnoticelist%2Farticleid%2F1060738870.html
+
+<table><tr>
+<td>Quotes: <code>2</code></td>
+<td>Replies: <code>1</code></td>
+<td>Retweets: <code>12</code></td>
+<td>Favorites: <code>23</code></td>
+</tr></table>
+
+---
+# campuscodi
+**https://twitter.com/campuscodi/status/1322244795155288064 _at Fri Oct 30 18:31:39 +0000 2020_**
+<blockquote>
+NEW: Google discloses Windows zero-day exploited in the wild
+
+-Impacts Windows 7 up to the latest Windows 10
+-Used together with a Chrome zero-day (patched last week)
+
+Windows zero-day CVE: CVE-2020-17087
+Chrome zero-day CVE: CVE-2020-15999 
+
+https://t.co/hddB1UvqXc https://t.co/y3R9sPU7z7
+</blockquote>
+
+* https://www.zdnet.com/article/google-discloses-windows-zero-day-exploited-in-the-wild/
+
+<table><tr>
+<td><img src="pictures/http+++pbs.twimg.com+media+ElmOCJFW0AAGe_u.png" alt="http://pbs.twimg.com/media/ElmOCJFW0AAGe_u.png"></td>
+</tr></table>
+<table><tr>
+<td>Quotes: <code>13</code></td>
+<td>Replies: <code>6</code></td>
+<td>Retweets: <code>101</code></td>
+<td>Favorites: <code>207</code></td>
+</tr></table>
+
+---
+# AdmVonSchneider
+**https://twitter.com/AdmVonSchneider/status/1322219820423798786 _at Fri Oct 30 16:52:25 +0000 2020_**
+<blockquote>
+RT @benhawkes: In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel…
+</blockquote>
+
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>184</code></td>
+<td>Favorites: <code>0</code></td>
+</tr></table>
+
+---
+# benhawkes
+**https://twitter.com/benhawkes/status/1322206828202127360 _at Fri Oct 30 16:00:47 +0000 2020_**
+<blockquote>
+In addition to last week's Chrome/freetype 0day (CVE-2020-15999), Project Zero also detected and reported the Windows kernel bug (CVE-2020-17087) that was used for a sandbox escape. The technical details of CVE-2020-17087 are now available here: https://t.co/bO451188Mk
+</blockquote>
+
+* https://bugs.chromium.org/p/project-zero/issues/detail?id=2104
+
+<table><tr>
+<td>Quotes: <code>28</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>183</code></td>
+<td>Favorites: <code>365</code></td>
+</tr></table>
+
+---
 # ptracesecurity
 **https://twitter.com/ptracesecurity/status/1321492206067339264 _at Wed Oct 28 16:41:08 +0000 2020_**
 <blockquote>
@@ -143,8 +682,8 @@ In this post I'll go through the exploit of CVE-2020-6449, a use-after-free in b
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>41</code></td>
-<td>Favorites: <code>105</code></td>
+<td>Retweets: <code>45</code></td>
+<td>Favorites: <code>109</code></td>
 </tr></table>
 
 ---
@@ -529,10 +1068,10 @@ Project Zero discovered and reported an actively exploited 0day in freetype that
 * https://chromereleases.googleblog.com/2020/10/stable-channel-update-for-desktop_20.html
 
 <table><tr>
-<td>Quotes: <code>40</code></td>
+<td>Quotes: <code>44</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>233</code></td>
-<td>Favorites: <code>585</code></td>
+<td>Retweets: <code>239</code></td>
+<td>Favorites: <code>603</code></td>
 </tr></table>
 
 ---
@@ -676,7 +1215,7 @@ https://t.co/P3HuTggpYY
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>292</code></td>
-<td>Favorites: <code>575</code></td>
+<td>Favorites: <code>574</code></td>
 </tr></table>
 
 ---
@@ -749,8 +1288,8 @@ https://t.co/DDtLxCo5A3
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>6</code></td>
-<td>Retweets: <code>131</code></td>
-<td>Favorites: <code>199</code></td>
+<td>Retweets: <code>130</code></td>
+<td>Favorites: <code>201</code></td>
 </tr></table>
 
 ---
@@ -790,8 +1329,8 @@ https://t.co/0ck5mrbwaO https://t.co/AOvsBKdGVF
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>85</code></td>
-<td>Favorites: <code>222</code></td>
+<td>Retweets: <code>87</code></td>
+<td>Favorites: <code>220</code></td>
 </tr></table>
 
 ---
@@ -1164,7 +1703,7 @@ https://t.co/TKrrUk4iQB https://t.co/j33DMv59eV
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>41</code></td>
-<td>Favorites: <code>71</code></td>
+<td>Favorites: <code>73</code></td>
 </tr></table>
 
 ---
@@ -1179,8 +1718,8 @@ CVE-2020-12928, Privilege Escalation in AMD Ryzen Master Overclocking Utility Dr
 <table><tr>
 <td>Quotes: <code>11</code></td>
 <td>Replies: <code>14</code></td>
-<td>Retweets: <code>257</code></td>
-<td>Favorites: <code>635</code></td>
+<td>Retweets: <code>255</code></td>
+<td>Favorites: <code>631</code></td>
 </tr></table>
 
 ---
@@ -1194,8 +1733,8 @@ Update your Microsoft software now so your system isn't exploited: CVE-2020-1689
 <table><tr>
 <td>Quotes: <code>26</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>290</code></td>
-<td>Favorites: <code>374</code></td>
+<td>Retweets: <code>287</code></td>
+<td>Favorites: <code>372</code></td>
 </tr></table>
 
 ---
@@ -1231,8 +1770,8 @@ This means that by opening the device directly you can read the raw data without
 <table><tr>
 <td>Quotes: <code>39</code></td>
 <td>Replies: <code>20</code></td>
-<td>Retweets: <code>502</code></td>
-<td>Favorites: <code>1115</code></td>
+<td>Retweets: <code>500</code></td>
+<td>Favorites: <code>1117</code></td>
 </tr></table>
 
 ---
@@ -1261,7 +1800,7 @@ https://t.co/r2uB9AaZ8t https://t.co/bRAK1VYziE
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>17</code></td>
+<td>Retweets: <code>16</code></td>
 <td>Favorites: <code>22</code></td>
 </tr></table>
 
@@ -1303,7 +1842,7 @@ Technical analysis + PoC exploit: https://t.co/sKCiTY1Ver
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>225</code></td>
-<td>Favorites: <code>399</code></td>
+<td>Favorites: <code>400</code></td>
 </tr></table>
 
 ---
@@ -1321,7 +1860,7 @@ https://t.co/0r0s1oqTDg
 <td>Quotes: <code>25</code></td>
 <td>Replies: <code>5</code></td>
 <td>Retweets: <code>228</code></td>
-<td>Favorites: <code>437</code></td>
+<td>Favorites: <code>434</code></td>
 </tr></table>
 
 ---
@@ -1412,8 +1951,8 @@ POC: https://t.co/9NV9qTy4q5 https://t.co/NQBy4bNwQn
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>100</code></td>
-<td>Favorites: <code>215</code></td>
+<td>Retweets: <code>101</code></td>
+<td>Favorites: <code>214</code></td>
 </tr></table>
 
 ---
@@ -1448,7 +1987,7 @@ We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A
 <td>Quotes: <code>28</code></td>
 <td>Replies: <code>13</code></td>
 <td>Retweets: <code>456</code></td>
-<td>Favorites: <code>768</code></td>
+<td>Favorites: <code>770</code></td>
 </tr></table>
 
 ---
@@ -1468,7 +2007,7 @@ exploit script: https://t.co/lNE3U40FLk https://t.co/Xiggtl3VY2
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>5</code></td>
-<td>Favorites: <code>35</code></td>
+<td>Favorites: <code>34</code></td>
 </tr></table>
 
 ---
@@ -1483,7 +2022,7 @@ Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>59</code></td>
-<td>Favorites: <code>189</code></td>
+<td>Favorites: <code>188</code></td>
 </tr></table>
 
 ---
@@ -1627,7 +2166,7 @@ I have detected in the wild exploitation of CVE-2020-1472, aka ZeroLogon, in my 
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>10</code></td>
 <td>Retweets: <code>241</code></td>
-<td>Favorites: <code>490</code></td>
+<td>Favorites: <code>493</code></td>
 </tr></table>
 
 ---
@@ -1704,7 +2243,7 @@ A few days ago I analyzed an ITW IE JScript UAF 1day exploit, it had been patche
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>46</code></td>
-<td>Favorites: <code>139</code></td>
+<td>Favorites: <code>137</code></td>
 </tr></table>
 
 ---
@@ -1750,7 +2289,7 @@ https://t.co/OLXCtHd8h7 https://t.co/1B9QVohFxt
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>38</code></td>
-<td>Favorites: <code>78</code></td>
+<td>Favorites: <code>79</code></td>
 </tr></table>
 
 ---
@@ -1856,7 +2395,7 @@ CVSS Score: 8.4
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>61</code></td>
+<td>Retweets: <code>60</code></td>
 <td>Favorites: <code>105</code></td>
 </tr></table>
 
@@ -1937,7 +2476,7 @@ poc (ps-remoting): https://t.co/ziVbNP3jXN
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>221</code></td>
-<td>Favorites: <code>366</code></td>
+<td>Favorites: <code>367</code></td>
 </tr></table>
 
 ---
@@ -2033,7 +2572,7 @@ CVE-2020-1013: Windows Local Privilege Escalation (LPE) with PoC https://t.co/sJ
 <table><tr>
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>36</code></td>
+<td>Retweets: <code>38</code></td>
 <td>Favorites: <code>60</code></td>
 </tr></table>
 
@@ -2138,7 +2677,7 @@ No sandbox escape included but if anybody wants a challenge, chain it with CVE-2
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>148</code></td>
-<td>Favorites: <code>345</code></td>
+<td>Favorites: <code>344</code></td>
 </tr></table>
 
 ---
@@ -2297,7 +2836,7 @@ https://t.co/qo21pj0xii
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>91</code></td>
-<td>Favorites: <code>179</code></td>
+<td>Favorites: <code>178</code></td>
 </tr></table>
 
 ---
@@ -2708,7 +3247,7 @@ Discovery and analysis of a Windows PhoneBook Use-After-Free vulnerability (CVE-
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>20</code></td>
-<td>Favorites: <code>31</code></td>
+<td>Favorites: <code>30</code></td>
 </tr></table>
 
 ---
@@ -3101,7 +3640,7 @@ https://t.co/fQEOI2WZsF https://t.co/ixlAj26tAM
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>45</code></td>
-<td>Favorites: <code>101</code></td>
+<td>Favorites: <code>102</code></td>
 </tr></table>
 
 ---
@@ -3616,7 +4155,7 @@ via @sourceincite
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>164</code></td>
-<td>Favorites: <code>274</code></td>
+<td>Favorites: <code>273</code></td>
 </tr></table>
 
 ---
@@ -3634,7 +4173,7 @@ CVE-2020-1147 full analysis and exploit :-&gt;
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>328</code></td>
-<td>Favorites: <code>624</code></td>
+<td>Favorites: <code>626</code></td>
 </tr></table>
 
 ---
@@ -4245,8 +4784,8 @@ Microsoft has released an update addressing a “wormable” RCE vulnerability, 
 <table><tr>
 <td>Quotes: <code>31</code></td>
 <td>Replies: <code>23</code></td>
-<td>Retweets: <code>514</code></td>
-<td>Favorites: <code>650</code></td>
+<td>Retweets: <code>512</code></td>
+<td>Favorites: <code>647</code></td>
 </tr></table>
 
 ---
@@ -4702,7 +5241,7 @@ An exploitation case study of CVE-2020-1062, a use-after-free vulnerability in I
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>29</code></td>
-<td>Favorites: <code>43</code></td>
+<td>Favorites: <code>44</code></td>
 </tr></table>
 
 ---
@@ -5946,7 +6485,7 @@ Microsoft Windows LNK Remote Code Execution Vulnerability – CVE-2020-1299 htt
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>246</code></td>
-<td>Favorites: <code>435</code></td>
+<td>Favorites: <code>434</code></td>
 </tr></table>
 
 ---
@@ -5984,7 +6523,7 @@ Video: https://t.co/AfFvPUsKQl
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>6</code></td>
 <td>Retweets: <code>40</code></td>
-<td>Favorites: <code>140</code></td>
+<td>Favorites: <code>139</code></td>
 </tr></table>
 
 ---
@@ -6229,6 +6768,29 @@ The Bug Hunter's Methodology (v4 Recon Edition): https://t.co/728N8KYIm3  credit
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>60</code></td>
 <td>Favorites: <code>153</code></td>
+</tr></table>
+
+---
+# CyberWarship
+**https://twitter.com/CyberWarship/status/1274235147861331968 _at Sat Jun 20 06:58:28 +0000 2020_**
+<blockquote>
+A Click from the Backyard | Analysis of CVE-2020-9332, a Vulnerable USB Redirection Software -&gt; UAC Bypass 😎
+
+- great research by @SentinelOne thanks for sharing 
+
+Post &amp; PoC
+https://t.co/9YURglq5ae
+
+#infosec #pentest #exploitDev
+</blockquote>
+
+* https://labs.sentinelone.com/click-from-the-backyard-cve-2020-9332/
+
+<table><tr>
+<td>Quotes: <code>1</code></td>
+<td>Replies: <code>0</code></td>
+<td>Retweets: <code>28</code></td>
+<td>Favorites: <code>38</code></td>
 </tr></table>
 
 ---
@@ -6541,7 +7103,7 @@ Also LPE and Sandbox Escape from Edge renderer on all modern Windows versions. h
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>7</code></td>
 <td>Retweets: <code>285</code></td>
-<td>Favorites: <code>657</code></td>
+<td>Favorites: <code>656</code></td>
 </tr></table>
 
 ---
@@ -6677,7 +7239,7 @@ https://t.co/83VI0nTjnl
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>10</code></td>
 <td>Retweets: <code>298</code></td>
-<td>Favorites: <code>755</code></td>
+<td>Favorites: <code>753</code></td>
 </tr></table>
 
 ---
@@ -6737,8 +7299,8 @@ https://t.co/dNZfQrSgPv https://t.co/0hWG6m8EqU
 <table><tr>
 <td>Quotes: <code>23</code></td>
 <td>Replies: <code>11</code></td>
-<td>Retweets: <code>393</code></td>
-<td>Favorites: <code>707</code></td>
+<td>Retweets: <code>392</code></td>
+<td>Favorites: <code>705</code></td>
 </tr></table>
 
 ---
@@ -6762,8 +7324,8 @@ An unauthenticated attacker (client/server) can also combine it with the "wormab
 <table><tr>
 <td>Quotes: <code>32</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>405</code></td>
-<td>Favorites: <code>617</code></td>
+<td>Retweets: <code>404</code></td>
+<td>Favorites: <code>615</code></td>
 </tr></table>
 
 ---
@@ -6916,7 +7478,7 @@ https://t.co/JUZGkNSHtX https://t.co/Np56UCzUna
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>104</code></td>
+<td>Retweets: <code>103</code></td>
 <td>Favorites: <code>172</code></td>
 </tr></table>
 
@@ -7205,7 +7767,7 @@ See https://t.co/9yMSWNM8VG for more details.
 <td>Quotes: <code>55</code></td>
 <td>Replies: <code>32</code></td>
 <td>Retweets: <code>1238</code></td>
-<td>Favorites: <code>2280</code></td>
+<td>Favorites: <code>2283</code></td>
 </tr></table>
 
 ---
@@ -7284,8 +7846,8 @@ https://t.co/IxCfpjGBqv
 <table><tr>
 <td>Quotes: <code>10</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>214</code></td>
-<td>Favorites: <code>465</code></td>
+<td>Retweets: <code>215</code></td>
+<td>Favorites: <code>467</code></td>
 </tr></table>
 
 ---
@@ -7480,7 +8042,7 @@ https://t.co/OGqwdUs5ZS
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>10</code></td>
 <td>Retweets: <code>313</code></td>
-<td>Favorites: <code>631</code></td>
+<td>Favorites: <code>632</code></td>
 </tr></table>
 
 ---
@@ -7692,7 +8254,7 @@ https://t.co/nISlSQ5n91
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>62</code></td>
-<td>Favorites: <code>157</code></td>
+<td>Favorites: <code>156</code></td>
 </tr></table>
 
 ---
@@ -8109,7 +8671,7 @@ https://t.co/LNwM4dSZ0G https://t.co/hz4V8ESPMv
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>198</code></td>
-<td>Favorites: <code>318</code></td>
+<td>Favorites: <code>316</code></td>
 </tr></table>
 
 ---
@@ -8161,8 +8723,8 @@ We're releasing the exploit code at https://t.co/lKsy4dBkpp https://t.co/YJuQk7Y
 <table><tr>
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>24</code></td>
-<td>Retweets: <code>591</code></td>
-<td>Favorites: <code>1061</code></td>
+<td>Retweets: <code>590</code></td>
+<td>Favorites: <code>1060</code></td>
 </tr></table>
 
 ---
@@ -8297,7 +8859,7 @@ https://t.co/PRJOpXMNWV https://t.co/J2GhIT8xy3
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>84</code></td>
-<td>Favorites: <code>192</code></td>
+<td>Favorites: <code>191</code></td>
 </tr></table>
 
 ---
@@ -8322,8 +8884,8 @@ remotely triggered memory leak bug https://t.co/4tAA9WD6zL
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>94</code></td>
-<td>Favorites: <code>136</code></td>
+<td>Retweets: <code>93</code></td>
+<td>Favorites: <code>135</code></td>
 </tr></table>
 
 ---
@@ -8511,7 +9073,7 @@ Mitigation Guidance available at: https://t.co/MMlBo8BsB0
 <td>Quotes: <code>42</code></td>
 <td>Replies: <code>38</code></td>
 <td>Retweets: <code>669</code></td>
-<td>Favorites: <code>831</code></td>
+<td>Favorites: <code>830</code></td>
 </tr></table>
 
 ---
@@ -8591,7 +9153,7 @@ Our sigma rule to detect this: https://t.co/fXalEL0F6Z
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>140</code></td>
-<td>Favorites: <code>226</code></td>
+<td>Favorites: <code>225</code></td>
 </tr></table>
 
 ---
@@ -8663,8 +9225,8 @@ https://t.co/f0eHDQDoDr
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>82</code></td>
-<td>Favorites: <code>260</code></td>
+<td>Retweets: <code>81</code></td>
+<td>Favorites: <code>259</code></td>
 </tr></table>
 
 ---
@@ -8707,7 +9269,7 @@ https://t.co/t6bmycdUjX https://t.co/n16cHivDMe
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>141</code></td>
-<td>Favorites: <code>293</code></td>
+<td>Favorites: <code>291</code></td>
 </tr></table>
 
 ---
@@ -8757,7 +9319,7 @@ https://t.co/nJRsNUBwmP https://t.co/z6y6f3P5PI
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>68</code></td>
-<td>Favorites: <code>156</code></td>
+<td>Favorites: <code>155</code></td>
 </tr></table>
 
 ---
@@ -8990,7 +9552,7 @@ Proof of Concept Demo Video https://t.co/K3PRkb753s
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>146</code></td>
-<td>Favorites: <code>299</code></td>
+<td>Favorites: <code>300</code></td>
 </tr></table>
 
 ---
@@ -9415,8 +9977,8 @@ Full analysis and exploit for Windows kernel ws2ifsl use-after-free (CVE-2019-12
 <table><tr>
 <td>Quotes: <code>9</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>191</code></td>
-<td>Favorites: <code>328</code></td>
+<td>Retweets: <code>190</code></td>
+<td>Favorites: <code>326</code></td>
 </tr></table>
 
 ---
@@ -9450,8 +10012,8 @@ Here is an exploit for LPE CVE-2019-1184 in case anybody else is interested in t
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>3</code></td>
-<td>Retweets: <code>231</code></td>
-<td>Favorites: <code>447</code></td>
+<td>Retweets: <code>230</code></td>
+<td>Favorites: <code>446</code></td>
 </tr></table>
 
 ---
@@ -9604,7 +10166,7 @@ Details and PoC: https://t.co/Lc1NTtTG3G
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>70</code></td>
+<td>Retweets: <code>69</code></td>
 <td>Favorites: <code>110</code></td>
 </tr></table>
 
@@ -9640,7 +10202,7 @@ Used in #OperationWizardOpium cyberattack, the newly patched Windows 0-day privi
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>87</code></td>
-<td>Favorites: <code>111</code></td>
+<td>Favorites: <code>110</code></td>
 </tr></table>
 
 ---
@@ -9728,7 +10290,7 @@ Here is an exploit chain I wrote for Firefox that gets RCE via CVE-2019-9810 and
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>484</code></td>
-<td>Favorites: <code>1037</code></td>
+<td>Favorites: <code>1033</code></td>
 </tr></table>
 
 ---
@@ -9755,7 +10317,7 @@ Details and PoC — https://t.co/ZowHZY6O1e
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>195</code></td>
+<td>Retweets: <code>193</code></td>
 <td>Favorites: <code>200</code></td>
 </tr></table>
 
@@ -9920,8 +10482,8 @@ POC : https://t.co/K04i2qgxnG
 <table><tr>
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>6</code></td>
-<td>Retweets: <code>39</code></td>
-<td>Favorites: <code>119</code></td>
+<td>Retweets: <code>38</code></td>
+<td>Favorites: <code>117</code></td>
 </tr></table>
 
 ---
@@ -9983,8 +10545,8 @@ Impressive: Someone wrote a compiler which compiles cheats (for Counterstrike) t
 <table><tr>
 <td>Quotes: <code>36</code></td>
 <td>Replies: <code>17</code></td>
-<td>Retweets: <code>518</code></td>
-<td>Favorites: <code>1430</code></td>
+<td>Retweets: <code>511</code></td>
+<td>Favorites: <code>1418</code></td>
 </tr></table>
 
 ---
@@ -10180,8 +10742,8 @@ Read details: https://t.co/oLonGzrR1O https://t.co/uxthA4IOaM
 <table><tr>
 <td>Quotes: <code>10</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>227</code></td>
-<td>Favorites: <code>219</code></td>
+<td>Retweets: <code>224</code></td>
+<td>Favorites: <code>216</code></td>
 </tr></table>
 
 ---
@@ -10214,7 +10776,7 @@ CVE-2019-1082 Windows Local Privileges Escalation. Little Writeup How i found lp
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
 <td>Retweets: <code>130</code></td>
-<td>Favorites: <code>274</code></td>
+<td>Favorites: <code>273</code></td>
 </tr></table>
 
 ---
@@ -10417,7 +10979,7 @@ https://t.co/PXF2R5JtJM https://t.co/cSDetDs4Gz
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>6</code></td>
 <td>Retweets: <code>135</code></td>
-<td>Favorites: <code>261</code></td>
+<td>Favorites: <code>262</code></td>
 </tr></table>
 
 ---
@@ -10436,7 +10998,7 @@ Demo: https://t.co/SQB4j1IwCF
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>130</code></td>
-<td>Favorites: <code>243</code></td>
+<td>Favorites: <code>242</code></td>
 </tr></table>
 
 ---
@@ -10458,8 +11020,8 @@ Arbitrary file write -&gt; Code execution as System 👌 https://t.co/OKqaZpt8zA
 <table><tr>
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>189</code></td>
-<td>Favorites: <code>383</code></td>
+<td>Retweets: <code>188</code></td>
+<td>Favorites: <code>382</code></td>
 </tr></table>
 
 ---
@@ -10716,8 +11278,8 @@ Here's a PoC video for RCE vulnerability (CVE-2019-1105) in the "Outlook for And
 <table><tr>
 <td>Quotes: <code>10</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>72</code></td>
-<td>Favorites: <code>114</code></td>
+<td>Retweets: <code>70</code></td>
+<td>Favorites: <code>113</code></td>
 </tr></table>
 
 ---
@@ -10838,8 +11400,8 @@ https://t.co/DdO0bztrO5
 <table><tr>
 <td>Quotes: <code>21</code></td>
 <td>Replies: <code>10</code></td>
-<td>Retweets: <code>387</code></td>
-<td>Favorites: <code>497</code></td>
+<td>Retweets: <code>386</code></td>
+<td>Favorites: <code>495</code></td>
 </tr></table>
 
 ---
@@ -10857,7 +11419,7 @@ I've got reliable RCE on Windows 7 / Server 2008 and I have very little experien
 <td>Quotes: <code>18</code></td>
 <td>Replies: <code>16</code></td>
 <td>Retweets: <code>404</code></td>
-<td>Favorites: <code>1126</code></td>
+<td>Favorites: <code>1124</code></td>
 </tr></table>
 
 ---
@@ -10877,7 +11439,7 @@ How to turn CVE-2019-0708 DoS into RCE according to Twitter.
 <table><tr>
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>8</code></td>
-<td>Retweets: <code>31</code></td>
+<td>Retweets: <code>30</code></td>
 <td>Favorites: <code>166</code></td>
 </tr></table>
 
@@ -10928,7 +11490,7 @@ In a new guest blog, the folks from Trend Micro Research provide an in-depth ana
 <td>Quotes: <code>13</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>236</code></td>
-<td>Favorites: <code>352</code></td>
+<td>Favorites: <code>350</code></td>
 </tr></table>
 
 ---
@@ -11452,7 +12014,7 @@ https://t.co/rfxH9bmsGN
 <td>Quotes: <code>12</code></td>
 <td>Replies: <code>18</code></td>
 <td>Retweets: <code>217</code></td>
-<td>Favorites: <code>644</code></td>
+<td>Favorites: <code>641</code></td>
 </tr></table>
 
 ---
@@ -11525,7 +12087,7 @@ https://t.co/oQTuky95zx
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>33</code></td>
-<td>Favorites: <code>71</code></td>
+<td>Favorites: <code>72</code></td>
 </tr></table>
 
 ---
@@ -11648,9 +12210,9 @@ Patched Chrome version 72.0.3626.121 has been released for Windows, macOS, Linux
 </tr></table>
 <table><tr>
 <td>Quotes: <code>65</code></td>
-<td>Replies: <code>14</code></td>
-<td>Retweets: <code>639</code></td>
-<td>Favorites: <code>501</code></td>
+<td>Replies: <code>13</code></td>
+<td>Retweets: <code>638</code></td>
+<td>Favorites: <code>500</code></td>
 </tr></table>
 
 ---
@@ -11749,7 +12311,7 @@ Initial  writeup: https://t.co/Jd5BrMN2zv
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>134</code></td>
-<td>Favorites: <code>252</code></td>
+<td>Favorites: <code>251</code></td>
 </tr></table>
 
 ---
@@ -11766,7 +12328,7 @@ CVE-2019-7221 is a pretty nice guest-triggerable use-after-free in KVM (https://
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>164</code></td>
-<td>Favorites: <code>285</code></td>
+<td>Favorites: <code>284</code></td>
 </tr></table>
 
 ---
@@ -11849,7 +12411,7 @@ Not side channels in SGX but this time we can hide real malware in SGX.
 <td>Quotes: <code>16</code></td>
 <td>Replies: <code>9</code></td>
 <td>Retweets: <code>238</code></td>
-<td>Favorites: <code>403</code></td>
+<td>Favorites: <code>402</code></td>
 </tr></table>
 
 ---
@@ -11926,8 +12488,8 @@ https://t.co/IUWnx1mgZM https://t.co/M72aT42a5J
 <table><tr>
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
-<td>Retweets: <code>111</code></td>
-<td>Favorites: <code>179</code></td>
+<td>Retweets: <code>110</code></td>
+<td>Favorites: <code>178</code></td>
 </tr></table>
 
 ---
@@ -11949,8 +12511,8 @@ Exploitation of such flaw could have been mitigated if APT was using HTTPS https
 <table><tr>
 <td>Quotes: <code>36</code></td>
 <td>Replies: <code>7</code></td>
-<td>Retweets: <code>355</code></td>
-<td>Favorites: <code>402</code></td>
+<td>Retweets: <code>353</code></td>
+<td>Favorites: <code>400</code></td>
 </tr></table>
 
 ---
@@ -12040,6 +12602,24 @@ https://t.co/9gm0qPK4Z3
 </tr></table>
 
 ---
+# bchavez
+**https://twitter.com/bchavez/status/1080989375335256064 _at Fri Jan 04 00:48:45 +0000 2019_**
+<blockquote>
+We tracked down a massive memory leak in ASPNET 2.2's new routing code: https://t.co/0FdKrDxWZD
+
+I kinda enjoy tracking down memory leaks; elusive bugs are fun to discover especially in Microsoft's code ;) #dotnet #AspNetCore
+</blockquote>
+
+* https://github.com/aspnet/AspNetCore/issues/6102
+
+<table><tr>
+<td>Quotes: <code>0</code></td>
+<td>Replies: <code>2</code></td>
+<td>Retweets: <code>14</code></td>
+<td>Favorites: <code>34</code></td>
+</tr></table>
+
+---
 # Dinosn
 **https://twitter.com/Dinosn/status/1079656697197670401 _at Mon Dec 31 08:33:10 +0000 2018_**
 <blockquote>
@@ -12101,7 +12681,7 @@ Hmm, LinusHenze's webkit exploit seems to have a quite interesting potential, es
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>7</code></td>
 <td>Retweets: <code>19</code></td>
-<td>Favorites: <code>108</code></td>
+<td>Favorites: <code>107</code></td>
 </tr></table>
 
 ---
@@ -12123,7 +12703,7 @@ Figure out XAML part yourself ;-) one can find pretty easily, code says itself.
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>34</code></td>
-<td>Favorites: <code>63</code></td>
+<td>Favorites: <code>62</code></td>
 </tr></table>
 
 ---
@@ -12162,7 +12742,7 @@ Adobe has yesterday released an emergency update to patch it. https://t.co/igRAJ
 <table><tr>
 <td>Quotes: <code>25</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>170</code></td>
+<td>Retweets: <code>169</code></td>
 <td>Favorites: <code>132</code></td>
 </tr></table>
 
@@ -12178,7 +12758,7 @@ CVE-2018-15982 (Adobe Flash 0day from Hacking Team) will lead to mass exploitati
 <td>Quotes: <code>3</code></td>
 <td>Replies: <code>5</code></td>
 <td>Retweets: <code>54</code></td>
-<td>Favorites: <code>108</code></td>
+<td>Favorites: <code>109</code></td>
 </tr></table>
 
 ---
@@ -12289,7 +12869,7 @@ Promised, full exploitation  process of : TALOS-2018-0636 (CVE-2018-3971) -Hitma
 <td>Quotes: <code>4</code></td>
 <td>Replies: <code>2</code></td>
 <td>Retweets: <code>173</code></td>
-<td>Favorites: <code>219</code></td>
+<td>Favorites: <code>218</code></td>
 </tr></table>
 
 ---
@@ -12308,7 +12888,7 @@ OpenBSD #0day Xorg LPE via CVE-2018-14665 can be triggered from a remote SSH ses
 <td>Quotes: <code>24</code></td>
 <td>Replies: <code>22</code></td>
 <td>Retweets: <code>425</code></td>
-<td>Favorites: <code>547</code></td>
+<td>Favorites: <code>548</code></td>
 </tr></table>
 
 ---
@@ -12346,7 +12926,7 @@ Overwrite shadow (or any) file on most Linux, get root privileges. *BSD and any 
 <table><tr>
 <td>Quotes: <code>64</code></td>
 <td>Replies: <code>25</code></td>
-<td>Retweets: <code>962</code></td>
+<td>Retweets: <code>959</code></td>
 <td>Favorites: <code>1383</code></td>
 </tr></table>
 
@@ -12459,8 +13039,8 @@ Proof-of-Concept Exploits Released. https://t.co/5nbpdNDfsl
 <table><tr>
 <td>Quotes: <code>23</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>482</code></td>
-<td>Favorites: <code>447</code></td>
+<td>Retweets: <code>480</code></td>
+<td>Favorites: <code>446</code></td>
 </tr></table>
 
 ---
@@ -12573,8 +13153,8 @@ Whereas, @Microsoft's advisory says CVE-2018-15967 is a remote code execution bu
 <table><tr>
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>9</code></td>
-<td>Retweets: <code>73</code></td>
-<td>Favorites: <code>72</code></td>
+<td>Retweets: <code>72</code></td>
+<td>Favorites: <code>71</code></td>
 </tr></table>
 
 ---
@@ -12606,7 +13186,7 @@ CVE-2018-8120 Windows LPE PoC https://t.co/9DukP6tAVo
 <td>Quotes: <code>1</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>113</code></td>
-<td>Favorites: <code>199</code></td>
+<td>Favorites: <code>198</code></td>
 </tr></table>
 
 ---
@@ -12648,8 +13228,8 @@ https://t.co/0Bd3aGLuZe via @037 https://t.co/SadelFQ1Zh
 <table><tr>
 <td>Quotes: <code>17</code></td>
 <td>Replies: <code>4</code></td>
-<td>Retweets: <code>401</code></td>
-<td>Favorites: <code>523</code></td>
+<td>Retweets: <code>400</code></td>
+<td>Favorites: <code>524</code></td>
 </tr></table>
 
 ---
@@ -12697,7 +13277,7 @@ https://t.co/WK1U78N9Hz
 <td>Quotes: <code>8</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>368</code></td>
-<td>Favorites: <code>517</code></td>
+<td>Favorites: <code>516</code></td>
 </tr></table>
 
 ---
@@ -12788,7 +13368,7 @@ I'll be presenting "Crashing to root: How to escape the iOS sandbox using abort(
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>26</code></td>
 <td>Retweets: <code>316</code></td>
-<td>Favorites: <code>984</code></td>
+<td>Favorites: <code>978</code></td>
 </tr></table>
 
 ---
@@ -12842,7 +13422,7 @@ BeRoot For Windows : a post exploitation tool to check common Windows misconfigu
 <td>Quotes: <code>6</code></td>
 <td>Replies: <code>3</code></td>
 <td>Retweets: <code>367</code></td>
-<td>Favorites: <code>739</code></td>
+<td>Favorites: <code>741</code></td>
 </tr></table>
 
 ---
@@ -13031,7 +13611,7 @@ Dell SupportAssist driver vuln to SYSTEM local privilege escalation https://t.co
 <td>Quotes: <code>5</code></td>
 <td>Replies: <code>4</code></td>
 <td>Retweets: <code>153</code></td>
-<td>Favorites: <code>248</code></td>
+<td>Favorites: <code>247</code></td>
 </tr></table>
 
 ---
@@ -13168,8 +13748,8 @@ CredSSP RDP flaw affects all versions of Windows. https://t.co/EXPAvQw4Kl
 <table><tr>
 <td>Quotes: <code>14</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>380</code></td>
-<td>Favorites: <code>406</code></td>
+<td>Retweets: <code>378</code></td>
+<td>Favorites: <code>405</code></td>
 </tr></table>
 
 ---
@@ -13233,7 +13813,7 @@ https://t.co/41B0sprlyV
 <table><tr>
 <td>Quotes: <code>12</code></td>
 <td>Replies: <code>16</code></td>
-<td>Retweets: <code>487</code></td>
+<td>Retweets: <code>486</code></td>
 <td>Favorites: <code>646</code></td>
 </tr></table>
 
@@ -13363,7 +13943,7 @@ https://t.co/I1GyqK2FWt https://t.co/ryF7lEFwoQ
 <td>Quotes: <code>7</code></td>
 <td>Replies: <code>8</code></td>
 <td>Retweets: <code>209</code></td>
-<td>Favorites: <code>244</code></td>
+<td>Favorites: <code>245</code></td>
 </tr></table>
 
 ---
@@ -13429,7 +14009,7 @@ https://t.co/BHZmGipTWD
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
 <td>Retweets: <code>31</code></td>
-<td>Favorites: <code>44</code></td>
+<td>Favorites: <code>45</code></td>
 </tr></table>
 
 ---
@@ -13488,8 +14068,8 @@ PE timestamp: 20110311 😱 https://t.co/AWmMtI0SsI
 <table><tr>
 <td>Quotes: <code>9</code></td>
 <td>Replies: <code>5</code></td>
-<td>Retweets: <code>183</code></td>
-<td>Favorites: <code>226</code></td>
+<td>Retweets: <code>184</code></td>
+<td>Favorites: <code>225</code></td>
 </tr></table>
 
 ---
@@ -13539,8 +14119,8 @@ my black hat Asia 2017 slides,https://t.co/6fdewMwk1x, and bypass ASLR in Micros
 <table><tr>
 <td>Quotes: <code>0</code></td>
 <td>Replies: <code>0</code></td>
-<td>Retweets: <code>72</code></td>
-<td>Favorites: <code>91</code></td>
+<td>Retweets: <code>73</code></td>
+<td>Favorites: <code>92</code></td>
 </tr></table>
 
 ---
@@ -13649,7 +14229,7 @@ https://t.co/GBPq3mCwJE https://t.co/K0JLQQXccN
 <table><tr>
 <td>Quotes: <code>2</code></td>
 <td>Replies: <code>1</code></td>
-<td>Retweets: <code>136</code></td>
+<td>Retweets: <code>135</code></td>
 <td>Favorites: <code>142</code></td>
 </tr></table>
 
